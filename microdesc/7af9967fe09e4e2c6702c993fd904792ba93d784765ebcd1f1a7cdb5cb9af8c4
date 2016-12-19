@@ -1,0 +1,9 @@
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAK1hFNsMBiXglO04rtgcvssQXLwHP5r1Viavhyp/ANlvCaSFUIm3H4ZW
+fqq+U3puLQmmP66XCr+uXWttQY07Dvlkgio0fnFgohffexcfMmTyOQ4SHgWbyvTO
+Zwe4BaprEj3pAVnPF0P5F/OZNL/1GATvk0S/uCqPAVY1RJyyOX7HAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key XG4iExB1Bhwl//cEd/azIghDSwn880A0Ux9an0mB1n4=
+p accept 22,53,123,990,993-995,1194,5061,5222,5269,6660-6697
+id rsa1024 uamD36mLkJ0A0vbvarPaYhA0Or4

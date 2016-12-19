@@ -1,0 +1,52 @@
+router morethan19charsplz 84.230.116.73 9001 0 9030
+platform Tor 0.1.0.15 on Windows XP
+published 2005-12-16 00:09:10
+opt fingerprint 32E0 2F9C 7BAA 0272 1B01 6288 F7E9 9E6E 22F4 3A2E
+uptime 2402
+bandwidth 20480 5242880 69572
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMHCK/I39SICWYULkqJ3FjL+JRsfvAX9UWjdJESsJgTtZEA5SBX+Mjvz
+cGyc/1PiG4qSU5Mvwi0pVFJK8LOTsPwjTqvQZXT/lP/2t/nRZLeCO7LjhlnRVWTH
+2szFBbFkq/XICfm7LaT3Nh1knCl5WeqCJCeOELGw637HS24L/+xxAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKFuO4KgnUvKOSDvSm8LxhOjxpOt3J7eeZN2RCO503w94fFVBQphD3vl
+M7mA3RE06Z9OiIfY3ESgmHUsXbUVR609Jr7pFgfiPJiEz7sRKY+gMWRRjnHZVJgj
+MnMERt3iqLtUK8S37U73n+2I6SuB8+4L2OhViFtk1cvkZVE7bhi1AgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt write-history 2005-12-15 23:58:56 (900 s) 2037774,1350340,18162315,15026611,11410502,13724635,12996808,13372564,10982097,15896624
+opt read-history  2005-12-15 23:58:56 (900 s) 4483099,2056713,20260994,20394461,18106497,18114018,18146999,18081379,18063360,18095966
+contact Random Person <nyyssitunnus AT gmail com>
+reject *:6660-6667
+accept *:4661-4666
+accept *:6881-6999
+reject 10.0.0.0/255.0.0.0:*
+reject 169.254.0.0/255.255.0.0:*
+reject 192.168.0.0/255.255.0.0:*
+reject 172.16.0.0/255.240.0.0:*
+reject 0.0.0.0/255.0.0.0:*
+reject 169.254.0.0/255.255.0.0:*
+reject 127.0.0.0/255.0.0.0:*
+reject 192.168.0.0/255.255.0.0:*
+reject 10.0.0.0/255.0.0.0:*
+reject 172.16.0.0/255.240.0.0:*
+reject *:
+52reject *:119
+reject *:135-139
+reject *:445
+reject *:465
+reject *:587
+reject *:1214
+reject *:4661-4666
+reject *:6346-6429
+reject *:6699
+reject *:6881-6999
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+agegeanR/ALbcmkXgmQ7jso/A1zcBoSLfaLHSmxECmjEQBZIOObTQd6Ygol5nl2c
+JNw3x6Iq/uTlnT5IoPoTlbbbsrj4HzcamsxvGAGHOm3woQwbdmDx3+Ogfab+hNN8
+UX4UWFPl+IUWP03obZypriFqbxmNRU50ZPyfbjVwP1o=
+-----END SIGNATURE-----

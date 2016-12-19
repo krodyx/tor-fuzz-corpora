@@ -1,0 +1,71 @@
+router squirrel 213.146.114.96 9001 0 0
+platform Tor 0.2.0.20-rc (r13715) on Linux x86_64
+opt protocols Link 1 Circuit 1
+published 2008-02-26 06:47:33
+opt fingerprint D9BE C727 32A4 C904 C2B7 13BD 4565 C438 1935 22E5
+uptime 26
+bandwidth 20480 51200 0
+opt extra-info-digest 35CAE3062E6D634106FC5909FFE753E62535ED97
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALrdvuMOeFKJ7LAF0jLvrt7aXtUy/f6KBosmiGrt57n0TEnaRxPm38tT
+A+S49YrrdXwmcaoHDZKVBHmvXz6tcF+PD/ELputrc6BB0V6fLoUO9myAGhnUDEkC
+sxAbG5RTpMOgvQ8T4IjD5Hsa5m2VpC9lm92gjHK+3PPwAmTmg0MjAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANqr+7MXe9mS3M3yUhYns5egKQCiRSCwjg23kSa3lnJqMQ27KOIcwQci
+l+HDeczDq+Nzr0czbI87asV3yZcSf5b1dOuG870BktIc+ehNVrzl4emqprb/S1nJ
+ZewxYEFq2QI9HE0679Acas/FVnXyuAiNFb/trKASJl+CxZTiP+frAgMBAAE=
+-----END RSA PUBLIC KEY-----
+contact 1024D/E2F6123CBB68B43F [tor-admin AT squirrel.theremailer.net]
+reject 0.0.0.0/8:*
+reject 169.254.0.0/16:*
+reject 127.0.0.0/8:*
+reject 192.168.0.0/16:*
+reject 10.0.0.0/8:*
+reject 172.16.0.0/12:*
+reject 213.146.114.96:*
+accept *:22
+accept *:43
+accept *:53
+accept *:63
+accept *:70
+accept *:79
+accept *:322
+accept *:465
+accept *:537
+accept *:554
+accept *:563
+accept *:614
+accept *:636
+accept *:706
+accept *:765
+accept *:873
+accept *:992
+accept *:993
+accept *:994
+accept *:995
+accept *:1024
+accept *:1194
+accept *:1755
+accept *:2401
+accept *:3389
+accept *:3690
+accept *:5222
+accept *:5223
+accept *:5999
+accept *:6097
+accept *:6697
+accept *:7070
+accept *:8554
+accept *:9418
+accept *:11371
+accept *:48099
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+iWExFjMm8QO4JSzL0thNvEuBjVwUTWAJsbSuuOjzth8c0t+kcF9Nj6vPYEUS5fG+
+2EcNoE4cJ6E4IjxBVc8+Gczo3/nxcXr3GkjR7bZYJaei1foWyFeU/qSUx1Tj4iOK
+SpTv5C7HdOz3a1Xa+OjWiKTHZfATHxoCDywIzlrunKM=
+-----END SIGNATURE-----

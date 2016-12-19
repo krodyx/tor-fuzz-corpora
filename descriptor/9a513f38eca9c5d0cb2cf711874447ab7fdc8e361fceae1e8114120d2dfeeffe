@@ -1,0 +1,38 @@
+router morethan19charsplz 84.230.116.73 9001 0 9030
+platform Tor 0.1.0.15 on Windows XP
+published 2005-12-16 00:09:10
+opt fingerprint 32E0 2F9C 7BAA 0272 1B01 6288 F7E9 9E6E 22F4 3A2E
+uptime 2402
+bandwidth 20480 524288ead-history  2005-12-15 23:58:56 (900 s) 4483099,2056713,20260994,20394461,18106497,18114018,18146999,18081379,18063360,18095966
+contact Random Person <nyyssitunnus AT gmail com>
+reject *:6660-6667
+accept *:4661-4666
+accept *:6881-6999
+reject 10.0.0.0/255.0.0.0:*
+reject 169.254.0.0/255.255.0.0:*
+reject 192.168.0.0/255.255.0.0:*
+reject 172.16.0.0/255.240.0.0:*
+reject 0.0.0.0/255.0.0.0:*
+reject 169.254.0.0/255.255.0.0:*
+reject 127.0.0.0/255.0.0.0:*
+reject 192.168.0.0/255.255.0.0:*
+reject 10.0.0.0/255.0.0.0:*
+reject 172.16.0.0/255.240.0.0:*
+reject *:25
+reject *:119
+reject *:135-139
+reject *:445
+reject *:465
+reject *:587
+reject *:1214
+reject *:4661-4666
+reject *:6346-6429
+reject *:6699
+reject *:6881-6999
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+agegeanR/ALbcmkXgmQ7jso/A1zcBoSLfaLHSmxECmjEQBZIOObTQd6Ygol5nl2c
+JNw3x6Iq/uTlnT5IoPoTlbbbsrj4HzcamsxvGAGHOm3woQwbdmDx3+Ogfab+hNN8
+UX4UWFPl+IUWP03obZypriFqbxmNRU50ZPyfbjVwP1o=
+-----END SIGNATURE-----

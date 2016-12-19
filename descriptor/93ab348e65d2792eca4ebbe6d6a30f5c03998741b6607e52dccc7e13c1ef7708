@@ -1,0 +1,198 @@
+router mygosharelay 87.156.99.107 19010 0 19001
+platform Tor 0.1.2.19 on Linux i686
+published 2008-02-17 20:20:13
+opt fingerprint 5766 0D67 495E 9DCA F8D4 8704 3AF6 28A8 C24D 76AA
+uptime 915
+bandwidth 256000 384000 52060
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKWReFcgCmkYmAWyqlAOZeUsOJQgHfMEV8qRPKPbvhIyBqqjozko3jLA
+36txRNqhjazBoGBhF0rt67ZxmSrUV5N1xeg3kPP7qRPPlLLZ2Kslf0+Gc6HALN7i
+0VP8Lg+7EmTI5TKDCIgaXILd5dCyrpqriPCMgXdgS+J5IkFpoxr1AgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMqkQ35o5rJcGTg35EuV+uZH8VKMAVCSMMP+i3JpPSkN70tRmqGZbDwF
+rBgV7WHsRr82kP/N720hJNUQoWa62weNtwkDsP1NxATBMnECJnNLWP8Jo0fvwQWf
+/NJFybvqExiYyPn0gyHJkjvO8ibEx4owrAYSHqjHesofibY+SB35AgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt write-history 2008-02-17 20:19:43 (900 s) 737280
+opt read-history 2008-02-17 20:19:43 (900 s) 3997696
+contact kaipetzke@gmail.com
+reject 169.254.0.0/16:*
+reject 192.168.0.0/16:*
+reject 172.16.0.0/12:*
+reject *:25
+accept 3.0.0.0/8:*
+accept 4.0.0.0/8:*
+accept 6.0.0.0/8:*
+accept 8.0.0.0/8:*
+accept 9.0.0.0/8:*
+accept 11.0.0.0/8:*
+accept 12.0.0.0/8:*
+accept 13.0.0.0/8:*
+accept 14.0.0.0/8:*
+accept 15.0.0.0/8:*
+accept 16.0.0.0/8:*
+accept 17.0.0.0/8:*
+accept 18.0.0.0/8:*
+accept 19.0.0.0/8:*
+accept 20.0.0.0/8:*
+accept 21.0.0.0/8:*
+accept 22.0.0.0/8:*
+accept 24.0.0.0/8:*
+accept 25.0.0.0/8:*
+accept 26.0.0.0/8:*
+accept 28.0.0.0/8:*
+accept 29.0.0.0/8:*
+accept 30.0.0.0/8:*
+accept 32.0.0.0/8:*
+accept 33.0.0.0/8:*
+accept 34.0.0.0/8:*
+accept 35.0.0.0/8:*
+accept 38.0.0.0/8:*
+accept 40.0.0.0/8:*
+accept 41.0.0.0/8:*
+accept 43.0.0.0/8:*
+accept 44.0.0.0/8:*
+accept 45.0.0.0/8:*
+accept 47.0.0.0/8:*
+accept 48.0.0.0/8:*
+accept 49.0.0.0/8:*
+accept 50.0.0.0/8:*
+accept 51.0.0.0/8:*
+accept 52.0.0.0/8:*
+accept 53.0.0.0/8:*
+accept 54.0.0.0/8:*
+accept 55.0.0.0/8:*
+accept 56.0.0.0/8:*
+accept 57.0.0.0/8:*
+accept 58.0.0.0/8:*
+accept 59.0.0.0/8:*
+accept 60.0.0.0/8:*
+accept 61.0.0.0/8:*
+accept 63.0.0.0/8:*
+accept 64.0.0.0/8:*
+accept 65.0.0.0/8:*
+accept 66.0.0.0/8:*
+accept 67.0.0.0/8:*
+accept 68.0.0.0/8:*
+accept 69.0.0.0/8:*
+accept 70.0.0.0/8:*
+accept 71.0.0.0/8:*
+accept 72.0.0.0/8:*
+accept 73.0.0.0/8:*
+accept 74.0.0.0/8:*
+accept 75.0.0.0/8:*
+accept 76.0.0.0/8:*
+accept 96.0.0.0/8:*
+accept 97.0.0.0/8:*
+accept 98.0.0.0/8:*
+accept 99.0.0.0/8:*
+accept 116.0.0.0/8:*
+accept 117.0.0.0/8:*
+accept 118.0.0.0/8:*
+accept 119.0.0.0/8:*
+accept 120.0.0.0/8:*
+accept 121.0.0.0/8:*
+accept 122.0.0.0/8:*
+accept 123.0.0.0/8:*
+accept 124.0.0.0/8:*
+accept 125.0.0.0/8:*
+accept 126.0.0.0/8:*
+accept 128.0.0.0/8:*
+accept 129.0.0.0/8:*
+accept 130.0.0.0/8:*
+accept 131.0.0.0/8:*
+accept 132.0.0.0/8:*
+accept 133.0.0.0/8:*
+accept 134.0.0.0/8:*
+accept 135.0.0.0/8:*
+accept 136.0.0.0/8:*
+accept 137.0.0.0/8:*
+accept 138.0.0.0/8:*
+accept 139.0.0.0/8:*
+accept 140.0.0.0/8:*
+accept 141.0.0.0/8:*
+accept 142.0.0.0/8:*
+accept 143.0.0.0/8:*
+accept 144.0.0.0/8:*
+accept 145.0.0.0/8:*
+accept 146.0.0.0/8:*
+accept 147.0.0.0/8:*
+accept 148.0.0.0/8:*
+accept 149.0.0.0/8:*
+accept 150.0.0.0/8:*
+accept 151.0.0.0/8:*
+accept 152.0.0.0/8:*
+accept 153.0.0.0/8:*
+accept 154.0.0.0/8:*
+accept 155.0.0.0/8:*
+accept 156.0.0.0/8:*
+accept 157.0.0.0/8:*
+accept 158.0.0.0/8:*
+accept 159.0.0.0/8:*
+accept 160.0.0.0/8:*
+accept 161.0.0.0/8:*
+accept 162.0.0.0/8:*
+accept 163.0.0.0/8:*
+accept 164.0.0.0/8:*
+accept 165.0.0.0/8:*
+accept 166.0.0.0/8:*
+accept 167.0.0.0/8:*
+accept 168.0.0.0/8:*
+accept 169.0.0.0/8:*
+accept 170.0.0.0/8:*
+accept 171.0.0.0/8:*
+accept 172.0.0.0/8:*
+accept 188.0.0.0/8:*
+accept 189.0.0.0/8:*
+accept 190.0.0.0/8:*
+accept 191.0.0.0/8:*
+accept 192.0.0.0/8:*
+accept 196.0.0.0/8:*
+accept 198.0.0.0/8:*
+accept 199.0.0.0/8:*
+accept 200.0.0.0/8:*
+accept 201.0.0.0/8:*
+accept 202.0.0.0/8:*
+accept 203.0.0.0/8:*
+accept 204.0.0.0/8:*
+accept 205.0.0.0/8:*
+accept 206.0.0.0/8:*
+accept 207.0.0.0/8:*
+accept 208.0.0.0/8:*
+accept 209.0.0.0/8:*
+accept 210.0.0.0/8:*
+accept 211.0.0.0/8:*
+accept 214.0.0.0/8:*
+accept 215.0.0.0/8:*
+accept 216.0.0.0/8:*
+accept 218.0.0.0/8:*
+accept 219.0.0.0/8:*
+accept 220.0.0.0/8:*
+accept 221.0.0.0/8:*
+accept 222.0.0.0/8:*
+accept 224.0.0.0/8:*
+accept 225.0.0.0/8:*
+accept 226.0.0.0/8:*
+accept 227.0.0.0/8:*
+accept 228.0.0.0/8:*
+accept 229.0.0.0/8:*
+accept 230.0.0.0/8:*
+accept 231.0.0.0/8:*
+accept 232.0.0.0/8:*
+accept 233.0.0.0/8:*
+accept 234.0.0.0/8:*
+accept 235.0.0.0/8:*
+accept 236.0.0.0/8:*
+accept 237.0.0.0/8:*
+accept 238.0.0.0/8:*
+accept 239.0.0.0/8:*
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+LlzDKINXO0fxFhofR7tXwQuzM3qr+NE0wjaPCbP1RZmYDLnS0B4Ds9nLulFKXxAj
+/I0sIg443Bn304hYS9EF1L5GxJzYoyHbr3QnXi966nYbJFcOBsfKEr/Kkqy/5+v5
+mnyInHcqfr9IiiXK4/0649qvkoK0pmZK2oajVMXpTbU=
+-----END SIGNATURE-----

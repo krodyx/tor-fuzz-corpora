@@ -1,0 +1,25 @@
+extra-info NoneRunLong D53793315E290D250E9AFC431A4C9068A1E53C98
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABkmtAW/o9sUaZu0uuRuVqIUHfG+M5Mh+oh4PmhRZoXGjRzQrAQAgBADXMpbL
+JE6g0SFq6BPU+Xeyr55SKp65l4YuMkigpB/LGv/X8TyW0gxOuF0YGoyiEo6aivPQ
+90jO9YK2vBnlgwTZUWyjKEhlhlcaA/HI1e7UsmpmM5Wf16C9NgSCvXSPeAI=
+-----END ED25519 CERT-----
+published 2016-12-14 02:59:31
+write-history 2016-12-13 23:44:38 (14400 s) 18610766848,20089819136,15609797632,20284645376,19783519232,20135887872
+read-history 2016-12-13 23:44:38 (14400 s) 18599568384,20079161344,15592773632,20271680512,19770991616,20112186368
+hidserv-stats-end 2016-12-13 13:21:49 (86400 s)
+hidserv-rend-relayed-cells 2191389 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen 13 delta_f=8 epsilon=0.30 bin_size=8
+cell-stats-end 2016-12-13 19:57:28 (86400 s)
+cell-processed-cells 8661,23,12,10,9,7,5,4,3,1
+cell-queued-cells 0.56,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+cell-time-in-queue 45,0,0,0,0,0,3,3,1,39
+cell-circuits-per-decile 25305
+router-sig-ed25519 7UkzvxjKXNK6joB3SMYVmc2+SGLSB6zqfqmvhL3TXx5PdxMBESlqeAF+cnBHEL8ePN2Gh3k7/TckBF0qMEVIAQ
+router-signature
+-----BEGIN SIGNATURE-----
+uIVT29T72ehrvDW7y1+RLFlux6AHzpwjG+LItJQ0x2DxtOWzSdSau4i8z6gvvkH+
+mIfB9ikM00HlO/6vZZA+ORYBx/LS+H0NCtrV6/yMaDS0lTtKg5nNTePwISdgcBxF
+JCk8bg8yYGbPIGFNX7EmA3fLdl5ltNH7LW778qREncc=
+-----END SIGNATURE-----

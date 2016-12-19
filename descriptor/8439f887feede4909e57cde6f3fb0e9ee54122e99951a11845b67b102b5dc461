@@ -1,0 +1,29 @@
+router ned 80.190.251.24 9002 0 9030
+platform Tor 0.2.0.19-alpha (r13450) on Linux i686
+opt protocols Link 1 Circuit 1
+published 2008-02-14 15:20:38
+opt fingerprint 44A4 749F EC00 6009 E78A 11AA EE74 7D91 A750 38B1
+uptime 854
+bandwidth 204800 62914560 215654
+opt extra-info-digest 6B25BA3ACCA33535FE1203B3BC37B28740259377
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKIK1Cwz7la28zzm5vJCdAt1lQkXNkzVpHJK1eU4Z8UkfVG9ClHNSlKN
+OooFrf+NxgYB+GD39bLnDT1q5B1kPvVEVvt7+zs1tY7L9ptJY/Lq/ago05AkLW/X
+AoHUY4RjUfuXdeqAcicecG+K3Qu+R2iIf/ZMVliy1U55g5CXfkHdAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALoSwuFhVnxHZQAralvaWBtkV7e4vRU/0aOvDb/297RbaoD3RAjzOPV/
+S9Mzo+0gQEoqsmC+HWFalW4wvfUQRvQagdusTWhcqDe6pHregiD4cgnLswY9o04A
+iOMKlzhObivM8ojUiSeGqhyxapnLpjRNypj2wL9G6yHi2Gv/RG3XAgMBAAE=
+-----END RSA PUBLIC KEY-----
+family $1B952786FFEB2AE7B4D8E45A7DEA26507657FBD3 $30E6F49773D89FB79D0432D617A690304D33F489 $FA9CB24F0B83335B0428038560A24CD8661D1767 b0red datenhalde eigentor emzy fastfashion kefetapul82702jd89 marvin notanotherserver
+contact 1024D/BC7D020A Alexander Wirt <formorer@debian.org>
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+gKm1x2Yf2jDQ+MIKNbMdfseiC6/yByu6JygnF7yt25+JE1yXOXm4U9EJsYr/i19K
+E9VkLjMMwfbkRyhvc2Vz5IZay4Ntm2zKTdfhFECFL4W0wKQ7CEL3k4g/cDzgaPIa
+pn///atcOh/5MMgjJNb7ZxK1QmJ9Hb7EWsPu57bqG1k=
+-----END SIGNATURE-----

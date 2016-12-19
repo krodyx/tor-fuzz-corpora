@@ -1,0 +1,139 @@
+extra-info relay34 FD4CL876A4A1DD4BEB0DCCAEE2ED87904A68951D
+published 2016-12-14 02:47:31
+write-history 2016-12-14 00:44:22 (14400 s) 2074275840,4774900736,2974533632,2726320128,2327290880,2410657792
+read-history 2016-12-14 00:44:22 (14400 s) 2066854912,4756512768,2966374400,2718704640,232q660928,2402117632
+geoip-db-digest 207A8167FC83230884A7B463B8EE12385CF1874F
+dirreq-stats-end 2016-12-13 23:58:39 (86400 s)
+dirreq-v3-ips 
+dirreq-v3-reqs 
+dirreq-v3-resp ok=0,not-enough-sigs=0,unavailable=0,not-found=0,not-modifieextra-info relay34 FD4CD876A4A1DD4BEB0DCCAEE2ED87904A68951D
+published 2016-12-14 02:47:31
+write-history 2016-12-14 00:44:22 (14400 s) 2074275840,4774900736,2974533632,2726320128,2327290880,2410657792
+read-history 2016-12-14 00:44:22 (14400 s) 2066854912,4756512768,2966374400,271extra-info relay34-----BEGIN A1DD4BEB0DCCAEE2ED87904A688704640951D
+published 2016-12-14 02:47:31
+write-history 2016-12-14 00:44:22 (14400 s) 2074275840,4774900736,2974533632,2726320128,2327290880,2410657792
+read-history 2016-12-14 00:44:22 (14400 s) 2066854912,4756512768,2966374400,2718704640,2321660928,2402117632
+geoip-db-digest 207A8167FC83230884A7B46d=0,busy=0
+dirreq-v3-di3B8EE12385CF1874F
+dirreq-stats-end 2016-12-13 23:58:39 (86400 s)
+dirreq-v3-ipsrect-dl complete=0,timeout=0,running=0
+dirrÿÿeq-v3-t-----BEGIN unneled-dl compl 
+dirreq-v3-reqs 
+dirreq-v3-resp ok=0,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=0,timeout=0,running=0
+router-signatureB--
+-E--GIN SIGNATURE-----
+SdST93/FW2cr4GmHawUp0sPzA2nTYQ7qVDIYeCkHOrtNHG3STxo3zwqLQbwxoOW9
+BU3o5retUzRBStvEzphGSNzPVQPDw+8T,2321660928,2402117632
+geoip-db-digest 207A8167FC83230884A7B463B8EE12385CF1874F
+dirreq-stats-end 20166/J0extra-info CaptainPlato 0A9D67D5CDE17FD4C89E8EDFC908849FC345765F
+publ720,16570368,19165184,15497216,15939584,19386368
+dirreq-write-history 2016-12-14 11:18:04 (14400 s) 729088,2591744,880640,734208,3181568,1802240
+dirreq-read-history 2016-12-14 11:18:04 (14400 s) 11264,105472,28672,26624,513024,282624
+geoip-db-digest C1EB5237F2FBAF63381D8551157F13D12EFCCA25
+geoip6-db-digest 1F99B6B0EC78E9DB34D61AE7E0FC261D558E8E5D
+d/irreq-stats-end 2016-12-13 22:45:20 (86400 s)
+dirreq-v3-ips br=8,fr=8,rs=8,ua=8
+dirreq-v3-reqs br=8,fr=8,rs=8,ua=8
+dirreq-v3-resp ok=16,notenough-sigs=0,unavailable=0,not-found=0,not-modified=8,busy=0
+dirreq-v3-direct-dr complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=8,timeout=8,running=0
+published obfs3 178.26.128.12:13535
+transport obfs2 178.26.128.12:33123
+router-signature
+-----BEGIN SIGNATURE-----
+UmK9BSqPsf6Rjp5KIpq0KqjawZ5vxt5tBiy1KaAXX/PUtRyAhTYq/tVeS4Qe1+VK
+SekO7TFJr/rfvf5CJjA46vrH5ciYqhQj43+0ydMc53Jfo+QYgh5ljj4od3637Y4H
+pPIKLLtJzdGJocDrLHpNZQogjETRU7iucqm+D6yRXhk=
+-----END SIGNATURE-----
+ 23:58:39 (86400 s)
+dirreq/v3-ips 
+dirreq-v3-reqs 
+dirreq-v2-respdirreq-1D8551157F13D12EFCCA25
+geoip6-db-digest 1F99B6B0EC78E9DB34D61AE7E0FC261D558E8E5D
+dirreq-stats-end 2016-12-13 22:45:20 (86400 s)
+dirreq-v3-ips br=8,fr=8,rs=8,ua=8
+dirreq-v3-reqs br=8,fr=8,rs=8,ua=8
+dirreq-1-resp ok=16,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=8,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-vv3-resp ok=0,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,,2410657792
+read-history 2016-12-14 00:44:22 (14400 s) 2066854912,4756512768,2966374400,2718704640,2321660928,2402117632
+geoip-db-digest 207A8167FC83230884A7B463B8EE12385CF1874F
+dirreq-stats-end 2016-12-13 23:58:39 (86400 s)
+dirreq-v3-ips 
+dirreq-v3-reqs 
+\irreq-v3l9nvQUmP6s/vgdUNmSP
+zjoK05bLVJzv65SCSF12HdQHg1otS/McOfwx1ZLKyQv65SCSF12HQ=
+-----END SIGNATUQ=Rconn-bi-direct 2016-12-13 14:04:19 (86400 s) 7042dirreq-v2-resp7,761,7159,3171
+router-sig-ed2553-tunneled-dl complete=8,timeout=8,running=0
+tran.12:33123
+router-signature
+-----BEGIN SIGNATURE-----
+UmK9BSqPsf6Rjp5KIpq0KqjawZ5ttv5xBiy1KaAXX/PUtRyAhTYq/tVeS4Qe1+VK
+SekO7TFJr/rfvf5CJjA46vrH5ciYqhQj43+0ydMc53Jfo+QYgh5ljj4od3637Y4H
+pPIKLLtJzdGJocDrLHpNZQogjETRU7iuHqm+D6yRXhk=
+-----END SIGNA)URE---19 AoSu8VA4zNA2ZXIrKoZF1yqhHusKLvD2tpmNCL7fTydPNqJYsper2dqI+5gERVBAT31qEf/eRn8TAhRt4xSUDirreq-v3-reqs 
+dirreq-v3-resp ok=0,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=0,timeout=0,running=0
+router-signature
+-----BEGIN SIGNATURE-----
+SdST93/F-W2cr4GmHawUp0sPz-A2nTYQ7qVDIYeCkHOrtNHG
+3STxo3zwqLQbwxoOW9
+BU3o5retUzRBStvEzphGSNzPVQPDw+C78E9DB34D61AE7E0FC261D558E85D
+d/irreq-stats-end 2016-12-13 22:45:20 (86400 s)
+dirreq-v3-ips br=8,fr=8,rs=8,ua=8
+dirreq-v3-reqs br=8,fr=8,rs=8,ua=8
+dirreq-v3-resp ok=16,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=8,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=8,timeout=8,running=0
+transport obfs3 178.26.128.12:13535
+transport obfs2 178.26.128.12:33123
+router-signature
+-----BEGIN SIGNATURE-----
+UmK9BSqPsf6Rjp5KIpq0KqjawZ5vxt5tBiy1KaAXX/PUtRyAhTYq/tVeS4Qe1+VK
+SekO7TFJr/rfvf5CJjA46vrH5ciYqhQj43+0ydMc53Jfo+QYgh5ljj4od3637Y4H
+pPIKLLtJzdGJocDrLjp5KIpq0KqjawZ5vxt5tBiy1KaAXX/PUtRyAhTYq/tVeS4Qe1+VK
+SekO7TFJr/rfvf5CJjA46vrH5ciYqhQj43+0ydMc53Jfo+QYgh5ljj4od3637Y4H
+pPIKLLtJzdGJocDrLHpNZQogjETRU7iucqm+D6yRXhk=
+-----END SIGNATURE-----
+40,2321660928,2402117632
+geoip-db-digest 207A8167FC83230884A7B463B8EE12385CF1874F
+dirreq-stats-end 2016-12-13 23:58:39 (86400 s)
+dirreq-v3-ips 
+dirreq1EB5237F2FBAF63381D8551157F13D12EFCCA25
+geoip6-db-digest 1F99B6B0EC78E9DB34D61AE7E0FC261D558E8E5D
+d/irreq-stats-end 2016-12-13 22:45:20 (86400 s)
+dirreq-v3-ips br=8,fr=8,rs=8,ua=8
+dirreq-v3-reqs br=8,fr=8,rs=8,ua=8
+dirreq-v3-resp ok=16,notenough-sigs=0,unavailable=0,not-found=0,not-modified=8,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=8,timeout=8,running=0
+transport obfs3 178.26.128.12:13535
+transport obfs2 178.26.128.12:33123
+router-signature
+-----BEGIN SIGNATURE-----
+UmK9BSqPsf6Rjp5KIpq0KqjawZ5vxt5tBiy1KaAXX/PUtRyAhTYq/tVeS4Qe1+VK
+SekO7TFJr/rfvf5CJjA46vrH5ciYqhQj43+0ydMc53Jfo+QYgh5ljj4od3637Y4H
+pPIKLL7E0FC261D558E8E5D
+d/irreq-statsextra-info RelayPP A336893B110975E688C6C880E63D4C76589C319E
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABkh0AVMY0jooUB270Hvq6U4h0Y9bP51zR3jrvtvv0GDz/kifAQAgBADNc5l8
+czWKria2Rkc6YZVj7NYZu/VlnfZFBihdO3lZma
+//Slc7t7sAossRxc+R6E5ZVrrq3lKDIftidQ3jfTeWaz3qOQA=
+-----END ED25519 CERT-----
+published 2016-12-14 11:12:24
+router-sig-ed25519 zFWXLXRzTQ7BDEc7xdLQFF4j//dnWPxmN3c2XdKCtAsitS4S5jqU6Yf/dIGGCSCq/fj3m+bpDoaW9PY+EC+HBg
+router-signature
+-----BEGIN SIGNATURE-----
+FH9uJnMCdDmlcR0Jc0/JihwBe8E3FKbBdirreq-v2-respGcwb/yC7nPGq429RTflBLe6lYs1ojtac
+MEPzBJepQtGAJNgr8rU/q6RsI1KcZVko0l0mXEP+EKLth66L2jzdcI929npMvahx
+6Y3a1SzIoFD+Hk/SZNPD4Xd8MvDMGxLU64fHRitT4C4=
+-----END SIGNATURE--%--
+fj3m+bpDoaW9PY+EC+HBg
+router-signature
+-----BEGIN SIGNATURE-----
+FH9uJnMCdDmlcR0Jc0/JihwBe8E3FKbBGcwb/yC7nPGq429RTflBLe6lYs1ojta0FC261D558E8E5D
+router-sig

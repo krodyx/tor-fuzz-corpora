@@ -1,0 +1,49 @@
+router winnie 64.115.210.23 9001 0 9030
+platform Tor 0.1.0.15 on Linux i686
+published 2005-12-16 06:20:09
+opt fingerprint 7D1A 4DCE 5B87 F406 3C48 DE13 94E8 E908 1786 6554
+uptime 1201
+bandwidth 215000 450000 85520
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMkQA/gIjP6qajXwubTvVwXnfoB8JIYgdUsWvFyNdjyW6mBCMve/pE0L
+Be8nyUNNSeGkYmy3KWVWWoiMOu8bTaAnN+0WE1LYhOUn/uVyooUtNUgv78qTTqg6
+m0J0IcwjBUB/oUvqID8xGVsI0KRNv2vs5SMfqYyKZNKh0ptvOxdrAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMDhmbx51AaIuu28m4HrtEqY42YWoN09xIvpQvzwKp7elGZ6OKQcQehd
+SLGuaCdqWLqxAxpX/DYu3ll3Ovl4vDGPzenBAGMYjDPQHdM4mzSM1TxIVO/fgCb0
+m9ef0QdafQymF9mh31nfZlwFtY0FoXzbYhd62gSnUkgyXCMLUeiPAgMBAAE=
+-----END RSA PUBLIC KEY-----
+family rufus
+opt write-history 2005-12-16 06:15:03 (900 s) 2241644
+opt read-history  2005-12-16 06:15:03 (900 s) 3716292
+contact tor-admin@winstonsmith.info
+reject *:4661-4666
+reject *:6346-6429
+reject *:6881-6999
+reject 0.0.0.0/255.0.0.0:*
+reject 169.254.0.0/255.255.0.0:*
+reject 127.0.0.0/255.0.0.0:*
+reject 192.168.0.0/255.255.0.0:*
+reject 10.0.0.0/255.0.0.0:*
+reject 172.16.0.0/255.240.0.0:*
+reject *:25
+reject *:119
+reject *:135-139
+reject *:445
+reject *:465
+reject *:587
+reject *:1214
+reject *:4661-4666
+reject *:6346-6429
+reject *:6699
+reject *:6881-6999
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+oTDeF4Xz95QLYRVAmjiaesZVYvdvLzfoGmwXaN0PRrGTNaPcoEybMYe7lPiBvKbg
+4vBqjKCa96z/ycxfNPdGIawe1jcvWnstavcSdOmP/Iv9WDs9MNkYsRLRAvwPbd4E
+WikLatWSbcgksHUPDnigKhVp58eWjxkPa8za9xkADXc=
+-----END SIGNATURE-----

@@ -1,0 +1,45 @@
+router gpfTOR3 91.121.102.64 443 0 80
+platform Tor 0.2.0.18-alpha (r13293) on Linux x86_64
+opt protocols Link 1 Circuit 1
+published 2008-02-13 12:25:47
+opt fingerprint 8578 792C 1FBF 011F 77F9 16A7 32A8 EB77 8734 FF30
+uptime 76
+bandwidth 5242880 10485760 0
+opt extra-info-digest 631A2E5D875101E74B81746521DE113FA9B49702
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAOMepvh/DtBHs9ogh9C/R4p55jwMWxZoAr4PYBYnShUSiupd/Uv94qJq
+SBhf8etnwt1uYaVHPITkbZhECpY/xxp9ssm40oDOpokjHmlMnC07wx2lwH3eROPO
+d8soIv1+LwIxtICghQi2YValHYwt2qYheHtkIQkEHBvBY4+nOIiRAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKioT/g37Jxym3USWuRWB76FLgJldPOt3ReSLx00JnjlP/XzP/HBQkNz
+PwPxmK8qrCCaaCSInu70huHZOkdjao3EzQ5FRlE108+mUUapYQfRNaJvosoqeRCc
+kwu71rKzZ65z7lyEw3iQpeWzEaZ6QS9B/asLPYZENRhglBoZxtSdAgMBAAE=
+-----END RSA PUBLIC KEY-----
+family $CFB88AC652AE0388D1F483A065E12A0BEDB868E8
+opt hidden-service-dir
+contact German Privacy Foundation <tor-admin AT privacyfoundation dot de>
+reject 0.0.0.0/8:*
+reject 169.254.0.0/16:*
+reject 127.0.0.0/8:*
+reject 192.168.0.0/16:*
+reject 10.0.0.0/8:*
+reject 172.16.0.0/12:*
+reject 91.121.102.64:*
+accept *:80
+accept *:119
+accept *:443
+accept *:563
+accept *:995
+accept *:5222
+accept *:5223
+accept *:5224
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+Wt0y3x9T4Eyj0HfSg+f7u5vnJ+13NqtiaVBW/OJ0beDeLJ/d3pRGTtBImKc00P7D
+pEzP5BZOjCKaa0tLo27LGT/mzRWv6kdw9R1LHLCrhmlp79jm/sjdIH4xyNymBfcR
+fpTMcUNt71ifKVF/GWH4OcxkjbLYaBVYeiV3S0qchik=
+-----END SIGNATURE-----

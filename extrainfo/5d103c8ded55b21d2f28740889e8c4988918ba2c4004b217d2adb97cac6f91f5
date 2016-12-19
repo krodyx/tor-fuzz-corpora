@@ -1,0 +1,42 @@
+extra-info gontran 06E729BFD466279D4FCA6884DFCD9ACD64F0689A
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABkmoAXK9F2oKGojBptTt45WWstMCK2ARY1zAsKM3dF/8OrdOAQAgBAC/mZWK
+peUGvwfi9fD0wtemFEZ83GoMZi7jYGWJ9mqFtmXwKc8FteNKC+ocsZFGbKWOopog
+zouESoTQKqbulLG8aWzfhgciTmixWLjs4KXhBY52mdtxlAWtc+jxIhB/7As=
+-----END ED25519 CERT-----
+published 2016-12-14 01:58:22
+write-history 2016-12-13 22:10:53 (14400 s) 26349631488,13890215936,17436935168,23240504320,23756228608,38228297728
+read-history 2016-12-13 22:10:53 (14400 s) 25843673088,13413179392,16878742528,22684534784,23134896128,37539700736
+dirreq-write-history 2016-12-13 22:10:53 (14400 s) 505167872,481576960,555002880,552997888,627388416,621187072
+dirreq-read-history 2016-12-13 22:10:53 (14400 s) 21753856,18549760,23473152,22134784,27842560,28466176
+geoip-db-digest C14DF5AE94101562DEACDD296278B0EFA3EA26E5
+geoip6-db-digest A88A828020A558D37F97CF683D4521270F0511A2
+dirreq-stats-end 2016-12-13 04:13:44 (86400 s)
+dirreq-v3-ips us=416,ru=272,de=208,fr=128,gb=112,br=88,it=72,es=64,jp=64,ca=48,pl=48,ar=40,nl=40,au=32,ch=32,in=32,mx=32,ua=32,at=24,ae=16,be=16,cl=16,cz=16,ec=16,eg=16,fi=16,gr=16,hu=16,id=16,il=16,kr=16,no=16,ph=16,pt=16,sa=16,se=16,sg=16,sk=16,tr=16,tw=16,ve=16,??=8,al=8,ba=8,bd=8,bg=8,bh=8,bj=8,bo=8,by=8,ci=8,cm=8,cn=8,co=8,cr=8,cu=8,cy=8,dk=8,do=8,dz=8,et=8,gd=8,ge=8,gh=8,gm=8,hk=8,hr=8,ie=8,jm=8,jo=8,la=8,lk=8,lt=8,lu=8,lv=8,ma=8,mc=8,md=8,mg=8,mk=8,mn=8,mq=8,mt=8,my=8,ng=8,ni=8,nz=8,pa=8,pe=8,pf=8,pk=8,pr=8,py=8,qa=8,re=8,ro=8,rs=8,si=8,sy=8,th=8,tn=8,ug=8,uy=8,vn=8,ye=8,za=8
+dirreq-v3-reqs us=944,ru=520,de=424,fr=264,gb=208,jp=120,br=112,ca=104,it=96,nl=80,pl=80,es=72,au=64,ua=64,il=48,ar=40,at=40,ch=40,in=40,lv=40,mx=40,ae=32,fi=32,hk=32,kr=32,no=32,se=32,tw=32,cz=24,eg=24,hu=24,md=24,ph=24,pt=24,rs=24,sa=24,sg=24,sk=24,ve=24,be=16,cl=16,co=16,dk=16,dz=16,ec=16,et=16,gr=16,id=16,ie=16,jo=16,ma=16,my=16,tr=16,vn=16,za=16,??=8,al=8,ba=8,bd=8,bg=8,bh=8,bj=8,bo=8,by=8,ci=8,cm=8,cn=8,cr=8,cu=8,cy=8,do=8,gd=8,ge=8,gh=8,gm=8,hr=8,jm=8,la=8,lk=8,lt=8,lu=8,mc=8,mg=8,mk=8,mn=8,mq=8,mt=8,ng=8,ni=8,nz=8,pa=8,pe=8,pf=8,pk=8,pr=8,py=8,qa=8,re=8,ro=8,si=8,sy=8,th=8,tn=8,ug=8,uy=8,ye=8
+dirreq-v3-resp ok=4128,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=800,busy=0
+dirreq-v3-direct-dl complete=4,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=4024,timeout=96,running=4,min=1957,d1=102500,d2=203657,q1=245383,d3=285208,d4=355784,md=426612,d6=505721,d7=595388,q3=657054,d8=727321,d9=1022881,max=22058250
+hidserv-stats-end 2016-12-13 04:13:44 (86400 s)
+hidserv-rend-relayed-cells 2606669 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen 389 delta_f=8 epsilon=0.30 bin_size=8
+entry-stats-end 2016-12-13 04:13:44 (86400 s)
+entry-ips us=2384,de=1144,ru=952,fr=888,it=888,es=704,br=512,gb=432,jp=376,pl=336,ar=264,nl=256,ca=192,in=184,th=168,ua=168,mx=160,bg=128,id=120,se=112,at=104,au=104,tw=104,ch=96,sa=96,tr=96,be=80,co=80,gr=80,vn=80,cl=72,ph=72,pt=72,ae=64,cz=64,my=64,ro=64,ve=64,eg=56,hu=56,fi=48,il=48,pe=48,sg=48,ec=40,ie=40,kr=40,ma=40,ng=40,no=40,pk=40,sk=40,za=40,dk=32,dz=32,hk=32,rs=32,ba=24,bd=24,bj=24,hr=24,lt=24,lv=24,nz=24,sn=24,uy=24,al=16,az=16,ci=16,cm=16,cn=16,do=16,et=16,gh=16,jo=16,kz=16,lu=16,md=16,mk=16,pa=16,si=16,tn=16,??=8,ad=8,af=8,am=8,bb=8,bf=8,bh=8,bm=8,bn=8,bo=8,by=8,cr=8,cu=8,cy=8,dj=8,ee=8,fj=8,gd=8,ge=8,gg=8,gi=8,gm=8,gp=8,gq=8,gt=8,gu=8,hn=8,ht=8,iq=8,is=8,jm=8,ke=8,kg=8,kh=8,kw=8,la=8,lb=8,lk=8,ly=8,mc=8,me=8,mg=8,mm=8,mn=8,mq=8,mt=8,mu=8,mv=8,mz=8,ni=8,np=8,pf=8,pg=8,pr=8,ps=8,py=8,qa=8,re=8,sc=8,sd=8,sh=8,sr=8,sv=8,sy=8,tj=8,tt=8,tz=8,ug=8,uz=8,ye=8,yt=8,zm=8
+cell-stats-end 2016-12-13 04:13:44 (86400 s)
+cell-processed-cells 7178,45,14,11,9,8,6,4,3,1
+cell-queued-cells 0.92,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+cell-time-in-queue 221,16,2,1,12,1,15,21,3,76
+cell-circuits-per-decile 37255
+exit-stats-end 2016-12-13 04:13:44 (86400 s)
+exit-kibibytes-written other=0
+exit-kibibytes-read other=0
+exit-streams-opened other=76
+transport obfs3 167.114.67.4:27856
+router-sig-ed25519 au/B2C/STCLvcIml9prI9FzW/MBhmT9eleC/7k0CJyl0U0IBtiNa8uvWBLW47osyhlMcFgewLuITlTbcYVdJDw
+router-signature
+-----BEGIN SIGNATURE-----
+eOvdPTMsee4PvAJ3jDk96hck/8ZalwSJ9RRzuIB85Ytu8aNgEMDIbncMrd9n5x9H
+YqH/f1Wqp5AaD7Gr/Eri/0GTpXYCwTGMOZd1aUE6yP5DvTTWl8AaEMLJD2CZo0J2
+NVqRRT+aoyZWaF5mvtQcVQs4pBBQ6b5XfPZAfR9iR/c=
+-----END SIGNATURE-----

@@ -1,0 +1,43 @@
+router wirelesspt 37.187.239.8 9001 0 9030
+or-address [2001:41d0:52:cff::1fb]:9001
+platform Tor 0.2.5.12 on Linux
+protocols Link 1 2 Circuit 1
+published 2016-12-14 04:48:59
+fingerprint 2DAF C310 E6DF DA69 C00B D52D A851 8B7C 02DD 02A9
+uptime 796782
+bandwidth 13107200 13107200 10294772
+extra-info-digest 08F09F0EDE29313EB221942D24633EBB108F00BF
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMkmdmH9EkzsEJIS4/PcvrdiDzyjZ0642oyCkCj1HcjGauhVQ/cPHSOi
+xfH4gKatfDnfz2iIDWTrSYlwZ2y44BGcIxydhBGcFTtmI5TdTBtBi+120QgD3Srd
+tJDMBA/Td3HG9uKzZh/xDrCB4L3aXX11Q8bWWwL1wSqXm0JlaerfAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAOIEeOw37CazwLfu5ZBofrDnFZRZ3pykL9DB2zMu98SUWsinuW7A5BVA
+6dk8KD0Amxv8JXVtMaZMNp9oetyC3u7BKoU6VgPwoUsjKVhypayO9jsd6XrnhpO7
+7xeEaX5NrKZ39vT4W/HNksnha1aSbeAnpHJchm/IHKJyGlqjL+jXAgMBAAE=
+-----END RSA PUBLIC KEY-----
+family $383FE34F6737C1F49DF0E9C4C250510E502FA40B $A49AEAC3F7E53E7C90FB9831BC8A2431CE85DB6F
+hidden-service-dir
+contact suporte@wirelesspt.net
+ntor-onion-key AGtI4ln2puCbArLkBZBGRnNnl1b1JKj1SJtpnQd+KFE=
+reject 0.0.0.0/8:*
+reject 169.254.0.0/16:*
+reject 127.0.0.0/8:*
+reject 192.168.0.0/16:*
+reject 10.0.0.0/8:*
+reject 172.16.0.0/12:*
+reject 37.187.239.8:*
+accept *:443
+accept *:6697
+accept *:64738
+reject *:*
+ipv6-policy accept 443,6697,64738
+router-signature
+-----BEGIN SIGNATURE-----
+bu+k4m2Bbv05bZCKVGlGCVAJui/S2yF240D19TRRn3ngMa2S0Jtb5x/17eNAXjiJ
+WHNos0sbJ4AzWTz6aaLqHNPkQ/n2qnkuE/MvWrZrtDbfqU91zE4psELVHFKbvFL9
+DsiiawtN/EWOp8lOlL+RpHw+wtOhuAh6xxrSdatettA=
+-----END SIGNATURE-----

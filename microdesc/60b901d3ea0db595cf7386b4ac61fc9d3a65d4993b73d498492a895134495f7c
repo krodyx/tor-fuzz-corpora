@@ -1,0 +1,9 @@
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANOYM/qvuqqBOjaAiGwPVPXuxrp0v6TyOx9v4nsufyPKzf/ctvbicZDh
+ox1Te5su48a2eoWRBUpz7/wr63+E3SotWSnZdyaEPQfp7dIOw3P3yt51GYTiLhGx
+pPD2c44VyKZ8/Q4wEbYCbA0+VhA9Jg6rGyCCjTjb+g1eXVLs2rbZAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key 5ayhjplKDZ4zAJll2bVuWKZBm4N4srMGo1B8MRehu2Q=
+p reject 25
+id ed25519 VCYT5A/K8ZDVB6lqAYEec0yRhwq3OReOhvYXNfqlagI

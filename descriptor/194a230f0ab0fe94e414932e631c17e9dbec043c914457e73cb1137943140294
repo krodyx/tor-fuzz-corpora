@@ -1,0 +1,47 @@
+router nomeata 83.133.81.20 9001 0 0
+platform Tor 0.1.0.15 on Linux x86_64
+published 2005-12-16 13:07:11
+opt fingerprint 4C9F E01F 7B0D E2AF 51F3 EFBD DB0D 4AE9 1AB4 AB26
+uptime 15
+bandwidth 78848 10485760 0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALbpuebEtA2WQwi1Dm6+ZiOPRm1vXW7V9kUAVXLO5E8eNAMNiZyIsXO+
+B6ZEabHHOewjfr/ppepgoahFDYdwMQXaHHHuxj+lERhR15WUeapEXyyaOo94u81o
+wOBTs38FY5RCWNX6mQUw8XjpM/+bS51v0cbczi5rSGtIjKpdqlOXAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMd5PeKfDVrMDwNvKxR6oCrwopGvkHT8LZvsU55cuBgn59tPaX+TVfb1
+wu77ERo2ZqXt7Q8FPO0T65GEMrksUXcodUvtqeD6cFItA4N8av4Y7peK9IAZ9Cqa
+CuAWJQC47+ZyMxZi19SiBBmzbdPFIW8+k0LI11y84U8BC02weu/JAgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt write-history 2005-12-16 13:06:52 (900 s) 
+opt read-history  2005-12-16 13:06:52 (900 s) 
+contact 1024D/4743206C 2002-08-27 Joachim Breitner <mail@joachim-breitner.de>
+reject *:465
+reject *:587
+reject 0.0.0.0/255.0.0.0:*
+reject 169.254.0.0/255.255.0.0:*
+reject 127.0.0.0/255.0.0.0:*
+reject 192.168.0.0/255.255.0.0:*
+reject 10.0.0.0/255.0.0.0:*
+reject 172.16.0.0/255.240.0.0:*
+reject *:25
+reject *:119
+reject *:135-139
+reject *:445
+reject *:465
+reject *:587
+reject *:1214
+reject *:4661-4666
+reject *:6346-6429
+reject *:6699
+reject *:6881-6999
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+MDiQr9PInggGep8AlTs03IQpE9F0LZ5A4RcQapJKdNjGDRVGsscu1Twy8dZ858w6
+JloKxrPUKD/BRYJZjL6m85xc8cL0nbTdGFj2CZxX182YAILJHpF9YBKcNkeDFYB7
+xmsF0n7otC8e8Bu4DY3fAAa872+w/zfPhhfUQ5oApI8=
+-----END SIGNATURE-----

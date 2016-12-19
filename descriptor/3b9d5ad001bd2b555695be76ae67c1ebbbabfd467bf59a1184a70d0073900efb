@@ -1,0 +1,36 @@
+router NoWhereMan 209.221.206.114 9001 0 0
+platform Tor 0.1.0.17 on Linux i686
+published 2007-02-09 09:14:57
+opt fingerprint BC9E 1D7E 22B2 2334 0A39 7A09 DE46 348A 0A99 FA17
+uptime 0
+bandwidth 30720 35840 0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMkK4ZyJscrVdbnSRIa+MZevSS8An6CyE59CKsMK4VI9/LIYh04myfh7
+y41XUQy4Tzu5Y0rkvYVuo0vDpQlRlHp0DD2LTltpLNNMdACpkiQYHg5Qfdzot1gV
+y4XJhxWmJ3hbTD7bhfSZiMaqN1bug2kDD+5VuaZl91iZyaN6Zx33AgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAO28nkRIBD9RmhPpIGvHG+kucMX9fXYxrg1YK0WMFVMC+169emPcHBtr
+hKMWkuFFph9IkI2nqnmOjqmmuHnu3Wc/cYCPxQna29/qx0uALdNhw5f8XXKlrMju
+T4ktiKcsHi+ZTO6SrZJgX+CiCm3r+qFsXb33bfMtlW0rJSbVisQFAgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt write-history 2007-02-09 09:14:56 (900 s) 
+opt read-history  2007-02-09 09:14:56 (900 s) 
+contact 1024D/7C796B7D Richard A. Hecker <hecker AT debian dot org>
+reject *:8000-8004
+reject *:7000-7005
+reject *:6660-6670
+reject *:587
+reject *:465
+reject */:194
+reject *:25
+reject 66.35.250.0/255.255.255.0:25
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+lDfQ6xvJqraLSjv3eJFGYGQCAqCY6i+OtwYmQ71111111111111111111111111111111111111111111111111111p25lTPWdhQAgbUVBEEy83gJhST
+5KZ6ERTZ/H8y/PvTh8pYlbJDXG6uAa1Lvee5NKPwID2/K/eNwf3HzpSWBCdmMMPz
+QUFN9UntObxFdvOLGNtRvXxi37Y75GNHuB6c+ZCvjIM=
+-----END SIGNATURE-----

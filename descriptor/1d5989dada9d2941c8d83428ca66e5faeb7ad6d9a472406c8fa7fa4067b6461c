@@ -1,0 +1,52 @@
+router wannenode2 5.45.98.51 12443 0 0
+or-address [2a03:4000:5:15a::1]:443
+platform Tor 0.2.5.12 on Linux
+protocols Link 1 2 Circuit 1
+published 2016-12-14 11:29:15
+fingerprint 990D 744F F737 7C93 04EC 69D4 420D F941 088B 79C5
+uptime 472145
+bandwidth 8192000 10240000 6403810
+extra-info-digest C9EE1CEA049E1C438CDCD54D23A1B36B94C7ECDE
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMW/DgTTm1cdjchy6Am9lGvvt6VgeQWyr/J7hrV8Q1i6dfK4hvD7UZ98
+xI5H/cg14P8yudQ3SPi7qXOMO5dBlKEtjliRCE9aHeiVoekpZzPF40h7sAOAxiM5
+eVIp2ia9SEpY0ln/g/cy4eD6XR74tTEzGde9bwsa4Y59FpeohX8rAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALczOTWZxclUQdnDxYeMBZZvQpdr+1fdsC9LiQv9/NCJA/pEQWgPzvWY
+xUtQnWydBmq5hIZPtXUaz8penvEKG5/fWlzxDU0Dg4H7pqwSm9isIAHkyOtLsiMb
+M+9Zvtc4SqnzmxzRn9KIOZZtO3ZeDOyJ9GIC7bstmSTJZtbQAwV9AgMBAAE=
+-----END RSA PUBLIC KEY-----
+hidden-service-dir
+contact 4096R/B51F75B7 Fabian Wannenmacher (Search for e-mail on a keyserver)
+ntor-onion-key jK4prLCUkM4OTORfZgrMVblHQY64/LyuNvVF0cTxriU=
+reject 0.0.0.0/8:*
+reject 169.254.0.0/16:*
+reject 127.0.0.0/8:*
+reject 192.168.0.0/16:*
+reject 10.0.0.0/8:*
+reject 172.16.0.0/12:*
+reject 5.45.98.51:*
+accept *:7-9
+accept *:13
+accept *:15-18
+accept *:37
+accept *:43
+accept *:53
+accept *:119
+accept *:2086
+accept *:3690
+accept *:9418
+accept *:11371
+accept 31.15.64.162:*
+accept 31.192.116.24:*
+reject *:*
+ipv6-policy accept 7-9,13,15-18,37,43,53,119,2086,3690,9418,11371
+router-signature
+-----BEGIN SIGNATURE-----
+TpbU8037yy7k4s+c1U7v+GhUktUI0jKzcMVcjaWThpcmk2zuluppwW+eHfgBbX5A
+gzOz/qfGf5n7fBtILf6HKoKQspC9oEnIJ4VMNv8zmk/krsZ1+XcRBUgiW3Suzh9X
+oIhscMYGLskxbxyGliW3b2OO1ZS4yHzZyAKhVzMm4pU=
+-----END SIGNATURE-----

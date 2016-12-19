@@ -1,0 +1,30 @@
+extra-info Bundesgebaermutter 15841A96CA5C1171985A9565BF7CDDFE2BF8E91E
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABkflAUPLmB1Y3Bbw9LOMu3t64b7ybp2z5wXMMdWOw2Wt7nM4AQAgBACiDKqw
+gFPKaH1JSzYkl9lBITu/05u3jnh9lgSb9Bh9kZECKwkRe8zyH15zMTLG78YAyaIX
+eVYJnyrZCitLfludoDmb7KbeiptZzS4K7cQDMdZ0zZYz0QGmh5MTLfyLgwE=
+-----END ED25519 CERT-----
+published 2016-12-14 04:19:36
+write-history 2016-12-14 03:55:48 (14400 s) 1854464,3266560,8673280,6113280,9145344,7502848
+read-history 2016-12-14 03:55:48 (14400 s) 8464384,10414080,15268864,10648576,16355328,14559232
+dirreq-write-history 2016-12-13 23:55:48 (14400 s) 815104,0,618496,619520,949248,637952
+dirreq-read-history 2016-12-13 23:55:48 (14400 s) 0,0,0,0,0,0
+geoip-db-digest 363C038D0BE61D6E0A63C43DE8EA70771ED7BEA5
+dirreq-stats-end 2016-12-13 15:55:51 (86400 s)
+dirreq-v3-ips ua=8
+dirreq-v3-reqs ua=8
+dirreq-v3-resp ok=8,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=8,timeout=4,running=0
+hidserv-stats-end 2016-12-13 15:55:51 (86400 s)
+hidserv-rend-relayed-cells 2908 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen 0 delta_f=8 epsilon=0.30 bin_size=8
+conn-bi-direct 2016-12-13 15:55:51 (86400 s) 6941,330,340,29
+router-sig-ed25519 zQAhsQAsqapKAI6/zd75zzNg+aGtQ/lpTSVqf1HwYhVNoM3FVpwmUnJHW5QOpTJgqQaqbX+UzRp1LWnVHFKWCg
+router-signature
+-----BEGIN SIGNATURE-----
+EyqI4VaUzAgu0ao06ghC47SFZlQ8MPn1QZ0gyAIhU7S/h/f+7sdOlTVADs4Gz9gw
+6NUmPWWCWLDiN3SYQPNofllJsdyaf64j4XuwBfItZCs3IW7r4FyLZ29/5z1Aei1T
+2iucW+pBEXGd9OBr2U0NfzIvXh/QuLwuizA0t1kV7HY=
+-----END SIGNATURE-----

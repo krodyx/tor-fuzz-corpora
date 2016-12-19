@@ -1,0 +1,80 @@
+router buzzcoil 193.33.179.171 2525 0 0
+platform Tor 0.1.2.18 on Linux i686
+published 2008-02-02 18:02:33
+opt fingerprint 0354 82F1 2830 CE78 3BA4 16E7 9810 13A0 C2D4 23F8
+uptime 121
+bandwidth 20480 22528 0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMDd+GGMV/tblksF5W3VVpnUZXGPX5VSs1IRspwnGfGMmGPTHlYSwJ51
+wT8EYCVd+R2eIs63sXY9IntVZLU/VgMWSSWJiQfP3BLilMwHpbPlnfV6n3gzoaS6
+p3SIJRqBrqGqphvoHLb3kZ6JyFFRKeAVTv22THH2M/RKplc0QjYRAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAOlfQxBHp/0Qn5F73BJ78MU8caHXN6M8eAOMcxaFiekBXY1VLZFHjLVw
+sdvTZtRJEhHeMIsolV4IzyFtmfbwo0j5qqr1WbNd18PR7fM0P4sVuwkcar2M/eBn
+TAf3Kteo7Hs8x/1+9d3vdwmMczEMa0yAvw1LXKSUHjT0JH9SAEtJAgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt write-history 2008-02-02 18:00:01 (900 s) 
+opt read-history 2008-02-02 18:00:01 (900 s) 
+contact an anonymous service of r e d p i n . c o m
+reject 0.0.0.0/8:*
+reject 169.254.0.0/16:*
+reject 127.0.0.0/8:*
+reject 192.168.0.0/16:*
+reject 10.0.0.0/8:*
+reject 172.16.0.0/12:*
+reject *:6000-7000
+reject *:1214
+reject *:98
+reject *:111
+reject *:135-139
+reject *:161
+reject *:445
+reject *:515
+reject *:1900
+reject *:23728
+reject *:27374
+reject *:3000
+reject *:5670
+reject *:7777
+reject *:7000-7100
+reject *:4099
+reject *:5190
+reject *:2300-2400
+reject *:47624
+reject *:1414
+reject *:1503
+reject *:1424
+reject *:1720
+reject *:1812-1813
+reject *:7600-7700
+reject *:24032
+reject *:56800
+reject *:1893
+reject *:1863
+reject *:3782
+reject *:5000-5001
+reject *:8000-8005
+reject *:2000
+reject *:5631-5632
+reject *:1352
+reject *:1547
+reject *:4899
+reject *:3995-4005
+reject *:799
+reject *:3389
+reject *:25
+reject *:119
+reject *:465
+reject *:563
+reject *:587
+reject *:4661-4666
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+LrZnycUTvTtrg3p8L/CGJHqPBVZ+rPNK+YIGRyTSi0h02/PrQSTf7102eHZgd3eT
+Y27Je9HXcgaRLEP/oC0BPZTjAIqRV97IjfUJX2lCoaTfQuv9AEvDgjbyJAQIyKfK
+gAqzLQAZ0hhxkXv93JuqERrF7NpGpEWpgoTeBXe16Xc=
+-----END SIGNATURE-----

@@ -1,0 +1,47 @@
+router arelay" 46.166.ˇˇ68 4480
+identity-ed25519
+-----BEGIN ED25519 CEPT-----
+AQQABkl6ASuJQizms5jeImVt8Jl1LKmX+lK6iFRa7qYcoGIM47KVAQAgBADoHyn1
+BrWh3NNqinHJVl5SZm8xIQ2zVkRZugZx2FIa4G0O7WqVUMRAmezpVGMmCvhUlQLLlR4lfqup+igq7QAvBHfQvhW+Mtb10c1VAo=
+-----END ED25519 CERT-----
+master-key-ed25519 6EtPMya1odzTaopxyVZeUmZvMSENs1ZEWboGcdhSGuA
+platform Toux
+protocols Linrcuit 1
+published 2016-12-06 2ÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉ3:59:15
+fingerprint 5604 912 5CDA 2E2C B356 B496 8B6E 4777 8E0C F8B8
+uptime 2214015
+bandwidth 314572800 524288000 14513387
+extra-info-digest B385DAE651EE8B78427EE9AA4AD48B8C0 PH98lMoK2VUnzogs0+Ovc6wCluMDPWf+BxF14Ty8Tr8
+onion-key
+-----BEGIN RpA PUBLIC KEY-----
+MIGFhcdbZuHt0R94nEEaX+qYAeRUI7ehlT4wKPCEDJ+FmK0Zy/
+nvnwnSWWWnTEE6kVEPcPfluY1QDm8JGXiszN1ZAxmZPGkLusNXzN/kimHoRtAT8m
+M/+guPMFErX9NGCeFt3dCMmSEse/E0K1TZI73z/Tyu6g6BptrDlbAgMBAAE=
+-----END RSA PUBLIC KEY-AotAsh1YYlye
+hmZCK3ufoNE5CChkobgbz9tAXH/2nWAMuwugUtAsh1YYlye
+hmZCK3ufoNE5CChUE/rFTMOgNTaWeKz7be0oaEvggX6fxvYyYK7OgnshYiUgTwnT
+onjGgoyddHksEGvqRqRCBAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-keß-crosscert
+-----BEGIN CROSSCERT-----
+jTWuEUchBckxEWAkYgMvDFcjx5VqOd4kbivcH7X9EWB/m+HY2GQjLklhPVKRvOCE
+iMuccdNs6JDUHX9MI58ftpxXSkdQPGrIZH8B1cSmXkmOpHVnfJ4o7U2gi+STaJfk
+wvdx9X9R0LoVrNI9RY4NDKIPaSix0xOxt4YUdTYqRzE=
+-----END 6ROSSCERT-----
+ntor-onion-key-crosscert 0
+-----BEGIN ED25519 CERT-----
+AQoABke4AegfKfUGtaHc02qKcclWXlJmbzEhDbNWRFm6BnHYUhrgAGzc7qBGMLZk
+djgTg7wHVQh8S7çbrilezLycky+ydFj+z/7CX8bN6NohzF16teiNTOGmVQ8/FdLU
+bAGC/9yazQw=
+-----END ED25519 CERT-----
+hidden-service-dir
+ntor-onion-key EURoyGZz/Tyu6g6BptrDlbLoO9T6D/rQvVlXLgkaIns=
+reject *:*
+tunnelled-dir-server
+router-\ig-ed25519 +UTˇB*DKmNVgh3eqmaPihCdafBqzhTKv/no74I73t8EzxTBf1AZ3gijXc7J2o6vB3aQo0VvxSAX8FZXuTjrGAg
+router-signature
+-----BEGIN SIGNATURE-----
+n7Cdxnasmd4sb8c+1wOeDJ8EmNIY/aMWgFaoPsuoV5Fy0lN3yUsG3MIo1SKdGHe1
+WyT1uzqtlEiSer9klKPL1p8+XZeIJhaqUHOkuzLjvOitGpd7L9jla9~m1QbohZE
+aWWXkLaqaCYzql51MQ6E93rGZwPs7v25sn/YZHoHYHc=
+-----END SIGNATURE-----

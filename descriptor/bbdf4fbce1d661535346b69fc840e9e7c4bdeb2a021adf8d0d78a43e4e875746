@@ -1,0 +1,118 @@
+router MYCROFTsOtherChild 66.225.36.4 995 0 0
+platform Tor 0.2.0.17-alpha (r13157) on FreeBSD i386
+opt protocols Link 1 Circuit 1
+published 2008-02-03 06:44:15
+opt fingerprint 0232 2050 5A55 0D6F DF0C 20FF 7C48 E66B A06A 49A6
+uptime 65943
+bandwidth 5242880 10485760 0
+opt extra-info-digest 03C6A02C412F4020723DB919F31787749E8A5D3E
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALKTYnw9Vqdyfre6+72EvsTzaGBnB3v7TOfuxmIr9tMOBy5ULojTFXGu
+Waipw+UPBZJl2BTeyUj1dbiP54euuQF2aXBtlDnci06YIkSe8hqLtH+TJqP8H9ft
++KlJoX8BbCHF7b7lr+REYGTcw6VZKQBGHCTd/Ac4P/zH/hGfIRHTAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALtPMfENE8YLPEFrht0/vpMnOBjI3jze6OpHtj2AMLwdCasUeNgfFHfY
+88WZBCFjLeijEHhrJ7fN09hJlNdEpvTQbVKOdp0T9CWINXiqrqCb1eXaJKNoof+C
+kfaA6vvp8wIj0ir7LKcmCj7XanswEuLbr/hVzroqIOTtXYb0Mos/AgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt hibernating 1
+contact Scott Bennett <bennett at cs . niu . edu>
+reject 0.0.0.0/8:*
+reject 169.254.0.0/16:*
+reject 127.0.0.0/8:*
+reject 192.168.0.0/16:*
+reject 10.0.0.0/8:*
+reject 172.16.0.0/12:*
+reject 66.225.36.4:*
+accept *:20-23
+accept *:43
+accept *:48
+accept *:63
+accept *:66
+accept *:70
+accept *:79
+accept *:88
+accept *:106
+accept *:108-110
+accept *:112
+accept *:115
+accept *:117-119
+accept *:123
+accept *:134
+accept *:143-144
+accept *:150
+accept *:152
+accept *:156
+accept *:158
+accept *:165
+accept *:174
+accept *:177-179
+accept *:194
+accept *:209-210
+accept *:213
+accept *:217
+accept *:221-223
+accept *:246
+accept *:372
+accept *:389
+accept *:396
+accept *:401
+accept *:406
+accept *:443
+accept *:458
+accept *:464
+accept *:481
+accept *:491
+accept *:494
+accept *:512
+accept *:517-518
+accept *:525
+accept *:529
+accept *:531-532
+accept *:537
+accept *:540-541
+accept *:543-545
+accept *:556
+accept *:563-565
+accept *:592
+accept *:614
+accept *:636
+accept *:754
+accept *:758
+accept *:760-761
+accept *:765
+accept *:767
+accept *:989-990
+accept *:992-995
+accept *:1080
+accept *:1127
+accept *:1167
+accept *:1347-1348
+accept *:1366
+accept *:1376
+accept *:1396-1398
+accept *:1435
+accept *:1524
+accept *:2003
+accept *:2032
+accept *:2105-2106
+accept *:3653
+accept *:3690
+accept *:4321
+accept *:5002
+accept *:5190-5193
+accept *:5432
+accept *:5999-6063
+accept *:6558
+accept *:6667
+accept *:8021
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+lUMM2NvGK1EVG/WqD5B4Guz7fphqVOOHGXydpbLCwrMByXA384XJf8EHgTuO5WDt
+ZgPmwVCZ0lS5SKUjgygZtgr6/O1jm2BRr155bXxADd9SJZit/YQ7EmlkS2K6LK9W
+XJrUgkZA1baAcG0EFAyIVj+bu0da9oGaBKMFKi7Gu2Q=
+-----END SIGNATURE-----

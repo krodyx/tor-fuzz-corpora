@@ -1,0 +1,30 @@
+extra-info CGretski D76375CC601FFF184F26B777D4AA32364486C212
+published 2016-12-14 07:41:43
+write-history 2016-12-14 07:37:01 (14400 s) 63677440,58416128,40025088,45039616,31635456,37288960
+read-history 2016-12-14 07:37:01 (14400 s) 68902912,63472640,46121984,51534848,37403648,44500992
+dirreq-write-history 2016-12-14 03:37:01 (14400 s) 295936,295936,410624,821248,410624,591872
+dirreq-read-history 2016-12-14 03:37:01 (14400 s) 0,0,0,0,0,0
+geoip-db-digest 207A8167FC83230884A7B463B8EE12385CF1874F
+dirreq-stats-end 2016-12-13 12:26:04 (86400 s)
+dirreq-v3-ips ua=8
+dirreq-v3-reqs ua=8
+dirreq-v3-resp ok=8,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=0,timeout=8,running=0
+entry-stats-end 2016-12-13 12:26:04 (86400 s)
+entry-ips ??=8,au=8,ch=8,fi=8,ru=8,ua=8,us=8
+cell-stats-end 2016-12-13 12:26:04 (86400 s)
+cell-processed-cells 1948,559,340,209,128,114,22,5,1,1
+cell-queued-cells 5.78,3.03,1.59,0.51,0.01,0.00,0.00,0.00,0.00,0.00
+cell-time-in-queue 1341,807,643,301,42,26,2,1,0,11
+cell-circuits-per-decile 204
+exit-stats-end 2016-12-13 12:26:04 (86400 s)
+exit-kibibytes-written 80=6735,110=1,443=4500,993=3,5222=3,8080=12,other=0
+exit-kibibytes-read 80=172228,110=1,443=88004,993=23,5222=12,8080=979,other=0
+exit-streams-opened 80=4112,110=4,443=3440,993=8,5222=4,8080=16,other=0
+router-signature
+-----BEGIN SIGNATURE-----
+BnKvr26BQZBqJs4RsYc34uPPoz1wggyRTjqmRJHHXZJ7yYOLwBY8tRnIX81HA2qC
+GKrbIX0dBCZ8T3iFIajMRZzUJr0CITVbpmcVoK9hVE/BhvJmz0nVoqX3vPRa85eM
+MtYFPcpl2YTzfQPJtjGz7ZgvzGOaGgDlAcLQqihizq0=
+-----END SIGNATURE-----

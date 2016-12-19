@@ -1,0 +1,34 @@
+router an1235599 81.216.150.196 9001 0 0
+platform Tor 0.1.1.26 on Windows XP Service Pack 2 [workstation] {personal} {terminal services, single user}
+published 2007-02-26 23:34:13
+opt fingerprint 9457 F841 9F0B 6119 ACE4 BD55 011D 06FF 800A 31D2
+uptime 7
+bandwidth 20480 40960 0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKltFfOdsGuRLNomuPIKoJ8CU+in5q/XK0stgChfHILa9fMiugAYS1UX
+yUaqoFLrss1KMxJXuFDXFBhOpDQl3iDACM8BoD/5rN5DQKvBZ/FpdNo5iFuU0OeJ
+idi6O+4MYKI5ULAkgR9EF816hUpHK+Zg4b4HWmDKv7qYm75EyzPNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAOiQeT7Q/y3YJAOwVD9fRJmg6Bnx62FHIBc6wkRa0DKuZvmWxNhC/6us
+yHF6csS9yZ8JDftRkPP0MA0zfmmzfDWB7YN5Hi7nP6OS5IjThNqxb9tBHO12Rpg7
+gPrJ+QBSYlNLQsYxIdnZqPUaupqgMhKjfSqI/1PkSP56SuWsF6IlAgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt write-history 2007-02-26 23:32:38 (900 s) 50647,306457,322818,179339
+opt read-history 2007-02-26 23:32:38 (900 s) 198288,1373085,3212182,1585054
+contact an1235599@yahoo.se
+accept 222.0.0.0:*
+accept 221.0.0.0:*
+accept 219.0.0.0:*
+accept 220.0.0.0:*
+accept 218.0.0.0:*
+accept 202.0.0.0:*
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+GaJhRc9VMTaMo0t7n9FVOhtpv4Vg5nmDrU8WMnOWjYBg01YO4mPV2o1Jb9ypt9/n
+2EZFaMpYps+AY3V+BXHodDjKiTe3O4hih9fjsAbvQA9dBh4NP058uC8lcUoHS71M
+0/MgYQBO6jHQCGylbcByoO0CfIJM0uoeRMI6q9+c2zU=
+-----END SIGNATURE-----

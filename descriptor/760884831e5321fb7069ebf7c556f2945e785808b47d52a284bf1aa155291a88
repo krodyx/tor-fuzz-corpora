@@ -1,0 +1,47 @@
+router bolanda 193.219.28.245 9001 0 9030
+platform Tor 0.1.0.15 on Linux sparc64
+published 2005-12-16 11:18:00
+opt fingerprint E861 477F 4937 877F BEED A284 FBCD AA84 3E0F 8B3B
+uptime 957
+bandwidth 2097152 5242880 64831
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAPeyuZ7WKOlIjVWo88AaND8UHhNJMEasUlnMvRoquRkOp+2yvvoKVwIv
+ST5axsWFciEYgprDyjm5Gv8R08GBPeWgod0nqag6Z1vtgsKjlW0+6BQSg06GqL9B
+v7pJQUcikbFg2poSavtxItOLMX8IlNTtyawqpZWZgJj5cA9ZPdbDAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKF82J8PNctadF6geh/RX1b3nAJI4cU5fF/CDQzQKvx+zmPb9eJ3fFmK
+bsuOYcZPt8lRnS5uGexdGGei7eJi0O40Eb1CCM6ugjb61b5Ctqir8Mh21l2DU3KR
+ZM3KOBCUwUVs//SRNqN4a7kwp8RiliCyAnuDHjmBWd086zOsuH7BAgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt write-history 2005-12-16 11:15:08 (900 s) 7367641
+opt read-history  2005-12-16 11:15:08 (900 s) 4883988
+contact Pawel Krawczyk <kravietz at post dot pl>
+reject *:6660-6667
+reject *:25
+reject 0.0.0.0/255.0.0.0:*
+reject 169.254.0.0/255.255.0.0:*
+reject 127.0.0.0/255.0.0.0:*
+reject 192.168.0.0/255.255.0.0:*
+reject 10.0.0.0/255.0.0.0:*
+reject 172.16.0.0/255.240.0.0:*
+reject *:25
+reject *:119
+reject *:135-139
+reject *:445
+reject *:465
+reject *:587
+reject *:1214
+reject *:4661-4666
+reject *:6346-6429
+reject *:6699
+reject *:6881-6999
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+fbv4ruwclY7YWTTyv7MADweRp/pQq0w4uVS/aM4SHstvIx0hiX5Bp8I0hy4/k+by
+2eyEApNn4hBCQ/1M38uvGQQp8Tbs5Cz47Kyg4AwiQ4hl0ApsCFZgL0vD740BR2Zo
+Dd68xTu9GYZsCD1IMp2iB6caTJFViL9mitNOrIGGuTU=
+-----END SIGNATURE-----

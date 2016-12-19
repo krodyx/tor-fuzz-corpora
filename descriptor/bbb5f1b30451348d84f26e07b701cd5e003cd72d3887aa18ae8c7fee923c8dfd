@@ -1,0 +1,29 @@
+router evilwire 208.69.42.193 9001 0 0
+platform Tor 0.1.1.23 on Linux i686
+published 2008-02-14 20:01:55
+opt fingerprint 9273 BB38 7B21 6460 9133 07AB 1B64 7DE2 258B 3243
+uptime 1250
+bandwidth 204800 1048576 0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMsQ1vMG7V9TM3UBSQ6WVB3yZtON2JxLadhgpzfMDAljfQ2/uHxJa3Pe
+eJ8tVeJjPk3eQMjNri9C9moyIva4aaWqn2eO6eCwG8n/h/fKZDDnZ+7gv6PAEZ+Y
+/7efx9+SmP/p7wJpXGEbunzicB9OfzXscal/kfnrCBzbLt7UIspTAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAO+IYAPSQ8ptE5zxs3S73AKiz/x+30HNvLfziyeR16CWxRKcYR9IiX2N
+ohb65ITpBYwugaWOPMjItRA5eMR88cxMJdCAzm02eLY86hfUR+vznVq6NPubHn1N
+pMhMvG7Nx3T8EB0xyXy5CZp6iOsSkSmY80Nk10iz68+5CMMuE5Y5AgMBAAE=
+-----END RSA PUBLIC KEY-----
+family lostinthenoise TheHomeOffice metalab ennui
+opt write-history 2008-02-14 19:55:43 (900 s) 0
+opt read-history 2008-02-14 19:55:43 (900 s) 0
+contact 1024D/CF722608 Jacob Appelbaum <jacob@appelbaum.net>
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+ljSjhenUT/X5AV6dToGkIkmbvGSpZgGezd/0FLYUk7yXCq17DXgFTSOdwsQsSeDk
+wmVqYCBZgkEnrkAjSeyNLLfqdUMuvnMHOUIk2QEoBCLA1j4xLFSwcSZilR3aFJhR
+bf3bOavPP1AjFqlbLAXBb+SNA1Ra5XB0Y0VICxJ0p2Y=
+-----END SIGNATURE-----

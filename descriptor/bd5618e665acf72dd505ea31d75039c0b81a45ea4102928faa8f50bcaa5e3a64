@@ -1,0 +1,29 @@
+router torzone4 81.166.101.28 9001 0 0
+platform Tor 0.2.0.20-rc (r13715) on Linux i686
+opt protocols Link 1 Circuit 1
+published 6200-02-29 09:29:08
+opt fingerprint 4DBC C96C BEB9 6A12 0679 586A D27E CA2E 5678 046D
+uptime 7
+bandwidth 409600 614400 0
+opt extra-info-digest 97538DA845CA3FAF8AF9CAA49FBBD57FD06DEDE3
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALPFiDaRW8grJr9Z0rqC8SgGeaQ4tTp4NLSmEOZfUU+9iLg1tXK7oGHD
+v1KQUn82C/NkgBTPWff5fUMlrI+GhprLGGwfRi0SqxwW1kWS5CAGvKvDult6nyqg
+oN1v2aUi26B3Lxs1tuhKqJVULBzZ8sMzX1ifEaVET+QBWhPRf9dPAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMApe7dXmJZW2BxoDilgsRUdi61qx3SBAf3FlBRtD9CF2fgBKo0790x1
+1+mAJ/s/p6ImpwlmdLTWXp0ni4Ni595cL6KbV0BnBAYBmkimViO9y39DNoJiCI4N
+ZAXfh8cU6bQAPxOa7ddXdCWbyc9GWdnveSy95yZ4WBpCXT+f8eDxAgMBAAE=
+-----END RSA PUBLIC KEY-----
+family torzone torzone2 torzone3
+contact Lasse <tor.at.zone.no>
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+KgfSoYSFtDfVzrkjOsU6L4gc28ifr0wlTEsIPNZckaukt4b+iLz6HjS9YvrZficp
+BIcg7+oC5jH8QaZCCBThFAd1mReDGdnESJ55coRXKtyDQJhECRTrwz22PWonfVCF
+QC8CXsB1DRe/nx/D+EssMX6kUIzm/kkvbkM717YRxvo=
+-----END SIGNATURE-----

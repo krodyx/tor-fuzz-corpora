@@ -1,0 +1,46 @@
+router mwserver 72.14.176.65 9001 0 0
+platform Tor 0.2.1.13-alpha (r18828) on Linux i686
+opt protocols Link 1 2 Circuit 1
+published 2009-03-24 12:38:41
+opt fingerprint 9A8E B142 86DE A095 815B 702F 6D6F 7D1D 6D05 1DA7
+uptime 51974
+bandwidth 30720 61440 142529
+opt extra-info-digest 5854EE286CD0F8BB4BB8B2C4F1AC619822FE5883
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALOc+ySHm2AIAU9pVWvsVzCv72Hc3V08DeC9aXkE9PxC5AuOqg7eC8d4
+fx6XKirN3DT8GXmxV/i14H6F0tNBj8jagK0heMARN4rVWm+ocHvDT+Lw9QXY4EIc
+qQJMLDcSM3Ql0E87Cr6GP8biCeviloCuh/GDb5xcQGHPmcVjP+wBAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMwU7aicEv3bLv6Z7upXPs4puXenMWYdmb+NU4zu7ZjUTq3z+Zy27Zhr
+GsSo96J/4nUf93tglFDwjoJVg+sW3C30+GYKt2o90vquyQGPP3z8zuk9nI7wxKyz
+ksb8KUWx04CeN+JEnDcshtZaIygm1JyQQWjHItaTKfHmjHCZ3B5PAgMBAAE=
+-----END RSA PUBLIC KEY-----
+family $7EF2D2D6055D3FF76421C6C4A5AEE9CDE0F5CA92
+opt hidden-service-dir
+contact 1024D/2BFC1289 slush <slush at centrum dot cz>
+reject 0.0.0.0/8:*
+reject 169.254.0.0/16:*
+reject 127.0.0.0/8:*
+reject 192.168.0.0/16:*
+reject 10.0.0.0/8:*
+reject 172.16.0.0/12:*
+reject 72.14.176.65:*
+accept *:80
+accept *:443
+accept *:22
+accept *:5222
+accept *:5223
+accept *:110
+accept *:993
+accept *:995
+accept 128.213.48.13:1443
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+AtYanJtV7aVTI8u8dXbfiivM0JhyCE7UYmlwgw6TMAQIb1oPoNDI1WVibIt0IQ9e
+qyIINGTYvzVG5FPxNxKQ5+iQpPvTj4tzDc6dEcz3635T9UgHzgnlND14/hbgR1wR
+PbIRLPNJxU1i+8FSTonKh8w54WF7uhA1pi0YR95rsY8=
+-----END SIGNATURE-----

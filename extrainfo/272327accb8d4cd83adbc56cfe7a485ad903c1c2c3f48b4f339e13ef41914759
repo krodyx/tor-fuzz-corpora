@@ -1,0 +1,20 @@
+extra-info CaptainPlato 0A9D67D5C:E17FD4C89E8EDFC908849FC345765F
+publ720,16570368,19165184,15497216,15939584,19386368
+dirreq-write-history 2016-12-14 11:18:04 (14400 s) 729088,2591744,880640,734208,3181568,1802240
+dirreq-read-history 2016-12-14 11:18:04 (14400 s) 11264,105472,28672,26624,513024,282624
+geoip-db-digest C1EB5237F2FBAF63381D8551157F13D12EFCCA25
+geoip6-db-digest 1F99B6B0EC78E9DB34D61AE7E0FC261D558E8E5D
+d/irreq-stats-end 2016-12-13 22:45:20 (86400 s)
+dirreq-v3-ips br=8,fr=8,rs=8,ua=8
+dirreq-v3-reqs br=8,fr=8,rs=8,ua=8
+dirreq-v3-resp ok=16,notenough-sigs=0,unavailable=0,not-found=0,not-modified=8,busy=0
+dirreq-v3-direct-dr complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=8,timeout=8,running=0
+published obfs3 178.26.128.12:13535
+transport obfs2 178.26.128.12:33123
+router-signature
+-----BEGIN SIGNATURE-----
+UmK9BSqPsf6Rjp5KIpq0KqjawZ5vxt5tBiy1KaAXX/PUtRyAhTYq/tVeS4Qe1+VK
+SekO7TFJr/rfvf5CJjA46vrH5ciYqhQj43+0ydMc53Jfo+QYgh5ljj4od3637Y4H
+pPIKLLtJzdGJocDrLHpNZQogjETRU7iucqm+D6yRXhk=
+-----END SIGNATURE-----

@@ -1,0 +1,97 @@
+network-status-version	3
+vote-status consensus
+consensus-method 22
+valid-after 2016-12-14 14:00:00
+fresh-until 2016-12-14 15:00:00
+opt
+p reject 1-65535
+r kittensOnTor ABYeFS/PQzgBdvE7lkZWvSQ9bzM W5K25B2phX0cBFAjiPRFxJST6aE 2016-12-14 05:20:55 81.7.16.31 9001 9031
+s FastûGuard HSDir Running Stable V2Dir Valid
+v Tor 0.2.6.10
+w Bandwidth=11400
+p reject 1-65535
+r torhole ABklr6YnQfiuOS5bAPsrD7b+YZg p2WQ6Gjm0ANn1+0fcx0pbPyVzzU 2016-12-13 21:36:58 83.212.99.212 9001 9030
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.8.9
+w Bandwidth=1180
+p reject 1-65535
+r mascherari ABwwI7X3cUuTgBUYYkI56welO+o 0JmpBRhKEXjNsNq6L8k8IekY5k0 2016-12-14 11:23:00 138.197.143.132 9001 9030
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.8.9
+w Bandwidth=829
+p reject 1-65535
+r metroholografix ACEhJSRnU4ydobwjeJl+ZGKYFPY hT7bUU+k4vR3hT5pXLg3PWid6/8 2016-12-14 05:02:22 46.4.253.194 443 9030
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.7.6
+w Bandwidth=286
+p reject 1-65535
+r Einstein ACTURbPR4b5DbJqPYILot9+krrI YB52dLF0bhhCfmq8pEcNG9RC3rQ 2016-12-14 06:35:18 51.15.55.48 9001 9030
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.8.9
+w Bandwidth=4020
+p reject 1-65535
+r dj2bee ACaSv+vqmZwxB7Wfcg1/mkwpgZ8 sSEn7sn9nQ68suzikGUfRySh9IQ 2016-12-13 21:34:26 87.118.116.227 9001 0
+s Fast Running Stable Valid
+v Tor 0.2.4.27
+w Bandwidth=166
+p reject 1-65535
+r rueckgrat ACp1YsEUTmLbtsuU75iSbJaBqCk dvPjhpOCbpl9FJVjehABIWn1+mU 2016-12-14 07:41:02 78.47.148.174 9001 9030
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.8.11
+w Bandwidth=65
+p reject 1-65535
+r rortor3 AD3ytekort+hE2h+y0/NIf+L6T8 Up+7cwuOTLwLWfzNdMWnJFi5s8E 2016-12-14 12:58:13 128.199.199.120 9001 9030
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.6.9
+w Bandwidth=96
+p reject 1-65535
+r torbogen AEHgFQsKMHUGwoY+/J8rfjpSOzY hgUmUsdRxpc0pdny8bd8AJQp80Q 2016-12-14 04:05:00 91.248.83.212 9001 9030
+s Fast Running V2Dir Valid
+v Tor 0.2.6.10
+w Bandwidth=1190
+p reject 1-65535
+r Unnamed AEWa8One0A5UpIsmgSZnn1ePaVo w0LUqP58RdUJGChcNFnftH/hZtg 2016-12-14 12:21:03 158.58.170.220 22 8080
+a [2a02:29e0:2:5::3c]:22
+s Fast Guard Running Stable V2Dir Valid
+v Tor 0.2.8.11
+w Bandwidth=15900
+p reject 1-65535
+r Tukaie AGIB7NtUu85Z+ftkfQSzQw32kJY 5dTELrMm7oc1Oh28‡Ô¨ÈŽÍ¾ÍdIU 2016-12-14 12:36:43 5.79.84.130 39001 0
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.8.9
+w Bandwidth=25
+p reject 1-65535
+r Mozilla1 AGPQ3jLIBpGgrBqWiozPWrpCDik gq0C5xyLtHTZYdef5OfdbgfqX04 2016-12-13 21:49:39 208.36.2.3 443 80
+0.0.1 7001 5001
+contact auth1@test.test
+vote-digest D8BE3A211243C52B647E12A0D7B9E26B9EC01DD2
+r test004r BqwxquEPN6SLUtXsc7otXF6+qEo ZzcOikWBXI9dqyHOFmbHzrkkVaM 5900-12-14 14:32:41 127.0.0.1 5004 7004
+a [::1]:5004
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.0.0-alpha-dev
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc1-2= Relay=1-2
+w Bandwidth=0 Unmeasured=1
+p reject 25,119,135-139,445,563,1214,4661-4666,6346-6429,6699,6881-6999
+r test003r DQ3eLVlszCoHEeuHv7IiPzyxo9k PimkUB0t85dNfrPJ2zU3OkxMo4A 2016-12-14 14:32:40 127.0.0.1 5003 7003
+a [::1]:5003
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.0.0-alpha-dev
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-ote-digest 506D1C9F244A73412B8F1C10FB936F61B7F9B239
+dir-source longclaw 23D15D965BC35114467363C165C4F724B64B4F66 199.254.238.53 199.254.238.53 80 443
+contact Riseup Networks <cUPNm1l3VV88zp4n/qKy4nLLi6XSZKvGNBO5FZ1nbasQtdUUswQFHC
+MnAb2ZJuNLsYChTaYLI12znM0tUU7a1y20kfFAG4suXqzUOUnnAR/Oq46QfnuNnN
+JcRIOCSH4Omj1HtMVk3Vbg==
+-----END SIGNATURE-----
+directory-signature D586D18309DED4CD6D57C1ollective at riseup dot net> - 1nNzekuHGGzBYRzyjfjFEfeisNvxkn4RT
+vote-digest 9205CD2C4A1083A13C6388A389C955C6E792877C
+dir-source maat8FDB97EFA96D3EKQHbEZJMbRhWR924rVIKssr+OE8qTmGiSYBMDjPkZpwdC
+Gw9w51cMvnqannenberg.torauth.de 193.23.244.244 80 443
+contact Andreas Lehner
+vote-digest CEEA867DA922A9696290E3AD14FCD0692427AEB8
+dir-source tor26 14C131DFC5C6F93646BE72FA1401C02A8DF2E8B4 86.59.21.38 86.59.21.38 80 443
+contact Peter Palfrader
+vote-digest 5+sOe3E/cIHasBoU2IU3TvADwoY+fR1
+G3rAGVHXdnServices=0 UseNTorHandshake=1 UseOptimisticData=1 bwauthpid=1 cbttestfreq=60 pb_disablepct=0 usecreatefast=0
+dir-source dannenberg 0232AF901C31A04EE9848595AF9BB7620D4C5B2E dannenberg.torauth.de  Bandwidth=5260
+p reject 1-65535
+r AwwwShiiit AGzB3Rz2L9658357ir Vaanti4s

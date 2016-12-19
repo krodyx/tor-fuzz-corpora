@@ -1,0 +1,62 @@
+router NormalCitizen 46.28.110.136 443 0 9030
+or-address [2a02:2b88:2:1::3e3a:1]:9090
+platform Tor 0.2.4.27 on Linux
+protocols Link 1 2 Circuit 1
+published 2016-12-14 03:16:13
+fingerprint D302 26D0 F477 1E93 B562 AC65 0C90 9393 1408 D8BD
+uptime 1167724
+bandwidth 10485760 13107200 9089163
+extra-info-digest 2B8ED8CC1DB9849A9E82E9D472227D6C6CA21C0C
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAJ0palMA+vso+b6b25mxVFii7jVyIhN+/lB2mHtpGJSegQLWL0bZfaHb
+mbrgmPCt6Sut4tO6cQRYzlIQfv9nKU1wUMKNYiIT8SN9t+ulisWIhIJQJ47QsqHX
+E8O4QFIEeVxxrcw0bjMOKyGU950FDWU3eBqt6U9mfBl1b0JP/8JvAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALdX/gBClR4y9TmuiwV9Q4G1HmvtWZqkIfN+1VAXtPtPKnXzJv+cG0gV
+4ljzvOuOUvHzFX2pvMmrBzYUeRLin7q0/lWehkkQsFrWW9LsYTkjQ8avS7Gl2jGX
+7kG2fktSQq4qfbSlBZNbXzag8X5rmBCwekmxRSBkUFfFBp38MMHpAgMBAAE=
+-----END RSA PUBLIC KEY-----
+family $DB866328A5D55EBD34B5BC293FFFDD43AD81C51A
+hidden-service-dir
+contact 1HDWeYX59Ayp3x8dAUWcpyUeTXEDwrh7vD
+ntor-onion-key uLf9SwS5YhxrCPGM1YINNI765AkLY3lf8waSbg2Y1D8=
+reject 0.0.0.0/8:*
+reject 169.254.0.0/16:*
+reject 127.0.0.0/8:*
+reject 192.168.0.0/16:*
+reject 10.0.0.0/8:*
+reject 172.16.0.0/12:*
+reject 46.28.110.136:*
+reject 171.161.202.200:*
+reject 23.4.252.69:*
+reject 23.4.250.108:*
+reject 104.123.192.160:*
+reject 104.123.201.222:*
+reject 104.123.228.37:*
+reject 104.123.159.169:*
+accept *:20-21
+accept *:23
+accept *:53
+accept *:79
+accept *:81
+accept *:110
+accept *:143
+accept *:443
+accept *:554
+accept *:1194
+accept *:5222-5223
+accept *:5900
+accept *:6660-6669
+accept *:6697
+accept *:11371
+reject *:*
+ipv6-policy accept 20-21,23,53,79,81,110,143,443,554,1194,5222-5223,5900,6660-6669,6697,11371
+router-signature
+-----BEGIN SIGNATURE-----
+RGKa2IPNLTMENPcwe0ABFNqr/0UAfRnHiL+InataFGuY4qXTANXEzlgGgE+BbOxh
+SqoitewsLJWzyYAMeHhn9gt6gw7JUht8s3Yr/S8rzv0BPrmHItnlEU/r2EAHUmSH
+RE/Fl9rgNqtE23VoGGTUKIe3+9S/EDTLgg0XRne4Cr8=
+-----END SIGNATURE-----

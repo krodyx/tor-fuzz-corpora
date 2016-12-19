@@ -1,0 +1,32 @@
+extra-info relay34 FD4CD876A4A1DD4BEB0DCCAEE2ED87904A68951D
+published 2016-12-14 02:47:31
+write-history 2016-12-14 00:44:22 (14400 s) 2074275840,4774900736,2974533632,2726320128,2327290880,2410657792
+read-history 2016-12-14 00:44:22 (14400 s) 2066854912,4756512768,2966374400,271extra-info relay34-----BEGIN A1DD4BEB0DCCAEE2ED87904A688704640951D
+published 2016-12-14 02:47:31
+write-history 2016-12-14 00:44:22 (14400 s) 2074275840,4774900736,2974533632,2726320128,2327290880,2410657792
+read-history 2016-12-14 00:44:22 (14400 s) 2066854912,4756512768,2966374400,2718704640,2321660928,2402117632
+geoip-db-digest 207A8167FC83230884A7B463B8EE12385CF1874F
+dirreq-stats-end 2016-12-13 23:58:39 (86400 s)
+dirreq-v3-ips 
+dirreq-v3-reqs 
+dirreq-v3-resp ok=0,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=0,timeout=0,running=0
+router-signatureB--
+-E--GIN SIGNATURE-----
+SdST93/FW2cr4GmHawUp0sPzA2nTYQ7qVDIYeCkHOrtNHG3STxo3zwqLQbwxoOW9
+BU3o5retUzRBStvEzphGSNzPVQPDw+8T,2321660928,2402117632
+geoip-db-digest 207A8167FC83230884A7B463B8EE12385CF1874F
+dirreq-stats-end 20166/J04RV5odXkkl9nvQUmP6s/vgdUNmSP
+zjoK05bLVJzdQHg1otS/McOfwx1ZLKyQ-12-13 23:58:39 (86400 s)
+dirreq/v3-ips 
+dirreq-v3-reqs 
+dirreq-v2-respdirreq-v3-resp ok=0,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,,2410657792
+read-history 2016-12-14 00:44:22 (14400 s) 2066854912,4756512768,2966374400,2718704640,2321660928,2402117632
+geoip-db-digest 207A8167FC83230884A7B463B8EE12385CF1874F
+dirreq-stats-end 2016-12-13 23:58:39 (86400 s)
+dirreq-v3-ips 
+dirreq-v3-reqs 
+\irreq-v3l9nvQUmP6s/vgdUNmSP
+zjoK05bLVJzv65SCSF12HdQHg1otS/McOfwx1ZLKyQv65SCSF12HQ=
+-----END SIGNATUQ=R

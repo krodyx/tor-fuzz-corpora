@@ -1,0 +1,27 @@
+extra-info noname 784FDCCBFDBC99C63C84714FACE167AAA3B522D7
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmXkAfkVJzTvjGnrMsJFjPPHi6qNcrTXqOmIQuAVYllWhc4pAQAgBAA8dNB/
+w39QwC7lS8JILxPtM2tNNZ/6yJ3uQb/kN0NJkFG+DQBnh4CsaX3GWFmzw6bYiMR9
+ULbzKCTeFdBdgAUgJU+efQzdTM3wf3U87YCB4vLFxSLE2VXfLu+jY3gbqwg=
+-----END ED25519 CERT-----
+published 2016-12-14 06:27:17
+write-history 2016-12-14 04:50:05 (14400 s) 20447232,734208,76434432,59859968,0,0
+read-history 2016-12-14 04:50:05 (14400 s) 26135552,5932032,83749888,65894400,0,0
+dirreq-write-history 2016-12-13 16:50:05 (14400 s) 0,0,0,0,0,777216
+dirreq-read-history 2016-12-13 16:50:05 (14400 s) 0,0,0,0,0,14336
+geoip-db-digest 363C038D0BE61D6E0A63C43DE8EA70771ED7BEA5
+geoip6-db-digest 6110A2B794AFF0180FD096A4759434CABD289C40
+dirreq-stats-end 2016-12-13 12:37:30 (86400 s)
+dirreq-v3-ips 
+dirreq-v3-reqs 
+dirreq-v3-resp ok=0,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=0,timeout=0,running=0
+router-sig-ed25519 XaYyVPA+Oh/QxtXa5lICbVGt7vP9QgGjY6CK4jYMWS2EmgDnQlCZWZF09Kjfgsd0BSpTiJ6Wrc7F2iz0/ZCjBg
+router-signature
+-----BEGIN SIGNATURE-----
+UjQmWh2xhInRWHS/pNAiJm2OpaxgMpbJKZ+ASlRROXhxT7jifqJ26lK0Ak21gFi5
+Ct0a454rKhaNi16uqsZK+ViHZnGb3P3oMkHrN1abaSN93K/usDjlhtaldmJ7cfmh
+Ucmyktwmsz1JvYM1RJqS3XxnPm6FFW6rTjzgwv44HZE=
+-----END SIGNATURE-----

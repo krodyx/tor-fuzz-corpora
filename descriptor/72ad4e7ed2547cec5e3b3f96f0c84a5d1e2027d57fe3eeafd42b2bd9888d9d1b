@@ -1,0 +1,64 @@
+router BaitSP 71.237.94.16 9001 0 0
+platform Tor 0.1.2.19 on Linux i686
+published 2008-02-04 08:11:33
+opt fingerprint 1271 EDEC 0C67 8E5E A9CF 8777 F814 1F4A 9141 6B15
+uptime 670
+bandwidth 21504 819200 25213
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANBsp4in47npM2ZvkecZYlagQfFqQ/kajwloc7ydQVOz0kY07g0RdtxC
+yPugWL7h6qChglsj3GFZecmKmaN9aipmFN9UDDIW4df12sT1k9GzeWDWSh98TKKI
+dXWEd3N+H9btysjcP1OLPTY1oQGhVwL/0kKGptvU37oU/T095ggZAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALFtaqXUAkDdrmqSUxA9RSnDr/vQaH1y4K55TqaxDfL3iC2sG+P8YSvT
+9+wZ6c4oW3wZb+6FI7Rgz8aH/XMsISTLGf0alYNz59fmUJosXFDibAPY0+OnsaLi
+kh1FnWplBGgXmgcPS8Voti1yZsMOKd0qiqLQtY1++QIQQiU+w3T9AgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt write-history 2008-02-04 08:10:53 (900 s) 442368,203776,805888
+opt read-history 2008-02-04 08:10:53 (900 s) 5052416,204800,967680
+contact TOR-misconfiguration-manager <Mnemotronic@NetSPHEREscape.Net minus geometric form>
+reject 0.0.0.0/8:*
+reject 169.254.0.0/16:*
+reject 127.0.0.0/8:*
+reject 192.168.0.0/16:*
+reject 10.0.0.0/8:*
+reject 172.16.0.0/12:*
+reject 71.237.94.16:*
+reject 66.35.250.150/24:*
+reject 12.31.165.71/27:*
+reject 216.178.38.104:*
+reject 216.178.38.116:*
+reject 216.178.38.121:*
+reject 208.65.153.238:*
+reject 208.65.153.251:*
+reject 208.65.153.253:*
+reject 207.182.246.52:*
+reject 209.96.200.1:*
+reject *:25
+reject *:119
+reject *:135-139
+reject *:143
+reject *:174
+reject *:209
+reject *:220
+reject *:445
+reject *:465
+reject *:563
+reject *:587
+reject *:1214
+reject *:4661
+reject *:4662
+reject *:4665
+reject *:4672
+reject *:4711
+reject *:4712
+reject *:5737
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+FS51i2+awbo30u7gEqz+T9moksMHb6yIoSLWWNGg49ug9Fang439z2aCWphT7Fmv
+V0YVJCwa8XBY4wHpePVG6MoyF2FhiCeyCp1Xoz/QdMIv5fpn0mJjSFZkIVSUPf0Y
+VRO4BY5V3m+C44Q5LSft9z8dfpmQ+KJUNl0AxVtnYbI=
+-----END SIGNATURE-----

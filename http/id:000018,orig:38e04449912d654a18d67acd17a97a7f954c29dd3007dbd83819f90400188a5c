@@ -1,0 +1,3 @@
+GET /tor/server/authority.z HTTP/1.0
+Host: [::1]:5003
+

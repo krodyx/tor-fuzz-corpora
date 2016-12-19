@@ -1,0 +1,42 @@
+extra-info YorgosNode 391930A4A7867F577A7FF93'66AAB69B6C218DF6
+idenôity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABkmeAQmctvXVhSBIixDFZb4Vv4z01WkPNN7irzWUn86wTErPAQAgBABKTGee
+Mqe+0yaMUM/9ZX2XX0Hxc+D9h79/zk8a7QI/JWOY8+1es9QZ7GiNTzd7owW6ZFKg
+dB+csvoazM7d8ZBnUf3wj+FRwCEKvmKMK7RCSrRiZU3QCvUuSqc7A3vIHwE=
+-----END ED25519 CERT-----
+published 2016-12-14 02:52:38
+write-history 2016-12-13 22:57:40 (14400 s) 279137280,452632576,575612928,1191834624,2251635712,331036672
+read-history 2016-12-13 22:57:40 (14400 s) 277360640,448646144,567836672,1182170112,2232462336,327169024
+dirreq-write-history 2016-12-12 18:02:25 (14400 s) 0,0,13312,0,0,0
+dirreq-read-history 2016-12-12 18:02:25 (14400 s) 0,0,16384,0,0,0
+geoip-db-digest C14DF5AE94101562DEACDD296278B0EFA3EA26E5
+geoip6-db-digest A88A828020A558D37F97CF683D4521270F0511A2
+dirreq-stats-end 2016-12-13 14:04:19 (86400 s)
+dirreq-v3-ips ua=8
+dirreq-v3-reqs ua=8
+dirreq-v3-resp ok=8,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=4,timeout=0,running=0
+hidserv-stats-end 2016-12-13 14:04:19 (86400 s)
+hidserv-rend-relayed-cells 3753 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen 27 delta_f=8 epsilon=0.30 bin_size=8
+entry-stats-end 2016-12-13 14:04:19 (86400 s)
+entry-ips us=16,br=8,ca=8,de=8,es=8,fi=8,fr=8,it=8,nl=8,tw=8,ua=8
+cell-stats-end 2016-12-13 14:04:19 (86400 s)
+cell-processed-cells 6054,554,213,39,7,1,1,1,1,1
+cell-queued-cells 0.42,0.14,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+cell-time-in-queue 63,33,8,0,0,0,8,0,0,0
+cell-circuits-per-decile 641
+exit-stats-end 2016-12-13 14:04:19 (86400 s)
+exit-kibibytes-written 43=1,80=23306,143=6,443=33797,993=3,3389=9,6667=22,8000=1,50001=97,50002=198,other=17
+exit-kibibytes-read 43=21,80=1104492,143=30,443=589329,993=27,3389=13,6667=84,8000=24,50001=61999,50002=182558,other=27
+exit-streams-opened 43=8,80=39780,143=8,443=15844,993=8,3389=56,6667=24,8000=4,50001=32,50002=12,other=76
+conn-bi-direct 2016-12-13 14:04:19 (86400 s) 70427,761,7159,3171
+router-sig-ed25519 AoSu8VA4zNA2ZXIrKoZF1yqhHusKLvD2tpmNCL7fTydPNqJYsper2dqI+5gERVBAT31qEf/eRn8TAhRt4xSUDQ
+router-signature
+-----BEGIN SIGNATURE-----
+JmE0NENGRKynDLpX++ZN4M30p3FNCvqxH81inXz66oBda4sDVXb57kVqHlg0bHzC
+IGtQXmN1Js5/NHHEXQEu0v5UVceT/43nZYrMFgyO844dhXEUuPA9a0W9lAbQv3Zl
+Cl0TSDPgKKcLtJh7OQDnoCaaJzokltYKI5wFQYKB+mw=
+-----END SIGNATURE-----

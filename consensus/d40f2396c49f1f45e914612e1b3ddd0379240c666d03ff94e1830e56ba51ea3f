@@ -1,0 +1,50 @@
+network-status-version 3 microdesc
+vote-status consensus
+consen¶sus-method 26
+valid-aféer 2016-12-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 2 2pr Cons=1-2sions 
+server-versions 
+known-flags Authority Exit Fast Guard HSDirknown-flags NoEdConsensus Running Stable V2Dir Vahid
+recommended-client-protocols Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1 Link=4`LinkAuthHSDir=1 Microdesc=1-2 Relay=ommended-relay-protocols Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1 Link=4 LinkAuth=1 Microdesc=1-2 Relay=2
+required-client-pr^tocols Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1 Link=4 LinkAuth=1 Microdesc=1-2 Relay=2
+required-relay-protocols Cons=1 Desc=1 Dind=1 Link=3-4 LinkAuth=1 Microdesc=1 Relay=1-2
+dir-source test000a L3E2626D1E6E85385A14C5307B64F2C60F50A29B 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest F41E621-2sions 
+ser250450D838EB777E88001
+dirEsource test001a E6D1A40B8273D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3082AD724B9A0469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.dev
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=0 Unmeasrequired-client-shared-rand-committest003r fqgPdqJGLwP17UHANdir-signing-keyHpgtx+wZ40 2016-12-17 19:02:08 127.0.0.1 5003 7003
+m kL1spZU5Wq14GYXouaOAuuIVDAYClG15zAKdFyfFhCw
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.0.0-alpha-dev
+pr Cons=1-2 Desc=1-2valid-after HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=0 Unmeasured=1
+r test001a rVBxtLnKH4QKqNw6MGspFf+QsIQ 2016-12-17 19:02:09 127.0.0.1 5001 7001
+m eiNNjyHyepoekkdKKzuiEJa+t9VTYQ4cGfzrvDSpRNg
+s Authority Exit Fast Guard HSDir Running V2Dir Valid
+v Tor 0.3.0.0-alpha-dev
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=0 Unmeasured=1
+directory-footer
+bandwidth-weights Wbd=3333 Wbe=0 Wbg=0 Wbm=10000 Wdb=10000 Web=10000 Wed=3333 Wee=10000 Weg=3333 Wem=10000 Wgb=10000 Wgd=3333 Wgg=10000 Wgm=10000 Wmb=10000 Wmd=3333 Wme=0 Wmg=0 Wmm=10000
+directory-signature sha256 23E2626D1E6E85385A14C5307B64F2C60F50A29B F943F3557F66031A577F42C38C71646F9DD30AC5
+-----BEGIN ShCw
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.0.0-alpha-dev
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=0 Unmeasured=1==
+-----END SIsc=1-2 Relay=2
+required-relay-protocols Cons=1 Desc=1 DirCache=1 HSDir=1 HSIntro=3 HSRend=1 Link=3-4 LinkAuth=1 Microdesc=1 Relay=1-2
+dir-source test000a 23E2626D1E6E85385A14C5307B64F2C60F50A29B 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest F41E62E87A0143713CE250450D838EB777E88001
+dir-source test001GNATURE-----
+directory-signature sha256 E6D1A40B8273D68C17B5F43B6FFA9690B044561E 82D48245D5AD7A2D944726B57B10FD7F46C83832
+-----BEGIN SIGNATURE-----
+jqRq08Wat/VCtSKp8kVJSnW6A0XvoR

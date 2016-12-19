@@ -1,0 +1,15 @@
+extra-info RelayPP A336893B110975E688C6C880E63D4C76589C319E
+identity-eอออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออkอออออออออออออออออออออออออออออออออออออออออออd25519
+-----BEGIN ED25519 CERT-----
+AQQABkh0AVMY0jooUB270Hvq6U4h0Y9bP51zR3jrvtvv0GDz/kifAQAgBADNc5l8
+czWKria2Rkc6YZVj7NYZu/VlnfZFBihdO3lZma
+//Slc7t7sAossRxc+R6E5ZVrrq3lKDIftidQ3jfTeWaz3qOQA=
+-----END ED25519 CERT-----
+published 2016-12-14 11:12:2ÿÿ4
+router-sig-ed25519 zFWXLXRzTQ7BDEc7xdLQFF4j//dnWPxmN3c2XdKCtAsitS4S5jqU6Yf/dIGÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿGCSCq/fj3m+bpDoaW9PY+EC+HBg
+router-signature
+-----BEGIN SIGNATURE-----
+FH9uJnMCdDmlcR0Jc0/JihwBe8E3FKbBGcwb/yC7nPGq429RTflBLe6lYs1ojtac
+MEPzBJepQtGAJNgr8rU/q6RsI1KcZVko0l0mXEP+EKLth66L2jzdcI929npMvahx
+6Y3a1SzIoFD+Hk/SZNPD4Xd8MvDMGxLU64fHRitT4C4=
+-----END SIGNATURE-----

@@ -1,0 +1,31 @@
+router MiddleSponge 62.241.240.82 1433 0 1434
+platform Tor 0.2.0.19-alpha (r13450) on Linux x86_64
+opt protocols Link 1 Circuit 1
+published 2008-02-15 13:44:58
+opt fingerprint 507B DB2E DEC5 6AFB 4623 583B C075 C023 3BB6 5C92
+uptime 1
+bandwidth 51200 102400 0
+opt extra-info-digest F798C4B6E834E2852BEEA222F653A00F8B619CC6
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANP+Wq0fbd2lhh0oKt4encnlEKtGnZaFye6OrQXk6hQhODW8QRR38+59
+LD8BxnccYTwKnkpQpbfSmaXFqNkC7uUZ/CJAkjqjj6F93YENyc0BXEJ3CuGeJsSw
+E3n9HFi/4AhoLE4hyGK0kWds/N9ck8+D6XR6tuvdjLg6iDOB4Z2nAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKd/Z6P2H3jUmqOeNg+juUAQwqogFSkOWGn7YDiTBtsR2j052DxsD08v
+dCkbru+lXOpqn7jOFYlpPxFEDMCIr+PcxcwH0fOrCCn9npafRBXGVzwdkDaXczGK
+bskrDoPk2euirowRvwoNCU+tEW1Z9nCpcASSbN8YUxK9ZNjBJtcvAgMBAAE=
+-----END RSA PUBLIC KEY-----
+family $FEB8D75342774F75E969653B90BDDE03F8FE8AA3
+contact 1024D/B7F6574A Random Person <tor AT piirakka dot com>
+accept 67.199.36.108:443
+accept 83.145.201.47:80
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+nW0bgVnjhMkKmPtXphy8ddiby1S2Uvpcn/ws8E5wm/QkVoUbRfyZ1R4ZZT67IRO2
+RbANf1NGZ/GZoChotPPplJOJOBj3Et9z6p4OgfbbM3RvhaDY0LsfEw1oqVxOBLMn
+4TxN/rM8Bye2DIBYudpUef+VFrcyZP+KeF6SdoXVuVI=
+-----END SIGNATURE-----

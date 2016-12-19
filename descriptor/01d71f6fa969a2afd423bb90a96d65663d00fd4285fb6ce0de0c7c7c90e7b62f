@@ -1,0 +1,96 @@
+router z106iqf 81.57.108.63 9001 0 0
+platform Tor 0.1.2.19 on Linux i686
+published 2008-02-18 10:44:37
+opt fingerprint CEEA 3607 C537 A9D2 A7BA B142 8881 7BEE E2C6 E4B7
+uptime 31
+bandwidth 32768 6291456 0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAPSIA2Prm/RkmCKM10WpnMa99VE9W8Jal377KaqkMloH4ltxAVhuq2mX
+sF6L4J147BHM5CnKN9O9Kpbvwto71pPZfmZEq+OKOGsk+b901eoPv6cT7ky0gqOn
+1Nd38p63izJ5hkQvSiXQrta1Dh0c1wv3p1VWzaBVHe73jhi7sJkjAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAL/tkzMdKrlXR6xtyC2CiKhwADt4Ql95qlSbJ0zD9tzaAdwEFd+eLVh7
+Cq8SiIU/tkATHMeRe7FcpUuJezJ8BQnkUDqUOL99nXX6DwChoGWfb+bb9GNYmRZi
+cy+uEPeCAj/lrV9T0O7WjWjFTaL0jZ4xuHW7xITs1Nr90ZAkG5vVAgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt write-history 2008-02-18 10:43:20 (900 s) 
+opt read-history 2008-02-18 10:43:20 (900 s) 
+contact 1024D/0BBABA91 Michel Arboi <michel@omniphobe.fr.eu.org>
+reject 0.0.0.0/8:*
+reject 169.254.0.0/16:*
+reject 127.0.0.0/8:*
+reject 192.168.0.0/16:*
+reject 10.0.0.0/8:*
+reject 172.16.0.0/12:*
+reject *:1-23
+reject *:989-990
+reject *:25
+reject *:465
+reject *:587
+reject *:109-110
+reject *:995
+reject *:1109
+reject *:143
+reject *:220
+reject *:993
+reject *:512-514
+reject *:119
+reject *:563
+reject *:6660-6669
+reject *:194
+reject *:994
+reject *:2869
+reject *:5800-5810
+reject *:6000-6010
+reject *:135-139
+reject *:445
+reject *:5631-5632
+reject 82.67.27.165:*
+reject 66.240.11.0/24:*
+reject 209.85.128.0/17:*
+reject 87.248.112.0/21:*
+reject 217.12.0.0/20:*
+reject 212.27.32.0/19:*
+reject 81.56.0.0/15:*
+reject 82.224.0.0/11:*
+reject 88.160.0.0/11:*
+reject 193.252.148.0/23:*
+reject 83.206.0.0/16:*
+reject 194.2.0.0/15:*
+reject 198.184.231.0/24:*
+reject 198.184.232.0/22:*
+reject 213.169.192.0/18:*
+reject 62.23.0.0/16:*
+reject 137.194.0.0/16:*
+reject 193.51.0.0/16:*
+reject 192.93.0.0/19:*
+reject 194.57.0.0/16:*
+reject 62.4.0.0/19:*
+reject 89.80.0.0/12:*
+reject 194.158.96.0/19:*
+reject 212.30.96.0/19:*
+reject 84.96.0.0/13:*
+reject 213.161.192.0/19:*
+reject 217.70.176.0/20:*
+reject 192.134.0.0/16:*
+reject 81.252.0.0/16:*
+reject 12.29.100.0/23:*
+reject 199.17.0.0/16:*
+reject 193.200.0.0/16:*
+reject 128.213.48.13:*
+reject 91.198.174.0/24:*
+reject *:1214
+reject *:4661-4666
+reject *:6346-6429
+reject *:6699
+reject *:6881-6999
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+nPkBaJYmDhuVr0jucOQ/vYCEezwr9PWg9qPp95Q1nygt8pqQeH4C6qePO6XsB5Cf
+IfyyrsqDRBhB9H6pBGnDlObKIoSlrK5RUKj7ox0ZIJ3oI+SQmZQH9xSvlK4tStFn
+5FZa/gWhLS6oLwTgZ+yWz71G9wwsXmo4BhbDhWoTvM4=
+-----END SIGNATURE-----

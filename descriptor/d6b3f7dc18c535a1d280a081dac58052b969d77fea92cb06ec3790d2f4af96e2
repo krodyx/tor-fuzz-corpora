@@ -1,0 +1,43 @@
+router idideditheconfig 166.70.54.100 9990 0 0
+platform Tor 0.2.0.33 (r18212) on Linux i686
+opt protocols Link 1 2 Circuit 1
+published 2009-03-21 16:47:28
+opt fingerprint BFBE 537C 41BA B808 0797 36D9 B1F6 8319 7337 AAE3
+uptime 6
+bandwidth 24576 24576 0
+opt extra-info-digest 61418DACB59AAC17E544D7A2D2315A8B30B02890
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMmfNYP82nIjSXof/HLyg7PoI7RBu3aCfaj/B5x6THHIAQKVIL0St46W
+Xc3GsfOzbRGgJuOSCdS5eu3Fkn3WHS73dclj2DfLAQmkNLib8eRq/GYsvo/qTt/F
+/yHRpUALEb0jcjLMVLs0siC1KoPq88lhVO6vv14RrvtaKJCIyU8xAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMasTAV/+3iD8NkmwE2w6jWK3E8RsrO9bI9f8strZFGf4a5CKjqQ05iv
+8L9X1kyFUDreAkevFUbgqDkQQvGnBxOnC6v/5oCXpug+qfrRuCJYPz6mzV2S6kXk
+LcSPNLGsiGVqhNsITO0clI3ILlkLq4aDveLfW8+5I7u3iDeUiTtnAgMBAAE=
+-----END RSA PUBLIC KEY-----
+reject 0.0.0.0/8:*
+reject 169.254.0.0/16:*
+reject 127.0.0.0/8:*
+reject 192.168.0.0/16:*
+reject 10.0.0.0/8:*
+reject 172.16.0.0/12:*
+reject 166.70.54.100:*
+reject 1.0.0.0/8:*
+reject 5.0.0.0/8:*
+reject 111.222.111.0/24:*
+accept *:22
+accept *:53
+accept *:1080
+accept *:3128
+accept *:6588
+accept *:8080-8081
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+v/8lx3JUKdo6btb+86o87FEhnfXcB423qhsrqHZ9R3wW+jYw25pwefBTiJL2qoSP
+jQVTlmFLz4HWQPgDDuh6VOu34W5N5vekvddKyzq/v3DyfrgzifqDKBqXSVg6Hwjl
+YBjXxXb0vg1+/Wwy4peIIRcVVDdJ4YgjbTnqUofCW6c=
+-----END SIGNATURE-----

@@ -1,0 +1,71 @@
+router coffin 213.100.22.76 443 0 0
+platform Tor 0.2.0.18-alpha (r13293) on Windows XP Service Pack 2 [workstation] {terminal services, single user}
+opt protocols Link 1 Circuit 1
+published 2008-02-09 06:30:22
+opt fingerprint EFC8 EC65 38F7 B0A4 9408 AF5A 81D4 0C5E BE49 4A44
+uptime 0
+bandwidth 5242880 10485760 0
+opt extra-info-digest 945DEF5581FF3154469AE94415462A1EA78FC6A0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMLpzl++XJN+RWlCjIhEt4KaRTCNuwsHGDsqDuVQtR2wc91k1A/BJJvG
+trp7u180fvuToavdUf8oK5AMHm9sa5CNWJsJK2l5iJ2ZH8C/c3EgdnIWK/2IXyuy
+sHwGsH2yz5RtHtCqjTdqTho+F3r+PIbTfYT4fx7VNEriI93kWWNhAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALI/FS7Y73FDeOMH5Tw5iHOCxLEzsmIIQ1T9PL7wnfY+AqWTzP104say
+4fEJrHyZpg6AT/rQx3y+C6e6gnwQ0fJpTgjf0g/0dPac3fpZc1w51ImLcmYpgwXK
+TeOmbJgCvfxBFPgjmUtzJoDL+6WA1LgLL2R19snve52alqUsMR2XAgMBAAE=
+-----END RSA PUBLIC KEY-----
+accept 86.59.21.36:80
+accept 86.59.21.36:443
+accept 86.59.5.130:80
+accept 128.31.0.34:80
+accept 130.237.209.20:*
+accept 66.249.93.104:80
+accept 72.14.221.104:80
+accept 216.239.59.104:80
+accept 208.69.34.231:80
+accept 209.85.135.99:80
+accept 209.85.135.103:80
+accept 209.85.135.104:80
+accept 209.85.135.147:80
+accept 64.233.179.160:80
+accept 87.248.113.14:80
+accept 69.147.114.210:80
+accept 217.12.3.11:80
+accept 193.108.95.56:80
+accept 193.108.95.111:80
+accept 130.242.56.232:80
+accept 130.242.56.231:80
+accept 213.144.235.204:80
+accept 65.214.39.56:80
+accept 78.137.163.170:80
+accept 78.137.163.160:80
+accept 221.253.190.234:80
+accept 64.251.14.80:80
+accept 64.251.22.6:80
+accept 64.251.22.7:80
+accept 65.111.175.201:80
+accept 65.111.175.205:80
+accept 67.199.36.108:80
+accept 67.199.36.109:80
+accept 67.199.36.110:80
+accept 69.60.115.165:80
+accept 69.60.115.168:80
+accept 216.197.121.236:80
+accept 65.111.175.205:443
+accept 67.199.36.108:443
+accept 67.199.36.109:443
+accept 67.199.36.110:443
+accept 69.60.115.165:443
+accept 69.60.115.168:443
+accept 216.197.121.236:443
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+oE9YS/9qxdCiAxKwbx76z6T6Igjit3omDxcpntLdSxoSl+VhiK13mN80vy8gQHew
+c76/DQ2oUtdLi5w9VpeC0eQ1kFyYRVyJ3Fv2/wvQuUaqHaf6DklCBjVXSLtcyQBT
+i7Qwk9lDEHkLcUzYngXDEflhDFTvSHOhO2+JTPXZlNg=
+-----END SIGNATURE-----

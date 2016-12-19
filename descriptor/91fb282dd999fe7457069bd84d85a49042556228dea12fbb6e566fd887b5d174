@@ -1,0 +1,31 @@
+router sackville 209.221.140.130 1723 0 0
+platform Tor 0.2.0.34 (r18423) on OpenBSD i386
+opt protocols Link 1 2 Circuit 1
+published 2009-03-21 02:26:54
+opt fingerprint 1BD4 0C7A 3A4D 1E5C 8285 D9E5 695E A3F2 1A39 51E0
+uptime 584645
+bandwidth 30720 81920 39087
+opt extra-info-digest 0E74449C41FD42F22AA78170A8D70D171A6A1782
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAOG/xdX2RA8qzhXSb+v/KXw9wLuvqpp+SYT4H/7xiA/acykS9e8l/Ak4
+w5vMHxphzXZ/4FGhFhQ2Khe2S1JgbyFPeMm4lBgIOWCkKYEdmVUM1lehQU9LqZaF
+M8AwZlv4SsuFsKoZUm1bftmXJ7JnQQ8CREjQFv1g5BdqraGToq6lAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAK7o1CjAR0tBB4kdlEXeIlEcAIMs1cqeiPxCXGatsRUURuLAF52j0rgd
+1AS4IGocJWM4pvTdNqo/9eDaFNLdKcMYuus/95j5IjAOhCZQepidXiSv9X60Yfww
+FCBdBJlvj+FejBzvYrbxn/RECnUXrxTnqvh37PmpRR8PqhtkfCDHAgMBAAE=
+-----END RSA PUBLIC KEY-----
+reject 209.221.140.130:*
+accept 209.221.0.0/16:80
+accept 209.221.0.0/16:443
+accept 140.211.166.4:6660-6669
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+cBJ7EY97FzgtVN6AqhsgO5TKJeQAK9k3SD8ZCXuPLtEmjfPuML3Zwd04N6O0qErg
+VgeXAShvfgqUs3qftFMtk4QatCLYEaGA29D0BoBNv4OagsAaZq/+aEEMIAteKw3F
+AHacHNUZ3jx01IKcPiWaSQAVoqWN0xbGPGGBrFrG2iY=
+-----END SIGNATURE-----

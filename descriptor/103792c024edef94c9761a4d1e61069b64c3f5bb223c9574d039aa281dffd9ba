@@ -1,0 +1,99 @@
+router XSYX 217.23.14.190 21 0 9030
+platform Tor 0.2.5.12 on Linux
+protocols Link 1 2 Circuit 1
+published 2016-12-14 02:20:15
+fingerprint C2C7 796F 98D2 2EAB 9106 48FD D549 5108 9E62 33DE
+uptime 16468980
+bandwidth 1073741824 1073741824 10002836
+extra-info-digest A869168BA70F49063D389AB0775C75718D60B27D
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAJm4vSfcHVih87AouKHj6zd0ENAViCqSY7Xv9T95rcfUZvDB/TlrF8d2
+k3r8zWkWVdKRGMG1kJAUCFv13FjVRSCiPYXFF6Ogjr3FwgyJv9LFdDrslVZ/DJ0U
+2TCtzo+ttvIg4QaJ3bQIs9HDlc8H4jKC6xBUv3mw/l5Xa1FseW/DAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMYWSONuiGapdcK6qIRsdFZlqLELsUtGFBDnUeh32KPuykUwGw4AcIli
+ET3aZsdpddfr9Kc4XyB/CS81hFUANgvFqYA5nhenlbkOKYS9NmJu41aqLy/Pmu3j
+uNSftJeYCICR1bBjGmL3ro5r7xaM8whT9PUl0d16HC3iq6njP8yXAgMBAAE=
+-----END RSA PUBLIC KEY-----
+hidden-service-dir
+ntor-onion-key r4GKDk3TRbxRrVgdiLGxlWZwV73wZWKBiq5agQ066y0=
+reject 0.0.0.0/8:*
+reject 169.254.0.0/16:*
+reject 127.0.0.0/8:*
+reject 192.168.0.0/16:*
+reject 10.0.0.0/8:*
+reject 172.16.0.0/12:*
+reject 217.23.14.190:*
+accept *:21
+accept *:43
+accept *:79-81
+accept *:88
+accept *:110
+accept *:143
+accept *:194
+accept *:220
+accept *:389
+accept *:443
+accept *:464
+accept *:531
+accept *:543-544
+accept *:554
+accept *:563
+accept *:636
+accept *:706
+accept *:749
+accept *:873
+accept *:902-904
+accept *:981
+accept *:989-995
+accept *:1194
+accept *:1220
+accept *:1293
+accept *:1500
+accept *:1533
+accept *:1677
+accept *:1723
+accept *:1755
+accept *:1863
+accept *:2082
+accept *:2083
+accept *:2086-2087
+accept *:2095-2096
+accept *:2102-2104
+accept *:3128
+accept *:3389
+accept *:3690
+accept *:4321
+accept *:4643
+accept *:5050
+accept *:5190
+accept *:5222-5223
+accept *:5228
+accept *:5900
+accept *:6660-6669
+accept *:6679
+accept *:6697
+accept *:8000
+accept *:8008
+accept *:8074
+accept *:8080
+accept *:8087-8088
+accept *:8443
+accept *:8888
+accept *:9418
+accept *:9999
+accept *:10000
+accept *:11371
+accept *:19294
+accept *:19638
+accept *:64738
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+J3OOLWWNOPCzAOpNgb0xOr6iJBI0fXAifIm7HxRY3nimzOEBbdy4x2jk4Xnr/vV/
+XHicHqVv0OuHO6uBvChPQ9AMN/u3NHn2N/KpJNchhpsEZFDHl3EXNRk7C2/q/mJ0
+CEj76+4lPra5jDdt5MFBm06mHzHs/qfbSETSpxk8XrI=
+-----END SIGNATURE-----

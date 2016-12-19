@@ -1,0 +1,62 @@
+router 1010 188.195.110.201 9002 0 0
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABkArAQWdhj9duYELMgh/T9jN+tfT4b9jtwWmMPLfEQP3Q0Z0AQAgBADZ4idL
+OFKmnxx7YA6OmrmUKXPtMaVYxREreGICZYZLKwCLYJR0H+pzUFz9//eqYLlDgJMK
+as/UX+KhFDp5KJBMV018J4YDTSPKgcIUXcJZPhlORTluDl6UelFwtKkBsQY=
+-----END ED25519 CERT-----
+master-key-ed25519 2eInSzhSpp8ce2AOjpq5lClz7TGlWMURK3hiAmWGSys
+or-address [2a03:400:7]:443
+platform Tor 0.2.7.6 on Linux
+protocols Link 1 2 Circuit 1
+proto Cons=1-Auth=1 Microdesc=1-2 Relay=1-2
+published 2016-08-26 00:01:40
+contact Fuzzy Zoeller <https://en.wikipedia.org/wiki/Fuzzy_Zoeller>
+fingerprint 98E7 8C57 9A9E EC6F 6C15 3405 DC01 A909 A17D FB54
+uptime 5
+bandwidth 131072 262144 55296
+extra-info-digest 2EB549738343F22DC0D1339B6697857A2B311FC0 L0qqpXGJTCDCf9CpIr8fw0Y2G99rHX6+hs+iNfDbL54
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMEvXwJJZKnAi5hxbVg3d6MQmbMOe+uco0YRcxXZYKgHw/2cPRo0Jytp
+Z600CxImPPht6QX+aNY0ZYNW4dckcDcYltKcDrsiM6/PYlpQzxOng/EFaJJ/459B
+727QAz6yRmgENEDKYyX9plbeGRVK32D5/XsN1njexSCtjTzPaaolAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKzKoupmrbgjn6R7VYs8D70Nj3tvtNmTlg92Fo1KD/F58yeFTEzEVpVO
+MrHYzK8PUyOMGEQBV8uKJMi63IQTCtspMC3KDynXvIIgjhzssv+EK3PX5DPKwG23
+pASj28Jcd2vOkRI8rR7HMxJ838zjb2YyFX0nV+jLnkHCffM3f+FTAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-key-crosscert
+-----BEGIN CROSSCERT-----
+fMPLn0CFOBz5hxL8sePdqIQG
+R8+eb0/97DULD2NcgFKhsw2YhuqFW88N4J1mlUzFHZgXyyKnKDiz6ocf41dJwT2T
+eh68GFox+Swr8vaQnjGZqGL63MfYWcwLrzTnwADzXyw=
+-----END CROSSCERT-----
+ntor-onion-key-crosscert 0
+-----BEGIN ED25519 CERT-----
+AQoABj4RAdniJ0s4UqafHHtgDo6auZQpc+0xpVjFESt4YgJlhksrANe/g2H0t1y2
+og8oQtIONgeIvEv0r1BJzPbVDZr7iE4W9gJdf9SJ1dQj0kcw1oQBX9fKxtFpqHV4
+Wl63x+zccA8=
+-----END ED25519 CERT-----
+hidden-service-dir
+opt hibernating 0
+ntor-onion-key UzDW9lTsHvNclnSG2cTMagdwTeukj/2yuKNy9vBFdTM=
+accept 1.2.3.4:999
+reject 2.3.0.0/16:*
+accept *:80
+reject 7TGlWMURK3hi*:*
+ipv6-policy accept 80,443,9999
+allow-single-hop-exits
+caches-extra-info
+opt foobarbaz 999
+tunnelled-dir-server
+router-sig-ed25519 gP+P2n9Rpt1TrM41ib/G/erOiare5uVREoSMzpO4dQSf0tC6r6PFRHdTvewZBuFkIuBLRnT96qgK0FVXFsbEDw
+router-signature
+-----BEGIN SIGNATURE-----
+IdB/zeaf8P5gH+sUjFxOgOAu319ZvWcsAbqb1w7JRxLj+Q6ijTjaeD1KMrAdmqgB
+6FfntWLATK79WEUvp3hdZ1m5pAQngv0QPFfJBxw+xZ2BU2E6tacnh3NsEiJVOzHi
+JgCaFum6AgUrbxbRSuoAK4FPLVVL5XRRT3lPEbS2vow=
+-----END SIGNATURE-----
+

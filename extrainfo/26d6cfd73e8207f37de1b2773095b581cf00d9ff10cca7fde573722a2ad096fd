@@ -1,0 +1,41 @@
+extra-info noiseexit01b 3591E0E966309AD335BE62FF694E8A898F97A6C9
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABkmZAfcjluRchHlxlOuOPpPpzlaAjTpwfzj+SZ5NMxViXNPvAQAgBADz6389
+giHu4t6KDehoQqeVJesAwks2pNQVxbEwK97FGDssxd5QU1TDqMPPIw73B+1lTjVj
++iA6tHTtKRTIXVwFV/XMezeWSjwCNADqxEoDP2L+9Rc+3Q82ar73lJOREwg=
+-----END ED25519 CERT-----
+published 2016-12-14 00:03:22
+write-history 2016-12-14 00:01:06 (14400 s) 127572243456,90970549248,128220949504,128516009984,134243916800,146391996416
+read-history 2016-12-14 00:01:06 (14400 s) 126112882688,89787415552,126269214720,126565271552,132329066496,144399688704
+dirreq-write-history 2016-12-14 00:01:06 (14400 s) 4280320,2006016,573440,3135488,2283520,1326080
+dirreq-read-history 2016-12-14 00:01:06 (14400 s) 2031616,1509376,1310720,1699840,1433600,1070080
+geoip-db-digest 6346E26E2BC96F8511588CE2695E9B0339A75D32
+geoip6-db-digest 43CCB43DBC653D8CC16396A882C5F116A6004F0C
+dirreq-stats-end 2016-12-14 00:01:06 (86400 s)
+dirreq-v3-ips ua=8
+dirreq-v3-reqs ua=8
+dirreq-v3-resp ok=8,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=8,timeout=4,running=0
+hidserv-stats-end 2016-12-14 00:01:06 (86400 s)
+hidserv-rend-relayed-cells 2248 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen 129 delta_f=8 epsilon=0.30 bin_size=8
+entry-stats-end 2016-12-14 00:01:06 (86400 s)
+entry-ips au=8,br=8,ca=8,de=8,es=8,fi=8,fr=8,gb=8,it=8,lt=8,mk=8,mx=8,nl=8,ro=8,ru=8,tw=8,ua=8,us=8,vn=8
+cell-stats-end 2016-12-14 00:01:06 (86400 s)
+cell-processed-cells 22902,692,159,42,15,6,2,1,1,1
+cell-queued-cells 0.98,0.10,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+cell-time-in-queue 46,16,2,1,1,0,1,0,0,1
+cell-circuits-per-decile 59251
+exit-stats-end 2016-12-14 00:01:06 (86400 s)
+exit-kibibytes-written 22=108386,80=6500922,81=1870,88=319,443=14765644,993=3020,3389=12365,5222=7183,8080=8989,8333=138492,other=78269
+exit-kibibytes-read 22=1863502,80=303989926,81=446408,88=139478,443=345458480,993=101869,3389=520322,5222=53030,8080=3316183,8333=714813,other=168254
+exit-streams-opened 22=11544,80=5637892,81=1520,88=760,443=4790032,993=1884,3389=9148,5222=1224,8080=3820,8333=96,other=48160
+router-sig-ed25519 Je6nV5FoPEMzwQPj0ZwMXHJQZjDQhUcvO9WflhYd0W3psj3rMROGKrzmi4VoesPIINd6HEuOTjv3yeLfsL/kCQ
+router-signature
+-----BEGIN SIGNATURE-----
+q8Y99YSxS1niKjleppcQx8jn1TFuZ9tj9lzbxweQFM436nN6UUqO2M6M0AngR7qn
+oDqPbItJdnFiaOqvN3ET59aY3oL+RWw757PKx8431+FOuqf6yUFXkmlqOOIxTNbq
+oSyAwgNfh3zA08RzVqnZwWcBzPyETKjM2tG36KHQs2M=
+-----END SIGNATURE-----
