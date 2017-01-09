@@ -1,0 +1,6 @@
+r box2 yvGZuMMip60C9CAihb6oTidl1Xs Z7FlJWslN+zc16EhpvHqM6NvLxc 2016-12-14 08:50:36 200.129.11.217 1194 0
+a [2001:1291:200:83d3:f:b:5:d]:1194
+s Fast Running Stable V2Dir Valid
+v Tor 0.3.0.0-alpha-dev
+w Bandwidth=270
+p reject 1-65535

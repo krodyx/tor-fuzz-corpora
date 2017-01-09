@@ -1,0 +1,11 @@
+r Bifroest HY86kcN8XRxMGbGtHQz76L9y2OE bVoxRDfb2SmIeOXaYgVe8DMcaXQ 2016-12-20 10:45:02 37.218.247.217 443 80
+s Authority Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.8.9
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1 Link=1-4 LinkAuth=1 Microdesc=1-2 Relay=1-2
+w Bandwidth=473
+p reject 1-65535
+id ed25519 3ju/D4m3ebz4N8dWVwu+Qa2RCp+dZjCRkF+3T85GsFg
+m 13,14,15 sha256=sFtlKftjMZay39KWIFXho+3liRdSPHm6oRO8/ZWJkJg
+m 16,17 sha256=McfpCwbSADUKSNEUaGESnQwr63W0qr22CWS70SksRwo
+m 18,19,20 sha256=6ZcPM2dVIiWTJP48X2u36gOBVTSO961HbzvoVhEPzEw
+m 22,23,24,25 sha256=9tyJ37vUrYJw/UNIoO9RmBhcx4qRZP3kB3iWVhvpfLE

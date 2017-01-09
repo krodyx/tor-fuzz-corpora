@@ -1,0 +1,11 @@
+r torpidsUKuk2 yZM7NyUjm2+rUie6M7ML57SLtIU 7vxhQkg/6xGfax6CfI4ZZrRry4c 2016-12-20 06:17:22 46.23.70.195 443 80
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.2.9.3-alpha
+pr 
+w Bandwidth=10000
+p reject 1-65535
+id ed25519 9ls7I0+Bv8S83+cuCYLha1uvfYu3oZMqecsmqUPyqD4
+m 13,14,15 sha256=xmoYGviFOl0/QOGqkWdX+a5DGzRldDAKLoiFqSycnLc
+m 16,17 sha256=xRKkywRrgORKeT+2/mS3qyzTP4U+WUo5HwEMuZc1jP8
+m 18,19,20 sha256=ygOaJwJcBxol2Vu61PNsV0fxvj5NJzttelHU7SQ0M8I
+m 22,23,24,25 sha256=BvyW3xdp0j9yiP6dZg9TfQscxFAeT6PdJeyAMUJ0+U0

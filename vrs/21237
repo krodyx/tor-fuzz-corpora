@@ -1,0 +1,10 @@
+r r4pt0r1 w9gxKPTIIDB/wcyQ9qru2heDQ34 qBQci4ggc6e1w9o5jBPBXs/kkek 2016-12-20 15:19:30 188.195.15.42 9001 9031
+s V2Dir
+v Tor 0.2.5.12
+pr Cons=1 Desc=1 DirCache=1 HSDir=1 HSIntro=3 HSRend=1 Link=1-4 LinkAuth=1 Microdesc=1 Relay=1-2
+w Bandwidth=69
+p reject 1-65535
+id ed25519 none
+m 13,14,15 sha256=fgKyG09O2sGzYtIElyB7gFGYkzwNP8/cZ9WHm1eE1jc
+m 16,17 sha256=IZGcjxqZzGGKF3Zvw1XqLxJHkgCNvOoWfG/P3FGHapQ
+m 18,19,20,22,23,24,25 sha256=YKDXbZOYEzdAKaIn6oDd+mDFY1mbDSkPOd84vmZhbDE

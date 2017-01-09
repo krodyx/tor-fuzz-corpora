@@ -1,0 +1,6 @@
+r Venom13 pO6WyqJondE910EnpYW0Xsvs9z4 eDQabnZNxYVoY0izmSJsVch15lA 2016-12-14 01:04:56 107.181.187.199 53 21
+a [2001:470:c:631::2]:53
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.2.8.7
+w Bandwidth=3350
+p reject 1-65535

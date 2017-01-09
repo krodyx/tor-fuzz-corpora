@@ -1,0 +1,6 @@
+r westerbaan RYg7ITnWCblTbhKHrCLW/EgKFhQ irJlEXEXzBYKJqcAsjYP8lK/SgE 2016-12-14 10:19:35 62.251.50.232 9001 0
+a [2001:985:5431::1]:9001
+s Fast Running Stable Valid
+v Tor 0.2.7.6
+w Bandwidth=884
+p reject 1-65535

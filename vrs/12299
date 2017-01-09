@@ -1,0 +1,5 @@
+r 0x3d004 mES5gagLPktQiXCY4tZRZ+au8Sc OBbmySaUDbjeVdzes7VbBKyhFD4 2016-12-14 09:32:16 62.138.7.171 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.0.0-alpha-dev
+w Bandwidth=44400
+p reject 1-65535

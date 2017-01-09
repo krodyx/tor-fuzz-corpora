@@ -1,0 +1,10 @@
+r R 1pG/sWu0lzv+1Rd0jCy5tNmRkmQ BdGlx/i7lBx1/tmcySeaJ94UKz0 2016-12-20 07:09:48 80.81.12.29 9001 0
+s Fast Running Stable Valid
+v Tor 0.2.4.27
+pr Cons=1 Desc=1 DirCache=1 HSDir=1 HSIntro=3 HSRend=1 Link=1-4 LinkAuth=1 Microdesc=1 Relay=1-2
+w Bandwidth=102
+p reject 1-65535
+id ed25519 none
+m 13,14,15 sha256=0d57CBFJlJFIlC9nbWPCJ2/c/4qtU9GcLFNvbGlg/44
+m 16,17 sha256=g5l2nF7er8Qb0ogC64Q4K7W3vfPpxANvPheb+BLQ9js
+m 18,19,20,22,23,24,25 sha256=g2x3XXggX/TqsFcrVj8oIXOCG92qCk4qWmPnDP2Ly/s

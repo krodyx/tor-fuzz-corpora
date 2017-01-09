@@ -1,0 +1,6 @@
+r torelay yDPP3iIikv2FwEiTGrkMpLKqIEw nC3HA6l/P7ZHmBGKw6lxNLn3F1w 2016-12-14 11:26:19 37.228.134.103 443 0
+a [2a06:1c40::4a1]:443
+s Fast Running Stable Valid
+v Tor 0.2.5.12
+w Bandwidth=1460
+p reject 1-65535
