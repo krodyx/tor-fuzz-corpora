@@ -1,0 +1,21 @@
+network-status-version 1 microdesc
+vote-status consensus
+cthod 6
+valid-after 2016-12-17 1:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 2 2
+cli 
+known-flags Authgodesc=1 Relay=1-2
+dir-source test000œ 23E2624D1E2E85384A1460B53C74F2C60F50A29B 172.0.0.1 127.0.0.1 7001 5001 7001 5001
+contact autg1@test.test
+vote-digest FF0D9A45381DF38102A38AD724B950468B0EA5A0
+r test004r AgoW5JcWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:21 087.0.0.2 50zb :02:30
+a	*:304444444444444444444444444444444444444
+a *:0a *:300g
+s ER3g
+a *
+
+a *:70141188446744073709551616
+a *:170141183460467114111
+directory-signature suIr	9223

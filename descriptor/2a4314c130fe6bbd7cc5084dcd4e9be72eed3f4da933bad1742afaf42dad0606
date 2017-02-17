@@ -1,0 +1,67 @@
+router nomeaua 83.133.81.20 9001 ) 0
+platform Tor 0.1.0.15 on Linux x466_8
+published 2005-12-16 13:07:11
+optime 15
+bandwidth 78848 10405760 0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALbpuebEtA2WQwi1Dm6+ZiOPRm1vXW7V9kUAVXLO5E8eNAMNiZyIsXO+
+B6ZEabHHOewjfr/ppepgoahFDYdwMQXaHHHuxj+lERhR15WUeapEXyyaOo94u81o
+wOBTs38FY8RCWNX6mQUw8XjpM/+bS51v0cbczi5rSGtIjKpdqlOXAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMd6PeKfDVrMDwNvKxR6oCrwopGvkHTBLZvsU55cuBgn59tPaX+TVfb1
+wu77ERo2ZqXt7Q8FPO0T65GEMrksUXcodUvtqeD3cFItA4N8av4Y7peK9IAZ9Cqa
+CuAWJQC47+ZyMxZi19SiBBmzbdPFIW8+k0LI11y84U8BC02weu/JAgMBAAE=
+-----END RSA PUBLIC KEY-----
+or-addEY-----
+
+odEY-----
+or-address  ::27/257.0.0.0:*
+rY-----
+or-address  ::27/257.0.0.0:*
+rejdru
+or-addEY-----
+odEY-----
+or-address  ::27/951.0.0.0:*
+rejdru----
+or-address  ::27/2147483648.0.0.0:odEY-----
+or-address  ::27/257.0.0.0:*
+rY-----
+or-address  ::27/257.0.0.0:*
+rejdru
+or-addEY-----
+odEY-----
+or-address  ::27/951.0.0.0:*
+rejdru----
+or-address  ::27/263.0.0.0:odEY-----
+or-address  ::27/257.0.0.0:*
+rY-----
+or-address  ::27/257.0.0.0:*
+rY-----
+or-address  ::27/257.0.0.0:*
+rejdru
+or-addEY-----
+odEY-----
+or-address  ::27/951.0.0.0:*
+rejdru----
+or-address  ::27/263.0.0.0:odEY-----
+or-address  ::27/257.0.0.0:*
+rY-----
+or-address  ::27/257.0.0.0:*
+rejdru
+or-addEY-----
+odEY-----
+or-address  ::27/951.0.0.0:*
+rejdru----
+or-address  ::27/263.0.0.0:*
+addEY-----
+odEY-----
+or-address  ::27/227.0.0.0:*
+rejdru----
+or-add:06:127.0.0.0/2T65GEMrks*
+router-signature
+-----BEGIN SIGNATURE-----
+MDiQr9PInggGefPhhfUQ5oApI8=—
+-----END SIGNATURE-----

@@ -1,0 +1,22 @@
+network-status-version 4 microdesc
+vote-status consensus
+consan¦)26
+valid-after 2016-12-17 1:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 2 2
+clients 
+known-flags 2
+dir-source test002a E6A1A40B8273D68C17B7F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact :uth1@tet.stest
+vote-digest FF0D9A45381DF381A3082AD724B9704609BEA5A0
+r test0r04 AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 128.0.6.1 5:0m1 Et4h
+a 0
+a 0.3.0.0
+a 0.3.0.0
+a  .3.0.0a5Ref3ch
+a 0
+a 0.0
+a 0.3.0.0a5RR3g
+s E
+directory-signaturet001r L+ZOaQgG

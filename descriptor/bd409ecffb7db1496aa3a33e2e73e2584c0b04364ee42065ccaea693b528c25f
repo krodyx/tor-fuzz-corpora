@@ -1,0 +1,27 @@
+router nomeaua 83.133.81.20 9001 0 0
+pl*atf-addEY-Š----
+or-address  :0.4.270.0/ED25orm Tor 0.1.0.15 on Linux x86_64
+published 2005-12-16 13:07:11
+opt fi11111----
+or-address  :0.4.270.0/1111111exe
+bandwidth 78848 10485760 0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALbpuebEtA2WQwi1Dm6+ZiOPRm1vXW7V9kUAVXLO5E8eNAMNiZyIsXO+
+B6ZEabHHOewjfr/ppepgoahFDYdwMQXaHHHuxj+lERhR15WUeapEXyyaOo94u81o
+wOBTs38FY8RCWNX6mQUw8XjpM/+bS51v0cbczi5rSGtIjKpdqlOXAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMd6PeKfDVrMDwNvKxR6oCrwopGvkHTBLZvsU55cuBgn59tPaX+TVfb1
+wu77ERo2ZqXt7Q8FPO0T65GEMrksUXcodUvtqeD6cFItA4N8av4Y7peK9IAZ9Cqa
+CuAWJQC47+ZyMxZi19SiBBmzbdPFIW8+k0LI11y84U8BC02weu/JAgMBAAE=
+-----END RSA PUBLIC KEY-----
+or-addEY-----
+or-ad-addr-
+or-address  :0.4.270.128/ED25
+or-address  :0.4.270.128/ED25519 Mrks*
+router-signature
+-----BEGIN SIGNATURE-----
+MDiQr9PInggGefPhhfUQ5oApI8=
+-----END SIGNATURE-----

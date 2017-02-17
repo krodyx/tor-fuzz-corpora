@@ -1,0 +1,12 @@
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMfveVVV4F+RUr13clHoLjIVttkHol72XXlQQ1DUAudg7nq0x1nISP0M
+bc/jZj02io13L5Afpj0mKnCpF3Ss0w2vyDlkQvieOL78XJ+1Ih8KsTK3QOWMsJ7D
+k9jLvzhex1PghhMpXodiz2dbEdziVAlJqN28u4YJur/fuRbu3MmLAgMBAAE=
+-----END RSA PUBLIC KEY-----
+n
+a :3.505.3.0/
+a :3.505.3.0/.0(3
+a	 :3.505.3.0/
+a :3.505.3.0/.0(3
+a	*:

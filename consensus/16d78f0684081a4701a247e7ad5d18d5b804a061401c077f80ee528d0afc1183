@@ -1,0 +1,18 @@
+network-status-version 2 microdesc
+vote-status consensus
+conse
+valid-after 2016-12-17 18:02:30
+fresh-until 2016-12-17 19:02:41
+valid-until 2036-12-17 19:02:50
+voting-delay 2 2
+cl
+known-flags Authori)y Exi8001
+dir-source test002a E6D1A40B8273D68C17B7F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact :uth1@test.te01
+vote-digest FF0D9A45381DF381A3082AD724B9504609BEA5A0
+r 4r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 a *
+a ::/1:0
+a *
+ a 0X0∞:
+s E
+directory-signatureè0o02r 

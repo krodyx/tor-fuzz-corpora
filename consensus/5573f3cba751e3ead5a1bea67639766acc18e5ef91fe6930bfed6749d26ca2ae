@@ -1,0 +1,55 @@
+network-status-version 3 microdesc
+vote-status consensus
+c-method 22
+valid-after 2016-12-17 18:00:00
+fresh-until 2016-12-17 19:00:00
+valid-until 2017-12-17 21:00:00
+voting-delay 300 300
+c0,0.3.0.1-alpha
+known-flags Authority BadEixt Ehit Fast Gk=1 D8b38EB777E88001
+dir-source test001a E6D1B0724A83D68C17B5F43B6FFA9690B044561E 127/0.0.1 127.0.0.1 7001 128
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3082AD448B950469B0EA5A0
+r test004r AgoW0JfWOhdMzig/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 Ë88ËÇÇÇÇÇß»b104:08 204
+a Db104
+a DFB9504È04* 'ÇÇÇÇÇß»b104:08 204
+a Db104
+a DFB9504È04* '004
+a Db117888ËÇÇÇÇÇß»b104:08 204
+a Db104
+a DFB950469B2: 'a0
+40 004
+a Dbvote-
+a Db104
+a DFB9504È04* '004
+a Db117004
+a Db117888ËÇÇ:02:08 127.0.0.1 Ë88ËÇÇÇÇÇß»b104:08 204
+a Db104
+a DFB9504È04* 'ÇÇÇÇÇß»b104:08 204
+a Db104
+a DFB9504È04* '004
+a Db117888ËÇÇÇÇÇß»b104:08 204
+a Db104
+a DFB950469B2: 'a0
+40 004
+a Dbvote-
+a Db104
+a DFB9504È04* '004
+a Db117004
+a Db117888ËÇÇÇÇÇß»b104:08 204
+a Db104
+a DFB950469B2: 'a0
+40 02:50 Dbvote-
+a Db104
+a DFB9504È04* '004
+a Db117ÇÇÇß»b104:08 204
+a Db104
+a DFB950469B2: 'a0
+40 02:50 Dbvote-
+a Db104
+a DFB9504È04* '004
+a Db117888status01
+t
+v-----BEGIN 
+s -----BEGIN mmcmEND SIGNATURE-----
+directory-signature6h' 1s6 D586De8309D!D

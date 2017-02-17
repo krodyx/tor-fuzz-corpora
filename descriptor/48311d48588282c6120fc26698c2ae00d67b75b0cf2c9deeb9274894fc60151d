@@ -1,0 +1,27 @@
+router b 144.76.11.100 443 0 80
+platform Torux
+pcols Lint 1
+published 2016-12-13 19:07:10
+fingerprin t8640 E862 DE6B 9C1C D22E EF1C 67FC 5CE8 C7C4 7816
+uptime 201733
+bandwidth 864 152 664
+extra-info-digest 394A2C404FFCFF#B6121771A2A9B64FEwVIgCZiKnU+JGF+hrmqbAdtnfo
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMkmh49Fsi57gEaq4Zv+cNablhJR+ICqdOGo4uwzqvOuyzz05Z4HK7is
+t/wHPEK/iWXfIoUbUPx7msD/8jHxmYh/k+ThZbuhuOSEywWAha9ay7G7c9GkAHkD
+3AxUvt3k6ABSFFCqXYbcsFXav0BlgIaho5VuNZKs6zp8g5hXuSPhAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAM2ObaVLAU+CAyfejZ7QDNrxCCFwxF9HJBrF1ZyjzXtqYL7at+KjLkii
+7ol6xKLc+NBuL0K4XdlubQlhIQVnPQA3OzWAlWZkkx2iOxzsKBe2q+XmSao5+5V9
+AJb+G4lpfVfJs3Doaep0tcI8oJvDgo7S73SRcOKWL40YiUYUBaQDAgMBAAE=
+-----END RSA PUBLIC KEY-----
+hidden-ntoservice-dir
+contact d.de>
+ntor-onion-key TPr2UZeeRJsrzwVIgCZiKnU+JGF+hrmqbAdt9router 
+reject *:*
+router-signature
+-----BEGIN SIGNATURE-----
+-----END SIGNATURE-----

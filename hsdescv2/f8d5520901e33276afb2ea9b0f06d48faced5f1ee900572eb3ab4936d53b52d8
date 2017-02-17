@@ -1,0 +1,117 @@
+rendezvous-service-descriptor u2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret uscriptor u2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret u2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret u2
+perm2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+iptor u2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret uscript u2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret uscriptor u2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret u2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret u2
+perm2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+iptor u2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret uscriptor u2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret u2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret u2
+perm2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret u2
+secret u2
+secret u2
+or u2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret u2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret u2
+perm2
+permanent-key
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJA

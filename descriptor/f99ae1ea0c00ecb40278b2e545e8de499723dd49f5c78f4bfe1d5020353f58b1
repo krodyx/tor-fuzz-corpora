@@ -1,0 +1,164 @@
+router ashley 24.70.198.77 9090 0 903 pÿÿ To86
+published 2005-02-16 22:0:19
+bandwidth 20480 30720 25280
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANepB8NDR8PLvzU5dL0+NDP7sUyOn5kNc3fgDkdjVpDdDxy8Zh70w9TQ
+oy85AO0BW51qEGXUUXf61RPP+HnXwNHgb8MZhg8IZGrBiXf2NEEazxqcBBHgFQV4
+wnn9R2jiMeUzmhgNE8wk09yRvW052CxpaYLQJL+DXplTt5yEw+KNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAN/hGEsFn5dbGbQiZ099mphVLk3fKjHk7ZkHchIkDILXmODpacceptOX
+/aUjrlF8W34AjkTXhRKEht5iLPBEPKUSgt9kXWKTTzr8h0jYhxiQ++pf2doB0tx
+cVz092NYiQby5cqMI9Fxafp7kDjq31Ik7IRexp7+MML9V/lwWJC4/AgMBAAE=
+-----END RSA PUBLIC KEY-----
+22t
+accept *:76t
+accept *
+accept *:22t
+accept *:76t
+accept *
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:2²
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *:22
+accept *
+ro76t
+accept *
+accept *:22t
+accept *:76t
+accept *
+accept *:22
+accept *
+router-s
+accept *:76t
+accept *
+accept *:22
+accept *
+router-signature
+-----BEGIN SIGNATURE-----
+w1tMVSkYc230=
+-----END SIGNATURE-----

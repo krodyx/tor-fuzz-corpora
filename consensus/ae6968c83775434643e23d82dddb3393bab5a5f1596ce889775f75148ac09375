@@ -1,0 +1,24 @@
+network-status-version 3 microdesc
+vote-status consensus
+conseminsusÿÿÿÿ-method 22
+valid-after 2016-12-17 18:00:00
+fresh-until 2016-12-17 19:00:00
+valid-until 2017-12-17 21:00:00
+voting-delay 300 300
+c0,0.3.0.1-alpha
+known-flags Authority BadEixt Exit Fast Gk=2 D8b38EB777E88001
+dir-source test001a E6D1B0724A83D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 129
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3082AD448B950469B0EA5A0
+r test004r AgoW0JfWOhdMzig/gRg0Nc4F7gE 2017-12-17 19:02:08 127.0.0.1 ËÈ04* 1 Ë'
+a >86.59'
+a >86.59.21.Unnag
+s ---cmEND SIGNA ---cmEND SIGNATURE----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TURE----BEIGNATURE----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TURE---- E----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit SIGNATSIGNATURE-GIN BadExit SI BadExit SIGNATSIGNATURE-TURE----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TURE----BEIGNATURE----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit SIGNATSIGNATURE-GIN BadExit SI BadExit SIGNATSIGNBEGIN BadExit SI BadExit SIGNATSIGNATURE-GIN BadExit SI BadExit SIGNATSIGNATURE-TURE----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TUREit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TURE---- E----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit SIGNATSIGNATURE-GIN BadExit SI BadExit SIGNATSIGNATURE-TURE----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TURE----BEIGNATURE----BEGIN BadExit -BEGIN BadExit known-flags Authority BadEixt Exit Fast Gk=2 D8b38EB777E88001
+dir-source test001a E6D1B0724A83D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 129
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3082AD448B950469B0EA5A0
+r test004r AgoW0JfWOhdMzig/gRg0Nc4F7gE 2017-12-17 19:02:08 127.0.0.1 ËÈ04* 1 Ë'
+a >86.59'
+a >86.59.21.Unnag
+s ---cmEND SIGNA ---cmEND SIGNATURE----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TURE----BEIGNATURE----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TURE---- E----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit SIGNATSIGNATURE-GIN BadExit SI BadExit SIGNATSIGNATURE-TURE----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TURE----BEIGNATURE----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit SIGNATSIGNATURE-GIN BadExit SI BadExit SIGNATSIGNBEGIN BadExit SI BadExit SIGNATSIGNATURE-GIN BadExit SI BadExit SIGNATSIGNATURE-TURE----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TUREit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TURE---- E----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit SIGNATSIGNATURE-GIN BadExit SI BadExit SIGNATURE----BEGIN BadExit SI BadExit E----B----BEIGNATURE----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit E----BEGIN BadExit -BEGIN BadExit TURE----BEGIN BadExit SI BadExit SIGNATSIGNATURE-GIN BadExit SI BadExit SIGNATSIGNATURE-----
+directory-signature6ha 2s6 D1De8

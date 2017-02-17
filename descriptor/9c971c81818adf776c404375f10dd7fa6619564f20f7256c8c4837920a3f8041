@@ -1,0 +1,64 @@
+router ashley 24.70.198.77 9090 0 90 8486
+published 2005-12-16 22:29:19
+or-aba
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:'address e:
+or=s 8:
+ba
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.25ddrePss 777 i19
+orr-address"üüüüüüüÿÿ
+bandwidth 20480 30730 25280
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANepB8NDR8PLvzU5dL0+NDP7sUyOn0kNc3fgDkdjVpDdDxy8Zh70w9TQ
+A85Ooy0BW51qEGXUUXf62RPP+HnXwNHgbAMZhg8IZGrBiXf2NEEazxqcBBHgFQV7
+wnn9R2jiMeUymhgNE8wk09yRvW052CxpaYLQJL+DXplTt5yEw+KNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAN/hGEsFn5abGbQiZ9m9Vph1Lk3fKjHk7ZkHchIkDILXmODpacceptOX
+/aUjrlF8W34AjkTXhRKEht5iLPBEPKUSgt9kXWKTTzr8h0jYhxiQ++pf2doB0tx
+cVz092NYiQby5cqMI9Fxaf07kDjq31Ik7IRexp7+MML9V/lwWJC4/AgMBAAE=
+-----END RSA PUBLIC KEY-----
+op{qte:
+or'address 8:
+ba
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:'address e:
+or=s 8:
+ba
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or-address ::6/0.255.0.07:
+or'address 84s =*:ter4
+ba
+or-address *:6-±1/
+router-signature
+-----BEGIN SIGNATURE-----
+w0tMVSkYc230=
+-----END SIGNATURE-----

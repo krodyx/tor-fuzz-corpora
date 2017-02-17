@@ -1,0 +1,14 @@
+rendezvous-service-descriptor uvepermanen66666666666wzg6vo4di6
+version 15200123600123612662
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcDblviM3PAjowkiAKxLoTsXt4nPEzyTP6Cw+Gdr0ODke
+hmxTNpgn2iKH7szk4Q1p2RabOrUHWwXmGXeDDNq00fc6UyHupgqsCoKOqCsmPac3
+/58apC64A7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU89
+-----END RSA PUBLIC KEY-----
+secret-id-part he:hxim24ejowhnqgysjo
+publication-time 
+protocol-versions (84222
+signature
+-----BEGIN SIGNATURE-----
+-----END SIGNATURE-----

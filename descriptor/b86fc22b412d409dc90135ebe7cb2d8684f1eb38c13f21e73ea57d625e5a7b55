@@ -1,0 +1,30 @@
+router nomeata 83.133.81.1 9001 1 0
+published 2005-12-9 14:7:1
+bandwidth 78848 10485760 0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALbpuEtebA2WQwi1Dm6+ZiOPRm1vXW7V9kUAVXLO1E8eNAMNiZyIsXOZEB
++6abHHOewjfr/ppepgoahFDYdwMQXaHHHuxj+lERhR15WUeapEXyyaOo94u81o
+wOBTs766FYRCWNX6mQUw8XjpM/+bS51v0cbczi4rSGtIjKpdqlOXAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMd0PeKfDVrMDwNvKxR6oCrwopGvkHT8LZvsU27cuBgn59tPaX+TVfb1
+wu77ERo2ZqXt7Q8FPO0T65GEMrksUXcodUvuqeD6cFItA4N8av4Y7peK11IAZ9Cqa
+CuAWJQC47+ZyMxZi19SiBBmzbdPFIW7+k0LI13y0U8BC02weu/JAgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt wri:*
+reject private:04.2147483649
+reject private:2ÁÆ
+accept private:65535
+reject private:2j89eer
+ct private:7ÁÆ
+reject private:61071
+reject private:878
+reject private:5ÁÆ
+reject private:62:70
+reject private:100
+reject private:09:*
+router-signature
+-----BEGIN SIGNATURE-----
+-----END SIGNATURE-----

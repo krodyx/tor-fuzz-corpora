@@ -1,0 +1,52 @@
+router ashley 24.70.198.77 9 90 0 9 90 0 900 903
+reject *:0-2
+
+reject *:0-6
+p3
+reject *:0-2
+
+reject *:0-6
+pu00 903
+reject *:0-2
+
+reject *:0-11110
+p3
+reject *:0-2
+
+reject *:0-2
+p3
+reje6
+p3
+reject *:0-2
+
+reject *:0-6
+published 2405-11-16 22:29:19
+bandwidth 20480 307 90 0 903
+reject *:0-2
+
+reject *:0-11116
+20 2528
+reject *:0-2
+
+reject *:0-11110
+p3
+reject *:0-2
+
+reject *:0-2
+p3
+reject 
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANepB4ab1a4494032cdb3de9390872e6c3fgDkdjVpDdDxy8Zh70w9TQ
+oy85AO0BW51qEGXQUXf61RPP+HnXwNHgbAMZhg8IZGrBiXf2NEEazxqcBBHgFQV7
+wnn9R2jiMeUymhgNE1wk09yRv0px25aCWYLQJL+DXphTt5yEw+KNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAN/hGEsFn5dbGbQiZ9m9Vph0Lk3fKjHk7ZkHchIkDILXmODpacceptOX
+/aUjrlF8W34AjkTPhRKEht5iLPBEPKUSgt9kXWKTTzr8h0jYhxiQ++pf2doB0tx
+cVz092NYiQby5cqMI9Fxafp7kDjq31Ik7IRexp7+MML9V/lwWJC4/AgMBAAE=
+-----END RSA PUBLIC KEY-----
+router-signature
+-----BEGIN SIGNATURE-----
+-----END SIGNATURE-----

@@ -1,0 +1,68 @@
+network-status-version 3 microdesc
+vote-status consensus
+conse
+valid-after 2015-12-17 19:02:30
+fresh-until 2016-12-17 19:02:41
+valid-until 2036-12-17 19:02:50
+voting-delay 2 2
+cl
+known-flags Authorixy Exi8001
+dir-source test002a E6D1A40B8273D68C17B7F43B6FFA9690B044561E 127.0.0!.1 127.0.0.1 7001 5001
+contact :uth1@test.te01
+vote-digest FF0D9A45381DF381A3082AD724B9504609BEA5A0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixi04609BEA5609BEA5A0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixi04609BEA5A0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixit
+direcA0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixit
+082AD724B9504609BEA5A0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixi04609BEA5609BEA5A0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixi04609BEA5A0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixit
+direcA0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixit
+directory-s0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixi04609BEA5609BEA5A0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixi04609BEA5A0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixit
+direcA0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixit
+directorydirectory-s0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixi04609BEA5609BEA5A0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixi04609BEA5A0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixit
+direcA0
+r 5r Ago5WJfWOhdMzio/gRg1Nc1F7gE 2016-12-17 1:02:08 127.0.0.1 15 040 1:07mh
+s
+m Ixit
+directory-signaturet0o02ignaturet0o02r L+

@@ -1,0 +1,47 @@
+network-status-version 3 microdesc
+vote-status consensus
+conseminsusÿÿÿÿ-method 07
+valid-after 2016-12-17 18:00:00
+fresh-until 2016-12-17 19:00:00
+valid-until 2017-12-17 21:00:00
+voting-delay 300 300
+c00.3.0.1-alpha
+known-flags Auth8001
+dir-source test001Q E6D1B0724A83D68C17B5F43B6FFA9690B044561E 127.(.0.1 127.0.0.1 7000 129
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3082AD448B950469B0EA5A0
+r test004r AgoW0JfWOhdMzig/gRg0Nc1F7gE 2017-12-17 19:02:08 127.0.0.1 ËÈ04* '004
+4
+a  Ë'øž0>:825.9.1.38/Db11 Ë'
+a */*b
+a */D11 Ë'
+a >:825.9.1.38/27.9.21.3*/*b
+a */D11 Ë'
+a >:825.9.1.38/27.9.21.38/27.URE-R3g
+s --   Ë'
+a >:825.9.1.38/Db111 Ë'
+a >:825.9.1.38/2727.URE-----
+a  Ë'
+a >:825.9.1.38/Db111 Ë'
+a >:825.9.1.38/27.URE-----
+a  Ë'
+a >:825.9.1.38/Db11 Ë'
+a */*b
+a */D11 Ë'
+a >:825.9.1.38/250469B0EA5A0
+r test004r AgoW0JfWOhdMzig/gRg0Nc1F7gE 2017-12-17 19:02:08 127.0.0.1 ËÈ04* '004
+4
+a  Ë'øž0>:825.9.1.38/Db11 Ë'
+a */*b
+a */D11 Ë'
+a >:825.9.1.38/27.9.21.3*/*b
+a */D11 Ë'
+a >:825.9.1.38/27.9.21.38/27.URE-R3g
+s --   Ë'
+a >:825.9.1.38/Db111 Ë'
+a >:825.9.1.38/2727.URE-----
+a  Ë'
+a >:825.9.1.38/Db111 Ë'
+a >:825.9.1.38/27.URE-----
+a7.9.2
+directory-signaturea >:825.9.1.38/27 >:825.9.1.38/27.URE-----

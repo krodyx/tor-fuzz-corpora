@@ -1,0 +1,22 @@
+network-status-version 3 microdesc
+vote-status consensus
+dining-keyd 22
+valid-after 2016-12-07 18:00:00
+fresh-until 2016-12-17 19:00:00
+valid-until 2016-12-17 21:00:00
+voting-delay 300 300
+cl
+known-flags uAthori1
+dir-source test001i Ecccccc11111111111111104ccccccFA9345B61E 0)3.0.0(1 127.0.0.1 7001 5001
+contact a5th1@test.test
+vote-digest F111111111111104cc1111111104ccccccFA934a Ago19:0
+directory-signatureF7 
+k
+t
+t
+t
+t
+s
+di
+bandwidth-weightst=0
+cl

@@ -1,0 +1,23 @@
+rendezvous-service-descriptor u4g4zwo7ficvg4zeqskarxwzg6vo4di6
+version 2
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkowkiAKxLoTsXt3nPEzyTP6Cw+Gdr0ODje
+hmxTngN1pKiH7qvk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64A7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret-id-part heyhnvgb7xim2introductio3imgysjq
+publication-time 2016-12-17 18:00:00
+protocol-versions 2,3
+introduction-points
+-----BEGIN LESSAGE-----
+aW50cm9meDJubzR4
+YnRmCmlwLWFkZHJlc3MgNzkuJb0NVcmxNeDdpaU9pWWx3Tk1XajZFQmhadmpJ
+SEk2SzNYTGFNNDdUbE1SRS84UC91UTQ5aTdTK3lMclQKOTQrMFI0bThJRXpFWnVr
+LS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0KCg==
+-----END LESSAGE-----
+signature
+-----BEGIN SIGNATURE-----
+Yr6mK6XLnPeFl9pUHpD8C9WTwG1RaM9CWS/q6enVwz5o+bWeA59PuVG4aMa50Xzp
+Jts
+-----END SIGNATURE-----

@@ -1,0 +1,13 @@
+network-status-version 3 microdesc
+vote-status consensus
+params ߅al=4 	߅el=4 =4 	߅al=4 =4 =4 =-63 =45
+valid-after 2016-12-07 18:00:00
+fresh-until 2016-12-17 19:00:00
+valid-until 2017-12-17 21:00:00
+voting-delay 300 300
+cl
+known-flags uAthority Badl 2Exi01
+dir-source tdst001a E7D039E 063.1 7 01 5001
+contact a5tt
+vote-digest Fgo
+directory-signatureF 7

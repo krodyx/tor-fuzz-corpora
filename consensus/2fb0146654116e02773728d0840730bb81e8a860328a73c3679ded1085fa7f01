@@ -1,0 +1,271 @@
+network-status-version 33 microdesc
+vote-status consensus
+conseminsus-method 44
+valid-after 2016-12-17 18:00:00
+fresh-until 2016-12-17 19:00:00
+valid-until 2017-12-17 21:00:00
+voting-delay 301 300
+c8,0.3.0.1-alph;a)
+known-flags Authority Ba*dExit Ehit Fast votgToqx6jP7E7788001
+dir-source test001a E6D1B0724A83D69C17B5F43B6FFA9690B044561E 127*0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3080AD448B950469B0EA5A0
+r9B0EA5A0
+r test000.1 aaaaaaaaaaa Ú-Mz0)2:E)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr test000.1 aaaaaaaaaaa Ú-Mz0)2:EA5òest000.1 aaaaaaaaaaa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr test000.1 aaaaaaaaaaa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gr69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoWr AgoW0JfWOhlMzi0esc=1-20
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gr69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoWr AgoW0JfWOhlMziA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr test000.1 aaaaaaaaaaa Ú-Mz0)2:EA5òest000.1 aaaaaaaaaaa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr test000.1 aaaaaaaaaaa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gr69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoWr AgoW0JfWOhlMzi0esc=1-20
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gr69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr aaaaaaaaa Ú-Mz0)2:E)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr test000.1 aaaaaaaaaaa Ú-Mz0)2:EA5òest000.1 aaaaaaaaaaa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr test000.1 aaaaaaaaaaa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gr69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoWr AgoW0JfWOhlMzi0esc=1-20
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gr69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoWr AgoW0JfWOhlMziA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr test000.1 aaaaaaaaaaa Ú-Mz0)2:EA5òest000.1 aaaaaaaaaaa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr test000.1 aaaaaaaaaaa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gr69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoWr AgoW0JfWOhlMzi0esc=1-20
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoW0JfWa Ú-Mz0)2:EA5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '0zig/gR69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr Ago5ò0
+r test004r AgoW0JfWOhlMzig/gr69B26F7gE 2016-12-17 19:02:08 127.0.0.1 À»04* '07
+s 0
+p teså0
+pr AgoWr AgoW0JfWOhlMzi0esc=1-AgoWr AgoW0JfWOhlMzi0esc=1-2,7
+directory-signatureÀ»041F 

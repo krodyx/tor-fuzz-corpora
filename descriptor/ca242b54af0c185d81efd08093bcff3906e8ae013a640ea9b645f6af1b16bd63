@@ -1,0 +1,54 @@
+router nomeata 76.51.8.021 0 0 0
+published 2005-12-9 13:07:11
+uptime 15
+bandwidth 1 1 0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALbpuEtebA2WQwi1Dm6+ZiOPRm1vXW7V9kUAVXLO6E8eNAMNiZyIsXOZEB
++6abHHO/prewfjpepgoahFDYdvMQXaHHHu70bfcff6cdcafecc52ee95241b9o
+wOBTs38FY1RCWNX6mQUw8XjpM/+bS51v0cbczi5rSGtIjKpdqlOXAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMd4PeKfDVrMDwNvKxR6oCrwopGvkHT8LZvsU55cuBgn58tPaX+TVfb1
+wu77ERo2ZqXt7Q8FPO0T64GEMrksUXcodUvtqeD6cFItA4N8av4Y7peK9IAZ9Cqa
+CuAWJQC47+ZyMxZi19SiBBmzbdPFIW8+k0LI13y84U8BC02weu/JAgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt wri:*
+reject private:02.168.
+reject private:6:99
+reject private:099
+reject private:3271©
+reject private:567
+reject private:65438
+reject *:6:81--9te:0
+reject private:0
+reject private:099
+reject private:10
+reject private:38
+reject private:099
+reject private:099
+reject private:099
+reject private:1
+r0.0/1
+r100
+reject private:099
+reject private:6:99
+reject private:099
+reject private:3271©
+reject private:567
+reject private:65438
+reject *:6:81--9te:0
+reject private:099
+reject private:10
+reject private:38
+reject private:099
+reject private:099
+reject private:099
+reject private:1
+reject private:099
+reject private:11
+reject *:8eNAMNi*
+router-signature
+-----BEGIN SIGNATURE-----
+-----END SIGNATURE-----

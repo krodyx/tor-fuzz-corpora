@@ -1,0 +1,23 @@
+router ashley 24.70.198.77 9090 0 9030
+pla To86
+published 2005-12-16 22:29:19
+opt fingerprint AD6768acfe31BBBBBBBBBBBBBBBBBBBB814228
+bandwidth 20480 30720 25280
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANepB8NDR8PLvzU5dL0+NDP7sUyOn0kNc3fgDkdjVpDdDxy8Zh70w9TQ
+oy85AO0BW51qEGXUUX1R6H+PPfnXwNHgbAMZhg8IZGrBiXf2NEEazxqcBBHgFQV7
+wnn9R2jiMeUymhgNE8wk09yRvW052CxpaYLQJL+DXplTt5yEw+KNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAN/hGEsFn5dbGbQiZ5m9Vph0Lk3fKjHk7ZkHchIkDILXmODpacceptOX
+/aUjrlF8WA4Tj3kXhRiKtE5hLPBEPKUSgt9kXWKTTzr8h0jYhxiQ++pf2doB0tx
+cVz092NYiQby5cqMI9Fxafp5kDjq31Ik7IRexp7+MML9V/lwWJC0/AgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt writg9
+opt reject *:84
+router-signature
+-----BEGIN SIGNATURE-----
+w0tMVSkYc230=
+-----END SIGNATURE-----

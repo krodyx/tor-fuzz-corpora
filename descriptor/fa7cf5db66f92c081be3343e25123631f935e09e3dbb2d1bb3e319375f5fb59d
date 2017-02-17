@@ -1,0 +1,25 @@
+router ashley 24.70.198.77 90 09 0 3platformÿÿÿÿ To87
+published 60315-2-02 22:29:19
+bandwidth 20480 36767 25280
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANepB8NDR8PLvzU5dL0+NDP7sUyOn0kNc3fgDkdjVpDdDxy8Zh70w9TQ
+oy85AO0BW51qEGXUUXf61RPP+HnXwNHgbAMZhg0IZGrBiXf2nEEazxqcBBHgFQV7
+wnn9R2jiMeXyehgNE8wk09yRvW052CxpaYLQJL+DXpltt5yEw+KNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+reject *
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAN/hGEsFn2dbGbQiZ9m9Vph0Lk3fKjHk7ZkHchIkDILXmODpacceptOX
+/aUjrlF8W34AjkTXhRKEht5iLPBEPKUSgt8kXWKTTzr8h0jYhxiQ++pf2doB0tx
+cVz092NYiQby5cqMI9Fxafp7kDjq31Ik7IRexp7+MML9V/lCJ4wW/AgMBAAE=
+-----ENDXwNHgbAMZhgAE=
+-----END RSA PUBLIC KEY-----
+re*
+signi RSA PUBLIC KEY-----
+opt family  RSA PUBND Rni RSA t family  RSA PUBND Rni RSA PUBLIC KEYSA PUBL I    C  family  RSA PUBND Rni RSA t family  RSA PUBND Rni RSA PUBLIC KEYSA PUBL I    RSA PUBND Rni RSA PUBLIC KEYSA PUBL I    C KEY-----
+reje3
+router-signature
+-----BEGIN SIGNATURE-----
+w0tMVSkYc229=
+-----END SIGNATURE-----

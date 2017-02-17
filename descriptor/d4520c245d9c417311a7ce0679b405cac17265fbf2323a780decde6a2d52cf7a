@@ -1,0 +1,34 @@
+router nomeaua 41.133.81.20 9001 0 0
+pmatfffff:7.0.0.0/--------
+or-address ffff:6:ff:ffff:7:ffff:7.0.0.0/-----
+
+or-address fffd:f8:f:ffff:7:ffff:7.0.0.0/---orm Tor 0.1.0.15 on!Linux x86_64
+published 2005-12-16 13:07:11
+opt fi1111111111 15
+bandwidth 78848 15487060 0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALbpuebEtA3WQwi1Dm6+ZiOPRm1vXW7V9kUAVXLO5E8eNAMNiZyIsXO+
+B6ZEabHHOewjfr/ppepgoahFDYdwOQXaHHHuxj+lERhR15WUjapEXyyaOo94u81o
+wOBTs38FY8RCWNX6mQUw8XjpM/+bS52v0cbczi5rSGtInKpdqlOXAgMBAAE=
+-
+-----END RSA PUBLIC KEY-----
+or-address ffff:7:ff:ffff:7:ffff:7.0.0.0/--------
+or-address ffff:6:ff:ffff:7:ffff:7.0.0.0/-----
+
+or-address ffff:7:ff:ffff:7:ffff:7.0.0.0/-----EY R*
+router-s----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMd6PeKfDVrMDwNvKxR6oCrwopGvkHTBLZvsU56cuBgn59tPaX+TVfb1
+wu77ERo2ZqXt7Q8FPO0T65GEMrksUXcodUvtqeD6cFItA4N8av4Y1peK9IAZ9Cqa
+CuCWJQC48+ZyMxZi19SiBBmzbdPFIW8+k0MI11y84U8BC02weu/JAgMBAAE=
+-----END RSA PUBLIC KEY-----
+or-address ffff:7:ff:ffff:7:ffff:7.0.0.0/--------
+or-address ffff:6:ff:ffff:7:ffff:7.0.0.0/-----
+
+or-address ffff:7:ff:ffff:7:ffff:7.0.0.0/-----EY R*
+router-signature
+-----BEGIN SIGNATURE-----
+MDiQr9PInggGefPhhfUQ5oApI8=
+-----END SIGNATURE-----

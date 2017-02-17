@@ -1,0 +1,13 @@
+network-status-version 3 microdesc
+vote-status consensus
+params !val=4 -=4
+valid-after 2016-12-07 18:00:00
+fresh-until 2016-12-17 19:00:00
+valid-until 2017-12-17 21:00:00
+voting-delay 300 300
+cl
+known-flags uAthority BadExi01
+dir-source tdst001a E7D0A37B839E 063.0.0.1 7 01 5001
+contact a5tt
+vote-digest FF'ÿÿÿÿÿÿÿ Ago
+directory-signatureF4gE 7

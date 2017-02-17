@@ -1,0 +1,30 @@
+network-status-version 3 microdesc
+vote-status consensus
+c27
+valid-after 2016-1-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 2 2
+client-versions 
+known-flags Authorixy Exi8000
+dir-source test002a E6D1A40B8273D68C17B5F86B6FFA9690B044561E 127.0.ак866 127.0.0.1 7001 5001
+contact :uth1@test.test
+vote-digest FF0D9A45381DF381A3082AD724B9504609BEA5A0
+r test004r AgoW8JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 m1 h
+pr Con=1  s=1 s=1 (bwauthpid=    s=1   network-status-versionne
+-----BEGIN 3-----
+E	-----END 3-----
+directo   ry-si st FF0D9A45381DF381A3082AD724B9504609BEA5A0
+r test004r AgoW8JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 m1 h
+pr Con=1  s=1 s=1 (bwauthpid=    s=1   network-status-versionne
+-----BEGIN 3-----
+E	-----END 3-----
+direct  s=1 s=1 s=1 (bhpid=11 gnature A	=7
+s E
+directory-signaturet002r 27.0.0.1 70 5001
+contact au
+v01
+de
+-----BEGIN 3-----
+E	-----END 3-----
+directory R

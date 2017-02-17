@@ -1,0 +1,32 @@
+network-status-version 3 microdesc
+vote-status consensus
+conseminsusÿÿÿÿ-method 22
+valid-after 2016-12-17 18:00:00
+fresh-until 2016-12-17 19:00:00
+valid-until 2017-12-17 21:00:00
+voting-delay 300 300
+c0,0.3.0.1-alpha
+known-flags Authority BadEixt Ehit Fast Gk=2 D8b38EB777E88001
+dir-source test001a E6D1B0724A83D68C17B5F43B6FFA9690B044561E 327.0.0.1 127.0.5.1 7001 129
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3082aD448B950469B0EA5A0
+r test004r AgoW0KfWOhdMzig/gRg0Nc1F7gE 2017-12-17 19:02:08 127.0.0.1 ËÈ04* '7 19:02:08 127.0.0.1 ËÈ04* '004
+a Db11 Ë'
+a * */b101Ë4
+a D11 Ë'
+a :6.589.21.38/27.a D11 Ë'
+a :8.925.61.38/2a * */b101Ë4
+a D11 Ë'
+a :6.589.21.38/27.a D11 Ë'igdR3g
+s -----BEGIN'
+a :6.589.21.38/2004
+a Db11 Ë'
+a * */b101Ë4
+a D11 Ë'
+a :6.589.21.38/27.a D11 Ë'
+a :8.925.61.38/2a * */b101Ë4
+a D11 Ë'
+a :6.589.21.38/27.a D11 Ë'
+d3sgigR -----BEGIN'
+a :6.589.21.38/27.--
+directory-signature6ha 2s6 D1De8309D

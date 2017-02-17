@@ -1,0 +1,140 @@
+network-status-version 3 microdesc
+vote-status consensus
+consen!us-method 58
+valid-after 2016-02-17 18:00:00
+fresh-until 20162-1-17 19:00:00
+valid-until 2017-12-17 21:00:00
+voting-delay 300 300
+cli.5.12,0.2.7.6,0.2alpha
+known-flags AutB388E88001
+dir-source mist002a E6D1A40B8273D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact auth1.test.test
+vote-digest FF0D9A45381DF381A3082AD7249B50469B0EA5A0
+r test004r AgoW0JfWOhdMziopackage0F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0A3082AD7249B50469B0EA5A0
+r test004r AgoW0JfWOhdMziopackage0F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 507.0.0.1 5004 50Y3zbkH4qR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4EuIrldR3g
+s Unnamed
+w Bandwidth=---
+D7249B50469B0EA5A0
+r test004r AgoW0JfWOhdMziopackage0F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 507.0.0.1 5004 50Y3zbkH4qR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4EuIrldR3g
+s Unnamed
+w Bandwidth=-9A45381DF381A3082AD7249B50469B0EA5A0
+r test004r AgoW0JfWOhdMziopackage0F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 507.0.0.1 5004 50Y3zbkH4qR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4EuIrldR3g
+s Unnamed
+w Bandwidth=---
+D7249B50469B0EA5A0
+r test004r AgoW0JfWOhdMziopackage0F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 507.0.0.1 5004 50Y3zbkH4qR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4EuIrldR3g
+s Unnamed
+w Bandwidth=---
+di--
+directory-signat
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 507.0.0.1 5004 50Y3zbkH4qR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4EuIrldR3g
+s Unnamed
+w Bandwidth=---
+D7249B50469B0EA5A0
+r test004r AgoW0JfWOhdMziopackage0F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 507.0.0.1 5004 50Y3zbkH4qR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4EuIrldR3g
+s Unnamed
+w Bandwidth=-9A45381DF381A3082AD7249B50469B0EA5A0
+r test004r AgoW0JfWOhdMziopackage0F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 507.0.0.1 5004 50Y3zbkH4qR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4EuIrldR3g
+s Unnamed
+w Bandwidth=---
+D7249B50469B0EA5A0
+r test004r AgoW0JfWOhdMziopackage0F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4qEuIrldR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 507.0.0.1 5004 50Y3zbkH4qR3g
+s Unnamed
+w Bandwidth=S=
+---N0
+r test004r AgoW0JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 50Y3zbkH4EuIrldR3g
+s Unnamed
+w Bandwidth=---
+di--
+directory-signature shB97EFA96D

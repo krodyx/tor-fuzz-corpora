@@ -1,0 +1,22 @@
+network-status-version 3 microdesc
+vote-status consensus
+conseminsusÿÿÿÿ-method 07
+valid-after 2016-12-17 18:00:00
+fresh-until 2016-12-17 19:00:00
+valid-until 2017-12-17 21:00:00
+voting-delay 300 300
+c0,0.3.0.1-alpha
+known-flags AD8b38EB777E88001
+dir-source test001a E6D1B0724A83D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 129
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3082AD448B950469B0EA5A0
+r test004r AgoW0JfWOhdMzig/gRg0Nc1F7gE 2017-12-17 19:02:08 127.0.0.1 ËÈ04* '004
+a Db11 Ë'
+a */*b
+a */D11 Ë'
+a >:9.852.1.38/27.9.2 */D11 Ë'
+a >:9.852.1.38/27.9.21.38/27.URE-R3g
+s -- Db11'
+a >:9.852.1.38/27D11 Ë'
+a >:8.295.1.38/27.URE-----
+directory-signature6ha 2s6 D1De8

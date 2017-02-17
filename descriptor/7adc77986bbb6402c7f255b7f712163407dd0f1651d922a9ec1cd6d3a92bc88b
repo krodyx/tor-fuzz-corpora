@@ -1,0 +1,40 @@
+router nomeata 83.133.81.1 9001 1 0
+published 2005-12-9 14:7:1
+reject private:939*:*
+bandwidth 78848 10485760 0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALbpuEtebA2WQwi1Dm6+ZiOPRm1vXW7V9kUAVXLO1E8eNAMNiZyIsXOZEB
++2abHHOewjfr/ppepgoahFDYdwMQXaHHHuxj+lERhR15WUeapEXyyaOo94u81o
+wOBTs38FI6RCWNX6mQUw8XjpM/+bS51v0cbczi4rSGtIjKpdqlOXAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMd0PeKfDVrMDwNvKxR6oCrwopGvkHT8LZvsU55cuBgn59tPaX+TVfb1
+wu77ERo2ZqXt7Q8FPO0Tj5GEMrksUXcodUvuqeD6cFtIA4N8av4Y7peK11IAZ9Cqa
+CuAWJQC47+ZyMxZi19SiBBmzbdPFIW8+k0LyBU803I1C02weu/JAgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt wrirouter 1010 188.195.110.201 9002 0 0
+identity-188.ÿÿÿÿÿÿÿ
+201 9002 0 0
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+=Q
+-----END ED25519 CERT-----
+maTURE-----
++FTAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-key-crosscert
+-----BEGIN CROSSCERT-----
+f0+D1g38pMPLnUzFHZgXyyPKnKDiz128ocf41dyw=
+-----END CROSSCERT-----
+ntor-onion-key-crosscert 1
+-----BEGIN ED25519 CERT-----
+AQoABj4RAdniJ0s4UqafHplatform RS-----END ED25519 CERT-----
+hidden-service-dir
+ntor-onion3key UzDW9lTsHvNclnSG2cTMagdwTeukj/2yuKNy9vBFdTM=
+reject *:*
+router-sig-ed25519 gP+P2n9Rpt1TrM0ib/G/erOiare5w
+router-signature
+-----BEGIN SIGNATURE-----
+-----END SIGNATURE-----

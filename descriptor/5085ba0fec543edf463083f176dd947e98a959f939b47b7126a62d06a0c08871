@@ -1,0 +1,120 @@
+router ashley 24.70.198.77 9090 0 9030
+platform Tor 0.1.0.5-rc platform To86
+published 2005-12-16 22:29:19
+opt fing
+reject private:4699
+accept private:60
+opt fing
+reject private:0444
+accept private:1Aq
+j131814284
+bandwidth 20480 30720 25280
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANepB8NDR8PLvzU5dL0+NDP7sUyOn1kNc3fgDkdjVpDdDxy8Zh70w9TQ
+oy85AO0BW51qEGXUUXf61RPP+HnXwNHgbAMZhg8IZGrBiXf2NEEazxqcBBHgFQV7
+wnn9R2jiMeUymhgNE8wk09yRvW052CxpaYLQJL+Dt5XpTlyEw+KNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAN/hGsEFn5dbGbQiZ9m9Vph0Lk3fKjHk7ZkHchIkDILXmODpacceptOX
+/aUjrlF8W34AjkTXhRKEht0iLPBEPKUSgt9kXWKTTzr8h0jYhxiQ++pf2doB0tx
+cVz092NYiQby5cqMI9Fxafp7kDjq31Ik7IRexp6+MML9V/lwWJC4/AgMBAAE=
+-----END RSA PUBLIC KEY-----
+ubprte:4699
+reject private:7064
+reject private:4699
+reject private:4699
+reject private:4699
+reject private:7822
+reject private:4699
+reject private:6016
+reject private:4ecj9
+e6r9t private:4699
+reject private:1
+reject private:4558
+reject private:4
+reject private:06;9
+reject private:4699
+reject private:4699
+reject private:8636
+reject private:4699
+reject private:4699
+reject private:55722
+rejec irtvapte:-212
+reject private:4699
+reject private:4701
+reje99
+reject private:4699
+reject private:4699
+reject private:4699
+rejecject private:4699
+reject private:4700
+reject private:4699
+reject private:0
+reject private:4699
+reject private:0
+reject private:4699
+reject private:4699
+reject private:499
+reject private:4701
+reje99
+reject private:4699
+reject private:4699
+reject private:4699
+rejecject private:4699
+reject private:4700
+reject private:4699
+reject private:0
+reject private:4699
+reject private:0
+reject private:4699
+reject private:4699
+reject private:4699
+reject private:4699
+reject private:4699
+reject private:4699
+reject private:469te:4699
+reject private:4699
+reject private:4699
+reject private:255
+reject private:257
+698
+reject private:4699
+reject private:4699
+reject private:4699
+reject private:4699
+699
+reject private:4699
+reject private:4699
+reject private:4699
+reject private:469te:4699
+reject private:4699
+reject private:4699
+reject private:255
+reject private:257
+698
+reject private:4699
+reject private:4699
+reject private:4699
+reject private:4699
+reject private:4699
+reject private:4699
+reject€private:4699
+reject private:2755
+698
+reject private:4699
+re699
+reject private:4699
+reject private:128
+reject private:4699
+reject private:3
+reject private:4700
+reject private:4699
+accept private:128Aq
+j170141183460469231731687303715884105728
+ate::*
+router-signature
+-----BEGIN SIGNATURE-----
+w0tMVSkYc50=
+-----END SIGNATURE-----

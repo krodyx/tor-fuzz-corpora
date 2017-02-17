@@ -1,0 +1,135 @@
+network-status-version 3 microdesc
+vote-status consensus
+conseminsus-method 22
+valid-after 2016-12-17 18:00:00
+fresh-until 2016-12-17 19:00:00
+valid-until 2017-12-17 21:00:00
+voting-delay 300 300
+c8,0.3.0.1-alpha
+known-flags Authority Ba*dEuit Ehit Fast Gk=4 D838EB777E88001
+dir-source test001a E6D1B0724A83D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3080AD448B950469B0EA5A0
+r test004r AgoW0JfWOhdMzig/gRg2Nc1F7gE 2016-12-17 19:02:08 127.0.-1.0 Àa54.0.0.1 À»04* '07 194* '004
+a ne22016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a network-status-version 3
+--,--BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+di9:0)2:EA65535ò0
+r test004r AgoW0JfWGhdMzig/gRg1Nc1F7gE 2016- Àa54.0.0.1 À»04* '07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a network-status-version 3
+ublishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.1.0ig/gRg1Nc1F7gE 2016- Àa54.0.0.1 À»04* '07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a 07 19:4* '0BEGIN votedir-kdMzig/gRg1Nc1F7gE 2016- Àa54.0.0.1 À»04* '07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a network-status-version 3
+ublishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.1.0ig/gRg1Nc1F7gE 2016- Àa54.0.0.1 À»04* '07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a 07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.1.0ig/gRg1Nc1F7gE 2016- Àa54.0.0.1 À»04* '07 7 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a network-status-version 3
+--,--BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.1.0ig/gRg1Nc1F727.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a network-status-version 3
+--,--BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.1.0hg/gRg1Nc1F7gE 2016- Àa54.0.0.1 À»04* '07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.1.0ig/gRg1Nc1F7gE 2016- Àa54.0.0.1 À»04* '07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a 07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.04 a5.À.10.0.1 À»04* '07 19:14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.1.0ig/gRg1Nc1F7gE 2016- Àa54.0.0.1 À»04* '07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a network-status-version 3
+ey-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.1.0ig/gRg1Nc1F7gE 2016- Àa54.0.0.1 À»04* '07 7 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a network-status-version 3
+--,--BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.1.0ig/gRg1Nc1F727.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a network-status-version 3
+--,--BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.1.0hg/gRg1Nc1F7gE 2016- Àa54.0.0.1 À»04* '07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.1.0ig/gRg1Nc1F7gE 2016- Àa54.0.0.1 À»04* '07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a 07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.04 a5.À.10.0.1 À»04* '07 19:14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.1.0ig/gRg1Nc1F7gE 2016- Àa54.0.0.1 À»04* '07 19:4* '0BEGIN votedir-key-publishe 2016-122016-12-14 14:3∂:40
+-----BEGIN RSA PRIVATE KEY-----
+reparams 999om-----END RSA PRIVATE KEY-----
+r 12-17 19:02:08 127.0.0.1 Àa54.0.0.1 À»04* '07 19:04
+a network-status-version 3
+--,--BEGIN votedir--
+directory-signature4 14:2∂:40
+-----BEGIN RSA PRI

@@ -1,0 +1,37 @@
+router 1010 188.195.110.201 9002 0 0
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQ44 RSA PUBLI4444444444444ZKnAi5hbgVd3AEvXwJJZKnAi5hbgAAIAAAAAAAAAAAAAAAVd3AEvXwJJZKnAi5hbgAAIAAAAAAAAAAAAAAAAAAAAAVd3x
+0-----END ED25519 CERT-----
+master-key-ed2Ojpq5llz4TGlWMURK3hiAmWGSys
+ipv6-policy Linux(protocols Link 1 2 Circuit 1
+published 5941-08-26 00:01:40
+fi(gerprint 98A17D FB54
+uptime 5
+bandwidth 131072 262144 55296
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMEvXwJJZKnAi5hxbVg3d6MQmbMOe+uco0YRcxXZYKgHw/2cPRo0Jytp
+Z600CxImPPht6QX+aNY0ZYNW4dckcDcYltKcDrsiM6/PYlpQzxOng/EFaJJ/459B
+727QAz6yRmgENEDKYyX9plbeGRVK32D5/XsN1njexSCtjTzPaaolAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKzKoupmrbgjn2R7VYs8D40Nj3tvtNmTlg92Fo/5F1DK8yeFTEzEVpVO
+MrHYzK8PUyOMGEQBV8uKJMi63IQTCtspMC3KDynXvIIgjhzssv+EK3PX5DPKwG23
+pASj28Jcd2vOkRI8rR7HMxJ838zjb2YyFX0nV+jLnkHCffM3f+FTAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-key-crosscert
+-----BEGIN CROSSCERT-----
+f0+D1g38pMPLnUzFHZgXyyrouter 128ocf41dyw=
+-----END CROSSCERT-----
+ntor-onion-key-crosscert 1
+-----BEGIN ED25519 CERT-----
+AQoABj4RAdniJ0s4UqafHplatform RS-----END ED25519 CERT-----
+hidden-service-dir
+ntor-onion-key UzDW9lTsHvNclnSG2cTMagdwTeukj/2yuKNy9vBFdTM=
+rejec
+router-sig-ed25519 gP+P2n9Rpt1TrM41ib/G/erOiare0w
+router-signature
+-----BEGIN SIGNATURE-----
+-----END SIGNATURE-----

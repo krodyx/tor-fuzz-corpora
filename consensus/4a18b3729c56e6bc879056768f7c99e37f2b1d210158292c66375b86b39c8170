@@ -1,0 +1,190 @@
+network-status-version 3 microdesc
+vote-status consensus
+ÿÿÿÿÿÿÿÿsusÿÿÿÿ-method 22
+valid-after 2015-12-17 18:00:00
+fresh-until 2016-12-17 19:00:00
+valid-until 2017-12-17 21:00:00
+voting-delay 300 300
+c8,0.3.0.1-alpha
+known-flags Authority BaE88001
+dir-source test001a E6D1B0724A83D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.:est
+vote-digest FF0D9A45381DF381A3082AD448B950469B0EA5A0
+r  SIGN82DF9D3144DFD8DECA3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Atuhority B1
+r  SIGN82DF9D3144DÚD8DECA3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B1
+r  SIGN82DF9D3144DÚD8DECA3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJªÐ´Š§š’Æ9KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0uard HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V0Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Aut7B5F43B6FFA9690B0uard HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0d HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V0Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Aut7B5F43B6FFA9690B0uard HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Auth43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.:est
+vote-digest FF0D9A45381DF381A3082AD448B950469B0EA5A0
+r  SIGN82DF9D3144DFD8DECA3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Atuhority B1
+r  SIGN82DF9D3144DÚD8DECA3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B1
+r  SIGN82DF9D3144DÚD8DECA3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJªÐ´Š§š’Æ9KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0uard HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V0Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Aut7B5F43B6FFA9690B0uard HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0d HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V0Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Aut7B5F43B6FFA9690B0uard HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0d HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0uard HS3E
+r mintbe--BEGIN mmcmhQTw==44DFD8DECA3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Atuhority B1
+r  SIGN82DF9D3144DÚD8DECA3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B1
+r  SIGN82DF9D3144DÚD8DECA3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJªÐ´Š§š’Æ9KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0uard HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V0Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Aut7B5F43B6FFA9690B0uard HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0d HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V0Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Aut7B5F43B6FFA9690B0uard HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0d HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+kno
+-----
+directory-signaturority B17B5F43B6FFA9690B0d HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0uard HS3E
+r mintbe--BEGIN mmcmhQTw==44DFD8DECA3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Atuhority B1
+r  SIGN82DF9D3144DÚD8DECA3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B1
+r  SIGN82DF9D3144DÚD8DECA3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJªÐ´Š§š’Æ9KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0uard HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V0Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Aut7B5F43B6FFA9690B0uard HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0d HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V0Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Aut7B5F43B6FFA9690B0uard HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+known-flags Authority B17B5F43B6FFA9690B0d HS3E
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTiRE 2016-12-17 02:54:21 88.99.35.166 443 9030
+m E4Z5SdyAhF6R/iXRVH/giJV/KuXem49KHjNAHVn1cD4
+s Fast Guard HSDir Running Stable V2Dir V2Dir
+v Tor 0.2.4.8.alpha
+kno
+-----
+directory-signature9223372036854775814ha 271

@@ -1,0 +1,60 @@
+router winnie 28.1.210.23 2 0 9030
+platfor0 2241644
+reject *:6346-6924
+rej-4666
+reject *:6346-6429
+reject *:6346-6924󠁫
+reject *:6346-6954
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reje *:*
+routerm Tor 0.1.0.15 on Linux i-572
+published 2005-12-16 06:20:09
+uptime 1202
+bandwidth 215000 450000 85520
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMkQA/gIjP6qajXwubTvVwXnfoB8JIYgdUsWvFyNdjyW6mBCMve/pE0L
+Be8nyUNNSeGkYmy1KWVWWoiMOu8bTaAnN+0WE1LYhOUn/uVyooUtNUgv78qTTqg6
+m0J0IcwjBUB/oUvqID8xGVsI0KRNv2vs5SMfqYyKZNKh0ptvOxdrAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMDhmbx51AaIuu28m4HrtEqY42YWoN09xIvpQvzwKp7elGZ6OKQcQehd
+SLGuaCdqWLqxAxpX/DYu3ll4Ovl0vDGPzenBAGMYjDPQHdM4mzSM1TxIVO/fgCb0
+m9ef0QdafQymF9mh31nfZlwFtY0FoXzbYhd62gSnUkgyXCMLUeiPAgMBAAE=
+-----END RSA PUBLIC KEY-----
+family rufus
+opt write-history 200 2241644
+reject *:6346-6924
+rej-4666
+reject *:6346-6429
+reject *:6346-6924󠁫
+reject *:6346-6954
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reject *:6346-6924
+reje *:*
+router-signature
+-----BEGIN SIGNATURE-----
+Kbg
+4vBqj-----END SIGNATURE-----

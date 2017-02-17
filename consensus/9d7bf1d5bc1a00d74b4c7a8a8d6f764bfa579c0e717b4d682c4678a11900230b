@@ -1,0 +1,14 @@
+network-status-version odesc
+vote-status consensus
+params rval=4 =4 =4 =4 =4 =4 =4 =44 =4 =4 =4 =4 =4 =4 =4 =4 =4   =44 =4 =4 D=44 =44 =4 =4   =44 =4 =4 D=4 =8 =44 =4 =44 =4 =4   al=4 =4 =4 =4 =4 =4 =4 =4 =4 =4 =4 =44 =4 =4 =4 =4 =4 =4 =4 =4 =4   =44 =4 =4 D=44 =44 =4 =4   =44 =4 =4 D=4 =8 =44 =4 =44 =4 =4   al=4 =4 =4 =4 =4 =4  =4ÌA=2
+valid  =4ÌA=2
+valid-after 2016-12-07 18:00:00
+fresh-until 2016-12-17 19:00:00
+valid-until 2018-12-17 21:00:00
+voting-delay 300 300
+cl
+known-flags 01
+dir-source tdst09E 063,0.0(1 1 7 01 5001
+contact a5tt
+vote-digest FF'ÿÿÿÿÿÿÿÿ Ago
+directory-signatureF1gE 7

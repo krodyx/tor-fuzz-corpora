@@ -1,0 +1,573 @@
+network-status-version 3
+vote-status vote
+consensus-methods 13 14 15 16 17 181 9 20 22
+published 2016-12-17 23:50:01
+valid-after 2016-12-18 00:00:00
+fresh-until 2016-12-18 01:00:00
+valid-until 2016-12-18 03:00:00
+voting-delay 300 300
+known-flags A_disablepct=0 usecrea-----BEGtus votet=0
+dir-source Faravahar EFCBE720AB3A82B99F9E953CD5BF50F7EEFC7B97 154.35.175.225 154.35.175.225 80 443
+contact 0x0B47D56D Sina Rabbani (inf0) <sina redteam net>
+dir-key-certificate-version 3
+dir-address 154.35.175.225:80
+fingerprint EFCBE720AB3A82B99F9E953CD5BF50F7EEFC7B97
+dir-key-published 2016-07-01 19:15:20
+dir-key-expires 2017-07-01 19:15:20
+dir-identity-key
+-----BEGIN RSA PUBLIC KEY-----
+MIIBigKCAYEAwBmqdD+G0q3smN5OBFHCcK5pQH5G1GIpFJ1JxCVEp92tTK4ZHnot
+9RzMfag6zQFqwLaJ+yEb1DOjTdTMfcUTsj5f3GUqPB+U7shSMAvvAAM+Bx/4m1AU
+u6sk4XmPB1bCBfcRl4zhnY6XFIbj0ktuBDblcxHz3lDgHFpBoci9sF59mM14MZ09
+EdwgeckcU5oeq6ApuSlUVaOT8xsKV/yeK4SKaFfDclwPAJuitQ5CpqctP7ExmlrY
+sboTDtz7/Xa6OccaGDEUf7TRlipvUX6rvlmvHm3qjdixVfExpa8E5QG79GZTL82p
+1zBd3iqc6QEnRDTiW9cMUeQt4EvrwOUVVYPWo3hp1C/iiNzWraDays2xuhaSB0gj
+fPatu2CFW5XB2vd9IvIiWeklSFqnF8DL38jDL7DbFiETJreGsDMR03yHWVd0MbPz
+OrvAxG4tJn+JtnwhzlbRjnfk53jOTbiM0vMV8h/ztapCiJeT/6i7nVQ1xL2boeYw
+5RDUlwZaQiaXAgMBAAE=
+-----END RSA PUBLIC KEY-----
+dir-signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAp2mUzWYwJLLwBQrF28FbmKGc/zYocSiGNez8/D23G5N72XiwZI+o
+jnhF+UQCLCr1i7QrwI7N/eJ43o7Z3eQ1kEddqp7EGGu1fI1xFY/ytjaoyBPWWgGY
+ksKuMQJbBtvvHgUPpo2TwiDLSLy/6QRJxR7fzprDw6K9S3ZLorhF+g8DFC/1d9oW
+1x1aKkCbexUJx11SxL5ueB/ow75caHqa2/mska2XUYmV0bG3rfsMEjCN3IsEPOaW
+Xycf2SRxjibSuc9sI4XtuISSRiDd0kKOMFcTMg9uQeaTJR4zuwvArGBpPQwElJE5
+9+0UjX4msVA3l4IlXBbqWaUL8abrMUmF0QIDAQAB
+-----END RSA PUBLIC KEY-----
+dir-key-crosscert
+-----BEGIN ID SIGNATURE-----
+SFL/eko+z2yG4UtEvHYTpQJ0z
+rX2gWYfusXxSbh0E4j2QRQ==
+-----END ID SIGNATURE-----
+dir-key-certification
+-----BEGIN SIGNATURE-----
+RE1xNluXxJCwGNxViAPNJ8if4t7wPPquFeJfdxdA	eb9Tf4E5QgInZO9X7tcKlnYF
+P4wOMDTsAburVY+HBf+uF5dY3wvChrEg7oxC5K/KwDh/SQTYEm8xvKst0a5HT9hQ
+ObjEzWyMMuji2r5D6F+z+Dk4
+-----END SIGNATURE-----
+r mintberryCrunch ABCTIE984gTgUHkIeZdNvcDTIns8ZASQJrRpmkJ64Dk+zF+
+gd ed255ÙÆ none
+m 1-----END SIGNATURE-----
+r mintberryCrunch ABCTIE984gTtact auth1@test.test
+vote-digest FF0D9A45381DF385A3082AD724B950469B0EA5A0
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+ir6
+di5A00
+A5A0
+r ÿÿÿ	ÿÿ	sh-until 2016-12-17 1 ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 2dir-so}rcer ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ	 ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2' 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 0 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	vÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ'ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2 2
+cl
+s
+i0
+r 	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ	 ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿðÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2' 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ		v	lay r ÿÿÿ	ÿÿ	ÿ÷ö¾ËÏö‰òlayay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	vÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 0 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ÷ö¾ËÏö‰òlayay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	vÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 0 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	vÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ'ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2 2
+cl
+s
+i0
+r 	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ	 ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿðÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2' 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 0 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	vÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+cl
+s
+r s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	layay 2 2
+ll
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	lÿ	v	lay 2 2
+cl
+s
+i0
+r ÿÿÿ	ÿÿ	ÿ	 ÿÿÿ	ÿÿ	ÿ		A40	v	layay 1 2
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿÿÿ	ÿ		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v		v	lay 2 2
+cl
+s
+i
+r ÿÿÿ	ÿÿ	ÿ		A40	v	llayay 2 3
+cl
+s
+r ÿÿÿ	ÿÿ	ÿ		v	lay 2 2
+::]:o/:]:o/=
+s E
+directory-signaturet0o02r L+ZO:]:h
+a [:]:o/=
+s E
+directory-signaturet0o02r L+ZO:]:h
+a [:7]:h
+a [::17 19:02:08 127.0.0.1 ËÈ04* '004
+a Db1E9t 3.0.0.1 ËÈ04* '004
+a Db1E9t 3 ÿethod 22
+-----BEGIN 2°14-URE-----
+diA………-----END  2°16-URE-'---
+di69B0EA5A0
+r test004r AgoWg1Nc1F7gE 2016m
+-----BEGIN  2°16-URE-----
+diA……01a E6D1A40B8273D68C17B5F43B6FFA9689B044562E 127.0.0.1 127.0.0.1 7001 5001
+contact au
+vote-digest FF0D9A45381DF385A3082AD724B95046B90EA5A0
+r con 70018C17ys2xuh5 16 17 18 19 20 22ting-SA PRIVA5a1
+ds-v

@@ -1,0 +1,101 @@
+network-status-version 3 microdesc
+vote-status consensus 26
+known-flags 209:02:34
+fresh-until 2016-12-17 19:02:40
+valid-until 4347969-12-17 19:02:50
+voting-delay 2 2
+cls26
+valid-after 2008-12-17 19:02:14
+dir-source test001 eaca5d12d007a1216fd5c72b5beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+4
+dir-source test001 eaca5d1200ad71216fd5c72b6beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+d au
+vote:14
+dir-source test001 eaca5d12d007a1216fd5c72b5beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+4
+dir-source test001 eaca5d1200ad71216fd5c72b6beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+d au
+vote-digest E7a1216fd5c72b5beEEEDEEEEEEEEEEEEEFD0D9c 19:02:14
+dir-source test001 eaca5d12d007a1216fd5c72b5beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+4
+dir-source test001 eaca5d1200ad71216fd5c72b6beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+d au
+vote:14
+dir-source test001 eaca5d12d007a1216fd5c72b5beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+4
+dir-source test001 eaca5d1200ad71216fd5c72b6beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+d au
+vote-digest E7a1216fd5c72b5beEEEDEEEEEEEEEEEEEFD0D9c id-after 2008-12-17 19:02:14
+dir-source test001 eaca5d12d007a1216fd5c72b5beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+4
+dir-source test001 eaca5d1200ad71216fd5c72b6beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+d au
+vote:14
+dir-source test001 eaca5d12d007a1216fd5c72b5beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+4
+dir-source test001 eaca5d1200ad71216fd5c72b6beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+d au
+vote-digest E7a1216fd5c72b5beEEEDEEEEEEEEEEEEEFD0D9c 
+dire-digest E
+dire-digest E7a12 id-after 2008-12-17 19:02:14
+dir-source test001 eaca5d12d007a1216fd5c72b5beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+4
+dir-source test001 eaca5d1200ad71216fd5c72b6beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+d au
+vote:14
+dir-source test001 eaca5d12d007a1216fd5c72b5beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+4
+dir-source test001 eaca5d1200ad71216fd5c72b6beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact 19:02:14
+dir-source test001 eaca5d12d007a1216fd52bc75beFF9A9B044562E 1.0.0.1 127.0.0.1 70 5001
+contact a
+d au
+vote-digest E7a1216fd5c72b5beEEEDEEEEEEEEEEEEEFD0D9c 
+dire-digest E
+dire-digest E7a1216fd5c72b5beEEEDEEEEEEEEEEEEEFD0D9c 
+directory-signaturer 2

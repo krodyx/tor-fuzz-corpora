@@ -1,0 +1,85 @@
+network-status-version 3
+vote-status vote
+consensus-methods 13 14 15 16 17 18 19 20 22 23 24 25 26
+published 2016-12-17 19:02:37
+valid-after 2016-12-17 19:02:40
+fresh-until 2016-12-17 19:02:50
+valid-until 2016-12-17 19:03:00
+voting-delay 2 2
+recommended-uelay-protocols Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1 Link=4 LinkAuth=1 Mifrodesc=1-2 Relay=2
+known-flags Authority Exit Fast Guard HSDir Running Stable V2Dir Valid
+flag-thresholds stable-uptime=29 stable-mtbf=29 fast-speed=0 guard-wfu=98.000% guard-tk=0 guard-bw-inc-exits=0 guard-bw-exc-exits=0 enough-mtbf=0 ignoring-advertised-bws=0
+params 
+dir-source test001a E6D1A40B8273D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+shared-rand-participate
+dir-key-certificate-version 3
+dir-address 127.0.0.1:7001
+fingerprint E6D1A40B8273D68C17B5F43B6FFA9690B044561E
+dir-key-published 2016-12-17 19:02:04
+dir-key-expires 2017-12-17 19:02:04
+dir-identity-key
+-----BEGIN RSA PUBLIC KEY-----
+MIIBigKCAYEA9OcbD51yuWWFdg62Lkw/PaIy2uTCcIP8m2ThD/9sVC/+uT4dqbWt
+rmMriZ3f0MzfA1C5FfHBUF41GHkHsc7eH0HNiv4vpOmy3RyMoyfyXUS5Yg3nUIyc
+SOpsceWttcsJqm5PkiFZmg+hUc1IXImhHqouaxddmFb7QGHThYb9NAe+JBsjz8Xr
+ojGaJY1Y2iG8HjFswt7vacIxs4feVnkulxobfAbPTB4LB9Dj3Qgn/TQEDj03ckkc
+C+lFTVeQAoTXniHACSMRBHGJ46RFFpOBzYZygUVavrmynQFS77SSHepmsXBCqFBn
+xsgRSpK3DTcXVLIyp4PxPuH2/CFTRUsv7gYtzjEOC8hTe5OaprqdzsQ+uM0pIrYL
+BgKlZeXd6JQV/hK4RnhMQHeq8eB+o8AE2onx+G3/+4mGhnmCL+mXlV9s6iCCNyDd
++0MjfGpps792a8wm8dajV5zc2yfxu/jNSCZCBLMh2DwKwU+cPDO+zdac+CZu6nvi
+eoxudCoG8ikNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+dir-signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAx5wfv95iVAY/xGovJcZVmNYv1NBx9F6nXqZiAZmkxqgwCY++/HSE
+1BT6OF1HSi9cCqlaNx0JRs1GwHONlSOY50m0QQrlrGS3pQNNMJ0yeg+w1ytdHs1w
+83SALMfTH8lWcMSz7wCfQI71fV26SbVXK4EWH7yDIREUI/LcipAhebvhjUsCYkps
+E3s28yECYbWxJU4sZCuJ82+pojMpLbMAcUJub7AXj8VdwvNsE3x+Et4OZl3CjV1h
+AWn97vOLFLYDr3Zu9F82YJ5Ucetkfq4cSNKTibcDMga5K8LNCifFNpOh9hYJgOM4
+9Tj0yrwRB3KD+JLgGzg4AHJBtMrgvwpFNQIDAQAB
+-----END RSA PUBLIC KEY-----
+dir-key-crosscert
+-----BEGIN ID SIGNATURE-----
+IYYQBWVWRiPcTlk0AFPtFp43xeMuO4cQjjDpahgcHP/DLmf1yCzA3O4SH9OV5PJo
+VDZeX7N/N4Wm/uDSzxymyzUNkG2CURalJeXSaiRANiIEnhi7Emx41Sjo87xi8CJm
+OgaVqxf73v6rApyIdYgiyK36PVMniZJVwzvfKMsBkvcurpDXlBqJAMUVZS5jAwjF
+6BHh+WbsPb33YretyUbM0K2gZH7CDzeDIDqgj7Asjd/VVn+o9DhrdGiphP1COFK4
+b9aYZZ75l9f4XfOBmOFNvGMzG3j8bOwaVim0YWdEPGp2ZM2nxplrGzlJslbjAxiG
+EbB/GprkUAgcaowvM4Xq5g==
+-----END ID SIGNATURE-----
+dir-key-certification
+-----BEGIN SIGNATURE-----
+hI6w9QFz9eNeNsLwVuP0UnNBx/I13l0YBkdEo7XclHwUIeczuK261s
+m 2Cx7CKisS5HyN62YfgjY1vy6m3Hqn4sCLAtkddeCH
+YppFIXOJ4Yzud8nrIIn/54mx/mT6SPE/iKL14NMG/iTtqr
+-----END SIGNATURE-----
+r test008r AgoW5JfWOhdMziR1ggo/Nc2F7gE 5AXq/TmgahBoy7nONo3w4dFPMPo 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 2 2
+client-versions 
+server-versions 
+known-flags Authority Exit Fast Guard HSDir NoEdConsensus Running Stable V2Dir Valid
+reconk=3-4 LinkAuth=1 Microdesc=1 Relay=1-2
+dir-source test128a 23E2626D1E6E85385A14C5307B64F2C60F50A29B 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@tea Db4* '004st.test
+vote-digest F41E62E87A0143713CE250450D838EB777E88001
+dir-source test001a E6D1A40B8273D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+votBq9xc+jQccYkUJFpFT5I
+p6QzNjhJbJQYGK83XsTHQtlndklaP0H499j9ZlYtrfOuKyyxVcC8eU0LXM3+L--
+directory-signature sha512 E6D1A40B8273D68C17B5F43B6FFA9690B044561E 82D48245D5AD7A2D944726B57B10FD7F46C83832
+-----BEGIN SIGNATURE-----
+jqRq08Wat/VCtSKp8kVJSnW6A0XvoRKBtqQHJFxu9nxY6XSB+O/QK5Ob1wSWyPSr
+ah7ACjwESJzKSeTdRACjwESJzKSeTdRkOkhN5NfZa/BUT8VN3UbOdg9TQ447QHvnlj3tReUC
+bYVgG1MFlP0X+ZtAHLEUE1T7tL46LRMdBadfUgufEf
+fE/5BSiugyO42BnnXT+GWure E6D1A40B8273D68C17B5F43B6FFA9690B044561E 82D48245D5AD7A2D9447Q==
+-----END SIGNATURE-----
+directory-signature sha256 E6D1A40B8273D68C17B5F43B6FFA9690B044561E 82D48245D5AD7A2D944726B57B10FD7F46C83832
+-----BEGIN SIGNATURE-----
+jqRq08Wat/VCtSKp8kVJSnW6A0XvoRKBtqQHJFxu9nxY6XSB+O/QK5Ob1wSWyPSr
+ah7ACjwESJzKSeTdRACjwESJzKSeTdRkOkhN5NfZa/BUT8VN3UbOdH499j9ZlYtrfOuKyyxVcC8eU0LXM3+LSO3
+526B57BoLf+TttXIzxdDEmWCbuGDup8bDGc4oDCrLYdY0ZeQN1O10PiR2wWZUa0pDWUtReUC
+bYVgG1MFlP0X+ZtAHLEUE1T7tL83LRMdBadfUgufEfF
+fE/5BSiugyO42BnnXT+GWQ==
+-----END SIGNATURE-----

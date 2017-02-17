@@ -1,0 +1,80 @@
+network-status-version 3 microdesc
+vote-status consensus
+consen¦sus-method 0
+valid-after 2016-1-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 2 2
+client-versions 
+known-flags Authorixy Exi8001
+dir-source test002a E6D1A40B8273D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact :uth1@test.test
+vote-digest FF0D9A45381DF381A3082AD724B956400B9EA5A0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus constatus csensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus cs consensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus cs consensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus csensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus consensus
+pr Cons=1-2cot FF0D9A45381DF381A3082AD724B956400B9EA5A0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus constatus csensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus cs consensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus csensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus cs consensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus csensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus consensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus cs consensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus csensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus cs consensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus csensus
+pr Cons=1-2cA0
+r test004r AgoW5JfWOhdMzio/gRg0Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 047:00m1 h
+v Tor #.2
+s Estatus consensus
+pr Cons=1-2co
+o
+directory-sig
+o
+directory-signaturet002r L+ZOaQgG

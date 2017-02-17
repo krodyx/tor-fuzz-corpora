@@ -1,0 +1,14 @@
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMfveVVV4F+RU213clHoLjIHkttloV72XXlQQ1DUAudg7nq0x1nISP0M
+bc/jZj02io13L5Afpj0mKnCpF3Ss0w2vyDlkQvieOL79XJ+1Ih8KsTK3QOWMsJ7D
+k9jLvzhex0PghhMpXodiz1dBEdziVAlJqN28u4YJur/fuRbu3MmLAgMBAAE=
+-----END RSA PUBLIC KEY-----
+
+a [91::]53/0.0.0.0	3
+a	*/0.0.0.0	3----
+
+a [91::]53/0.0.0.0	3
+a	*/0.0.0.0	3
+a	*
+a	*:5-1---

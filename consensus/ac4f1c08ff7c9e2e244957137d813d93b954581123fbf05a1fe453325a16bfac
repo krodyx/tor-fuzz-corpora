@@ -1,0 +1,30 @@
+network-status-version 3 microdesc
+vote-status consensus
+consen¦sus-method 26
+valid-after 2016-12-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:51
+voting-delay 2 2
+client-versions 
+server-versions 
+known-flags Authority ExitFast Guard HSDir NoEdCE250450D838EBopinion01
+dir-source test001a E6D1A40B8273D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3082AD724B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 7004
+m Dh1Et490HWPXc6sRR3g
+s ExitExit Fast Named t Named HSDir RuExit Fast Named Named Runniconmed Named  Named t Named HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject 12HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject 12Dir VaRunnicontaject 12HSDir RuExit Fast Named Named Runniconmed Named  Fast Named t Named HSDir RuExit Fast Named Named Runniconmed Named  Named t Named HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject 12HSDir RuExit Fast Named Named Runniconmed Na Fast Guard HSDir NoEdCE250450D838EBopinion01
+dir-source test001a E6D1A40B8273D68C17B5F43B6FFA9690B044561E 127.0.0.1 9223372036854775936.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3082AD724B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 7004
+m Dh1Et490HWPXc6sRR3g
+s ExitExit Fast Named t Named HSDir RuExit Fast Named Named Runniconmed Named  Named t Named HSDir RuExit Fast Named Named Runnictest001a E6D1A40B8273D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3082AD724B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 2147483648 7004
+m Dh1Et490HWPXc6sRR3g
+s ExitExit Fast Named t Named HSDir RuExit Fast Named Named Runniconmed Named  Named t Named HSDir RuExit Fast Named Named Runniconmed Named Runnicos ExitExit Fast Named t Named HSDir RuExit Fast Named Named Runniconmed Named  Named t Named HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject 12HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject 12Dir VaRunnicontaject 12HSDir RuExit Fast Named Named Runniconmed Named  Fast Named t Named HSDir RuExit Fast Named Named Runniconmed Named  Named t Named HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject 12HSDir RuExit Fast Named Named Runniconmed Named  Named t Named HSDir RuExit Fast Named N0938463463374607431768211457HSDir RuExit Fast Named Named Runniconmed Named  Fast Named t Named HSDir RuExit Fast Named Named Runniconmed Named  Named t Named HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject 12HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject 12Dir VaRunnicontaject 65550HS RuExit Fast Named Named Runniconmed Named Runnicontaject 0Dir VaRunnicontaject 12HSDir RuExit Fast Named Named  Named t Named HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject 11HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject 12Dir VaRunnicontaject 65550HS RuExit Fast Named Named Runniconmed Named Runnicontaject 12Dir VaRunnicontaject 12HSDir RuExit Fast Named Named Runniconmed Named  Fast Named t Named HSDir RuExit Fast Named Named Runniconmed Named  Named tó €¼ Named HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject --597101696552HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject 11Dir VaRunnicontaject 65535HSDir RuExit Fast Named Named Runniconmed Named Runnicontaject 12Dir Valid
+v T 3
+pvote-status consndwidth=
+directory-signaturet002r L+ZOaQgGV-340282366920--5524450761853VBrEs

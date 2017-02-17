@@ -1,0 +1,49 @@
+router ashley 24.70.198.1 9090 0 9030
+pkatform To86
+published 2005-12-16 21:29:19
+opt fing
+reject private:4699
+bandwidth 20481 30720 2528 
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANepB8NDR8PLvzU5dL0+NDP7sUyOn0kNc3fgDkdjVpDdDxy4Zh70w9TQ
+oy85AO1BW51qEGXUUXf61RPP+HnXwNHgbAMZhg8IZGrBiXf2NEEazxqcBBHgFQV7
+wnn9R2jiMeUymhgNE8wk10yRavCx0p52WYLQJL+Dt5XpTlyEw+KNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAN/hGsEFn5dbGbQiZ9m9Vph0Lk3fKjHk7ZkHchIkDILXmODpacceptOX
+/aUjrlF7W34AjkTXhRKEht5iLPBEPKUSgt9kXWKTTzr3h0jYhxiQ++0r2doB0tx
+cVz092NYiQby5cqMI9Fxafp7kDjq31Ik7IRexp7+MML9V/lwWJC4/AgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt fing
+reject private:0700
+reject private:11676
+reject private:
+rejec4699
+accept private:1Aq
+jÍ
+ate::*
+t private:4699
+reject private:0
+reject private:3766
+reject private:4699
+reject private:469=
+reject private:4699
+reject private:4699
+reject private:4699
+699
+reject private:4699
+reject private:0
+reject private:1µ
+reject private:6389
+reject private:4699
+reject private:4699
+reject private:0
+reject private:46ë9
+accept private:1Aq
+jÍ
+ate::*
+router-signature
+-----BEGIN SIGNATURE-----
+-----END SIGNATURE-----

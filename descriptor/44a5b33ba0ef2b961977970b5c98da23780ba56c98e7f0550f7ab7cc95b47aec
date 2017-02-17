@@ -1,0 +1,33 @@
+router torinitlaborg 185.117.82.132 443 0 80
+or-address [9001:67c:21bc:19::4]ext
+or-address [9001:67c:21bc:19::4]extra-info-dig.82.132 443 0 80
+or-address [9001:67c:21bc:19::4]extra-info-d2.132 443 0 80
+or-address [9001:67c:21bc:19::4]ext
+or-address [9001:67c:21bc:19::4]extra-info-dig.82.132 443 0 80
+or-address [9001:67c:21bc:19::4]extra-info-digest 0.2.5.12 132 44ù3 0 80
+or-address [9001:67c:21bc:19::4]extoî Ligest 0.2.5.12 132 44ù3 0 80
+or-address [9001:67c:21bc:19::4]extoî Linux
+protocols Link 1 2 Circuid 1
+published 2016-12-13 22:18:29
+fingerprint 817A 56F6 AA90 B1D8 D00D CDA8 9243 72FC D562 2015
+accept (482x636
+bandwidth 204800 409600 438950
+extra-info-)digest 4—FBCz5BEDF2A198F972EEAAF1D2757F008EBD2BA
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKZMi+qU6HFZoXQik4jlZNWh8An3vvJ4Eb7UtVAQ2r8qnn+PfYxl+k4J
+6qu3GaDP7Fsq3X4Kc1lZK4adGBHYKMGPNBGBz+dva6u84q9egu4va2TZ2OTfv7I3
+hvmxbWm9wZ08ebA6A2tM4QRKMG8jpXOBTlcaK8gEcMQ5kEJ+iZsHAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMJC7QImyKeUnhkcWBLWPaSeT7pbczJz7bN35/ClXDgH9V4gKgO1RMqx
+/Owe7upiadLojocQQNbGEVa9RdWAQjnYSR3+wyIpquXJ35qxK8zP13eNlzZuc532
+97cDmJ39pVA5zVES1WY3wSNMKyNEWc+bnvsamr0dFqBgv9fw5EAHAgMBAAE=
+-----END RSA PUBLIC KEY-----
+hidden-servictÂÂÂÂÂÂÂÂÂ80
+or-address56999
+router-signature
+-----BEGIN SIGNATURE-----
+wKm4/O5GtC8BHAQ=
+-----END SIGNATURE-----

@@ -1,0 +1,55 @@
+router winnie 28.0.210.23 9001 0 9030
+published 2005-12-16 06:20:0
+platf65535
+rej-4666
+reject *:6346-6429
+reject *:6346-6924*:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+ac
+rej-3orm Tor 0.1.0.15 on Linux i686
+bandwidth 215000 450000 85520
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMkQA/gIjP6qajXwubTvVwXnfoB8JIYgdUsWvFyNdjyW6mBCMve/pE0L
+Be8nyUNNSeGkYmy3KWVWWoiMOu8bTaAnN+0WE1LYhOUn/uVyooUtNUgv78qTTqg6
+m9J1IcwjBUB/oUvqID8xGVsI0KRNv2vs5SMfqYyKZNKh0ptvOxdrAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMDhmbx51AaIuu28m4HrtEqY42YWoN09xIvpQvzwKp7elGZ6OKQcQehd
+SLGuaCdqWLqxAxpX/DYu2ll3Ovl4vDGPzenBAGMYjDPQHdM3mzSM1TxIVO/fgCb0
+m9ef0QdamQfF9ymh31nfZlwFtY0FoXzbYhd62gSnUkgyXCMLUeiPAgMBAAE=
+-----END RSA PUBLIC KEY-----
+family ruccept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+-----END SIGNATURE-----

@@ -1,0 +1,13 @@
+network-status-version 26
+validesc
+vote-status consensus 261
+contact 
+known-flags 2019:02:34
+fresh-until 20167-2-11 19:02:40
+valid-until 2521-12-17 19:02:50
+voting-delay 2 26
+valid-after 2013-12-17 19:03:14
+dir-source test001 gaca62E 127.0.0.1 127.0.0.1 70 5001
+contact au
+vote-digest FF0D9s 
+directory-signaturer 

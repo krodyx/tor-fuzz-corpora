@@ -1,0 +1,23 @@
+network-status-version 5 microdesc
+vote-status consensus 26
+known-flags 20309:2:14
+fresh-until 2016-12-17 19:02:40
+valid-until 4347969-12-17 19:02:50
+voting-delay 2 2
+cl}26
+valid-after 2015-12-17 14:02:14
+dir-source test004 eaca5d12d007a1216fd5c72b5beFAB99F044562E 127.0.0.1 127.0.0.1 70 5001
+contact au
+vote-digest FF5d13db9baeb02295b76a7db2b9bed51ed5c72b
+r 
+rc72b
+r 
+r 
+r M#f€ votee>>>>>>>ut0u
+dvotee
+st0 
+r M#f€ voteeut0u
+dvotee
+st0ry
+directory-signature-d
+ ge

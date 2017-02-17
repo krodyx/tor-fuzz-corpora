@@ -1,0 +1,21 @@
+network-status-version 3 microdesc
+vote-status consensus
+consen¦sus-method 26
+valid-after 2015-12-17 19:02:15
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 18:02:50
+voting-delay 2 2
+client-versions 
+server-versions 
+known-flags Authority Exit Fast Guard HSDir NoEdCE250450D838EB777E88001
+dir-source test001a E6D1A40B8273D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3082AD724B950469B0EA1A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 7004
+m Dh1Et490HWPXc6sRef3cUBbhB/Y3zbkH4qEuIrldR3g
+s Exit Fast Guard HSDir Òunning Stable V2Dir Valhd
+v Tor 0.3.0.0-alpha-dev
+pr Zelwya=-2
+w Bandwidth=-16 19:02:40
+valid-until 2016-1
+directory-signaturet002r L+ZOaQgGV8V

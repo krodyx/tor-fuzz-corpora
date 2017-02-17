@@ -1,0 +1,57 @@
+router ashley 24.70.198.77 9090 0 9030
+plrc platform To86
+published 2005-03-16 22:29:10
+ tfonpig
+accept private:6483
+accept private:0Aq
+accept private:1Aqa83
+accept private:3
+accept private:0Aq
+accept private:0Aqa83
+accept private:0Aq
+accept private:0Aq
+j131814284npig
+accept private:6483
+accept private:0Aq
+accept private:1Aqa83
+accept private:3
+accept private:0Aq
+accept private:0Aqa83
+accept private:0Aq
+accept private:0fonpig
+accept private:6483
+accept private:0Aq
+accept private:1Aqa83
+accept private:3
+accept private:0Aq
+accept private:0Aqa83
+accept private:0Aq
+accept private:0Aq
+j131814284npig
+accept private:6483
+accept private:0Aq
+accept private:1Aqa83
+accept private:3
+accept private:0Aq
+accept private:0Aqa83
+accept private:0Aq
+accept private:0
+bandw
+bandwidth 20480 30720 25280
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANepB8NDR8PLvzU5dL0+NDP7sUyOnt 0kNc3fgDkpDjVddDxy8Zh70w9TQ
+oy85AO0BW51qEGXUUXf61RPP+HnXwNHgbAMZhaccept privNEEazxqcBBHgFQV3
+wnn9R2jUiymMehgNE8wk09yRvW052CxpaYLQJL+DXplTt5yEw+KNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAN/hGEsFn5dbGbQiZ9m9Vph0Lk3fKjHk7ZkHchIkDILXmODpacceptOX
+/aUjrlF8W34AjkTXhRKEht5iLPBEPKUSgt9kXWKTTzr8h0jYhxiQ++pf2doB0tx
+cVz092NYiQby5cqMI9Fxafp7kDjq31Ik7IRexp7+MML9V/lwWJC4/AgMEBAA=
+-----END RSA PUBLIC KEY-----
+
+router-signature
+-----BEGIN SIGNATURE-----
+wM0tVSkYc231=
+-----END SIGNATURE-----

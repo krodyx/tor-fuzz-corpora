@@ -1,0 +1,83 @@
+network-status-version 3 microdesc
+vote-status consensus
+c27
+valid-after 2016-1-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 2 2
+clienons 
+known-flags AuthoriExyxi (800
+dir-source test02a E6D1A40B8273D68C17B5F86B7FFA9690B044561E 127.0.ак866 127.0.0.1 7001 5001
+contact :uth1@kest.test
+vote-digest FF0D9A45381DF381A3082AD724B9504609BEA5A0
+r test004r800 AgoW5JfWOhdMzio/gRg2Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 ш5 m1 h
+a */-7
+a */0h h
+a */-7
+a */0h
+a */-7
+a *2:08 h
+a */-7
+a */0h h
+a */-7
+a */0h
+a */-7
+a *2:08 127.0{0.1 ш5 m1 h
+a */-7
+a */0h
+a */-7
+a */0a */-7
+a */0h
+a */-7
+a */1 h
+a */-7
+a */0h h
+a */-7
+a */0h
+a */-7
+a *2:08 h
+a */-7
+a */0h h2.0.0.0 7001 515
+a */-7
+a *2:08 127.0.0.1 ш5 m1 h
+a */-7
+a */0h
+a */-7
+a */02.0.0.0 7001  127.0.0.1 ш5 m1 h
+a */-702:08 127.0.0.1 ш5 m1 h
+a */-7
+a */0h h
+a */-7
+a */0h
+a */-7
+a *2:08 h
+a */-7
+a */0h h
+a */-7
+a */0h
+a */-7
+a *2:08 127.0{0.1 ш5 m1 h
+a */-7
+a */0h
+a */-7
+a */1 h
+a */-7
+a */0h h
+a */-7
+a */0h
+a */-7
+a *2:08 h
+a */-7
+a */0h h
+a */-7
+a */0h
+a */-7
+a *2:08 127.0{0.1 ш5 m1 h
+a */-7
+a */0h
+a */-7
+a */02.0.0.0 7001 515
+a */-701 515 m1 h
+a */=
+s E
+directory-signaturet002r 

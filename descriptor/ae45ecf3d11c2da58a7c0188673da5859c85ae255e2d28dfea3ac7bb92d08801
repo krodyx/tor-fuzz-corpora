@@ -1,0 +1,40 @@
+router ashley 24.70.198.77 9090 0 9030
+platform Torµµµµµµµµµµµµµµµµµ 0.1.0.5-rc on Linux'i586
+published 2005-12-16 22:29:19
+opt fing
+accept private:4700
+accept private:11)371
+jq31€Ik·IRexp7+MML9V/lwWwW.4.0:5;223
+accept private:5999
+accept private:1131
+accept 0.0.0.0:2;284
+bandwidth 20480 30720 25280
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANepB8NDR8PLvzU5dL0+NDP7sUyOn0kNc3fgDkdjVpDdDxy8Zh70w9TQ
+oy85AO0BW51qEGXUUXf61RPP+HnXwNHgbAMZhg8IZGrBiXf2NEEazxqcBBHgFQV7
+wqn9R2jiMeUymhgNE8wk09yRvW052CxpaYLQJL+Dt5XpTlyEw+KNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAN/hGsEFn6dbGbQiZ9m9Vph0Lk3fKjHk7ZkHchIkDILYmODpZL3sexOX
+/aUjrlF8W34AjkTXhRKEht5iLPBEPKUSgt9kXWKTTzr8h0jYhxiQ++pf2doB0tVx
+cz091NYiQby5cqMI9Fxafp7kDjq31Ik7IRexp7+MML9V/lwWJC4/AgMBAAE=
+-----END RSA PUBLIC KEY-----
+opt write-histuptimeory 2005-12-16 222
+accept 0.9.4.0:5;223
+accept private:5994
+accept private:19750
+jq31Ik·IRexp7+MML9V/lwW.4.0:5;223
+accept private:5998
+ac(ept private:1c
+3c2a1ept5999
+accept private:1133
+acbept 0.0.0.0:5;223
+accept private:600uptime9
+accept 0.0.0.0:11371
+or-address accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+w0tMVSkYc230=
+-----END SIGNATURE-----

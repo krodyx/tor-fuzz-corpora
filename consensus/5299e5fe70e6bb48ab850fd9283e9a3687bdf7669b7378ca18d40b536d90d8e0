@@ -1,0 +1,227 @@
+network-status-version 3 microdesc
+vote-status consensus
+consen¦sus-method 26
+valid-after 2016-12-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+client-versions 
+server-vnetwork-status-veersions 
+known-flags Authority Exit Fast Guard HSDir NoEdCE250450D838EBb77E88001
+dir-source test001a E6D1A40B8273D68C17B5F43B6FFA9690B044561E 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest FF0D9A45381DF381A3082AD724B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsgs Authority Exit s Authority Exitrsion16-12-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test000a E6D1A40B8273D6824BD950469B0EA5A0
+r test1a E6D1A40B8273D6824B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsgs Aut
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 g
+s paramsgs Authority Exit s Authority Exitrsion16-12-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test000a E6D1A40B8273D6824BD950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsg2-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSAVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test000a E6D1A40B8273D6824BD950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsg2-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test001a E6D1A40B8273D6824B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsgs Aut
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-1IN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test001a E6D1A40B8273D6824B950469B6824B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsgs Aut
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-1IN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test001a E6D1A40B8273D6824B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsgs Aut
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 g
+s paramsgs Authority Exit s Authority Exitrsion16-12-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test000a E6D1A40B8273D6824BD950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsg2-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test001a E6D1A40B8273D6824B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s p--
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PR0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsgs Aut
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 g
+s paramsgs Authority Exit s Authority Exitrsion16-12-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test000a E6D1A40B8273D6824BD950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsg2-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test001a E6D1A40B8273D6824B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s p--
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test000a E6D1A40B8273D6824BD950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsg2-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSA PRIVATE KEY-----
+repa 2015-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test001a E6D1A40B8273D6824B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsgs Aut
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 g
+s paramsgs Authority Exit s Authority Exitrsion16-12-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test000a E6D1A40B8273D6824BD950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsg2-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test001a E6D1A40B8273D6824B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsgs Aut
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-1IN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test001a E6D1A40B8273D6824B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc,F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsgs Aut
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 g
+s paramsgs Authority Exit s Authority Exitrsion16-12-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test000a E6D1A40B8273D6824BD950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsg2-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 3 2
+cl
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+urce test001a E6D1A40B8273D6824B950469B0EA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5004 70ì4
+m Dh1Eg
+s paramsgs Aut
+-----BEGIN RSA PRIVATE KEY-----
+repa 2016-122016-12-14 14:3¶:40
+-----BEGIN R14:3¶:40
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+directory-signatureority Exitrsion ˜
+--,--BEGIN votedir-key-publishe 2016-122016-

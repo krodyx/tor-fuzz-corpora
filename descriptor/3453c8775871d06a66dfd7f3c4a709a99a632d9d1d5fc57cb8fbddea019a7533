@@ -1,0 +1,180 @@
+router torinitlaborg 185.117.82.132 443 0 80
+or-address [2001:67c:21bk:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address -address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:-20bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:84443 0 80
+or-address [2001:67c:21bc:19::4]:address [2001:67c:21bc:19::4]:(4443 0 80
+or-address [2001:67c:21bc:19::4]:(443
+platte 1
+published 2016-12-13 22:18:29
+fingerprint 817A 56F6 AA90 B1D8 D00D CDA8 9243 72FC D562 2015
+uptime 4828636
+bandwidth 204800 409600 438950
+extrF008EBD2BA
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKZMi+qU6HFZoXQik4jlZNWh8An3vvJ4Eb7UtVAQ2r8qnn+PfYxl+k4J
+6qu3GaDP7Fsq3XZK1l4cK6adGBHYKMGPNBGBz+dva6u84q9egu4va2TZ2OTfv7I3
+hvmxbWm9wJ08ebA6A2tM4QRKMG8jpxOBTlcaK8gEcMQ5kEJ+iZsHAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMJC7QImyKeUnhkcWBLWPaSeT7pbczJz7bN35/ClXDgH9V4gKgO1RMqx
+/Owe7upiadLojocQQNbGEVa9RdWAQjnYSR3+wyIpquXJ35qxK8zP13eNlzZuc532
+97cDmJ39pVA5zVES1WY3wSNMKyNEWc+bnvsamr0dFqBgv9fw5EAHAgMBAAE=
+-----END RSA PUBLIC KEY-----
+hidde'n6346-642(
+reject *:6699
+reject *:6889996accept!*:*
+ipv6-policy reject 25,119,135-139,5,119,135-139,445,156999
+router-signature
+-----BEGIN SIGNATURE-----
+wKm4/nUb20JzHAQ=
+-----END SIGNATURE-----

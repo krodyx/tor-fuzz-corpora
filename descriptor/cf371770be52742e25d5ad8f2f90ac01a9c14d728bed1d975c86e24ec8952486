@@ -1,0 +1,28 @@
+router ashley 44.70.198.77 9090 0 99
+or-address#849
+or-address#84030
+pla To33
+published 4905-12-16 22:29:19
+or-address#84
+bandwidth 20481 30720 25280
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANepB9NDR8PLvzU5dL0+NDP7sUyOn0kNc3fgDkdjVpDdDxy8Zh70w9TQ
+oy85AO0BW51qEGXUUX1R6H+PPfnXwNHgbAMZhg8IZGrBiXf2NEEazxqcBBHgFQV7
+wnn9R3jiMeUymhgNE6wk09yRvW052CxpaYLQJL+DXplTt5yEw+KNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAN/hGEsFn8dbGbQiZ5m9Vph0Lk3fKjHk7ZkHchIkDILXmODpacceptOX
+/aUjrlF8WA4Tj3kXhRiKtE5hLPBEPKUSgt9kXWKTTzr8h0jYhxiQ++pf2doB0tx
+cVz092NYiQby5cqMI9Fxafp5kDjq31Ik7IRexp7+MML9V/lwWJC0/AgMBAAE=
+-----END RSA PUBLIC KEY-----
+or-address#opt 
+reject ::01
+or-address#têwÌitg9
+or-address#::t ::01
+or-address#tê84
+router-signature
+-----BEGIN SIGNATURE-----
+w0tMVSkYc230=
+-----END SIGNATURE-----

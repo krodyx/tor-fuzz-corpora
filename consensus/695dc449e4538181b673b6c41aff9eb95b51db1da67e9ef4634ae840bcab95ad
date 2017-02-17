@@ -1,0 +1,176 @@
+network-status-version 0 microdesc
+vote-status consensus
+cmetjod 26
+valid-after 2016-12-17 19:02:30
+fresh-until 2016-12-17 19:02:40
+valid-until 2016-12-17 19:02:50
+voting-delay 2 2
+client-ns 
+known-flags Authorixy Exi8001
+dir-source test001a E6D1A40B8273D69C17B5F43B6FFA9690B05E1644 127.0.0.1 127.0.0.1 7001 5001
+contact :uth1@test.test
+vote-digest FF0D9A45381DF381A3002AD724B9504609BEA5A0
+r test004r AgoW5JfWOhdMzio/gRg1Nc1F7gE 2016-12-17 19:02:08 127.0.0.1 5 h
+a U07mh
+a 7mh
+a U:
+
+a U:
+a 7mh
+a U::
+a _":
+a U07m*
+a U:
+a U::
+a _--h
+a U0
+a 7mh
+a U::
+a h
+a U::
+a _
+a U::
+a 7mh
+a 7mh
+a U::
+a h::
+a U:
+a U::
+a _--h
+a U07mh
+a 7mh
+a Ua _
+a U::
+a _":
+a :'
+a h
+a U::
+a _
+a U::
+a 7mh
+a 7mh
+a U::
+a h
+a U::
+a _
+a U::
+a _":
+a U07mh
+a Umh
+a U::
+a h
+a U::
+a _
+a U::
+a _":
+a U07mh
+a U::
+a U:
+a U::
+a _--h
+a U07mh
+a 7mh
+a Ua _
+a U::
+a _":
+a :
+a h
+a U::
+a _
+a U::
+a 7mh
+a 7mh
+a U::
+a h
+a U::
+a _
+a U::
+a _":
+a U0":
+a :
+a h
+a U::
+a _
+a U::
+a 7U::
+:
+a h
+a U::
+a _
+a U::
+a 7mh
+a 7mh
+a U::
+a h
+a U::
+a __
+a U::
+a 7U::
+:
+a h
+a U::
+a _
+a U::
+a 7mh
+a 7mh
+a U::
+a h
+a U::
+a _
+a U::
+a _":
+a :
+a h
+a U::
+a _
+a U::
+a 7mh
+a 7mh
+a U::
+a h
+a U::
+a _
+a U::
+a _":
+a U0
+a U::
+a _":
+a :
+a h
+a U::
+a _
+a U::
+a 7mh
+a 7mh
+a U::
+a h
+a U::
+a _
+a U::
+a _":
+a U07mh
+a U:a _":
+a U05mh
+a U:
+a U07mh
+a U::
+a U:
+a U::
+:
+a h
+a U::
+a _
+a U::
+a 7mh
+a 7mh
+a U::
+a h
+a U::
+a _
+a U::
+a _":
+a :
+a h
+a U:]1
+s E
+directory-signaturet002r 

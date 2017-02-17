@@ -1,0 +1,27 @@
+rendezvous-service-descriptor u0
+permanent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+secret u2
+pery
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+key
+-----BEGINmanent-ent-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALfng/krEfrBcvblDiM3PAkmwkiAKxLoTsXt3nPEzyTP6Cw+Gdr0O
+signatureN1pKiH7szk4Q1p2RabOrUHWwXmGXeDDNs00fcyU6HupgqsCoKOqCsmPac6
+/58apC64K7xHeS02wtfWJp6qiZ8i6GGu6xWXRWux+ShPgcHvkajRAgMahU8=
+-----END RSA PUBLIC KEY-----
+key
+-----BEGIN RSA PUBLIC KEY-----
+permanent-key
+-----END RSA PUBLIC KEY-----
+*ecret u2
+permanen

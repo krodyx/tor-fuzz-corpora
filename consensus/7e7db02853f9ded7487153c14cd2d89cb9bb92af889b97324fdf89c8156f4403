@@ -1,0 +1,75 @@
+network-status-version 3
+vote-status vote
+consensus-methods 13 14 15 16 17 18 19 20 22 23 24 25 26
+published 2016-12-14 14:33:15
+valid-after 2016-12-14 10:33:20
+fresh-until 2016-12-14 14:33:30
+valid-until 2016-12-14 14:33:40
+voting-delay 2 2
+recommended-relay-protocols Cons=1-2 Desc=1-2 DirCache=1HSDir=1 HSIntro=3 HSRend=1 Link=4 LinkAuth=1 Microdesc=1-2 Relay=2
+known-flags shed$vote-status14:33:17
+valw-exc-exits=0 enough-mtbf=0 ignoring-advertised-bws=0
+params 
+dir-source test000a 20EE989200EF98A75102B461DF62F01B2932C0D6 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+shared-rand-participate
+shared-rand-commit 1: sha3-25Sta0Esha3-2rand-commit 1 sB0F070F4B8CCa 0.3.0.0HSB)Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F170141156 B0F070F4B8CCB)CÿÿÿÿE989200Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F170141183460469231731687303715884105731B8CCBCCÿ8A75102B461DF62F01B2932C0D6 AAAAAFhRWA0cared-rand-commit 2 sha3-256 B0F070F4B8CCa 0.3.0.0HSB)Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F4B8CCBCCÿ8A75102B461DF62F01B2932C0D6 AAAAAFhRWA0cDGqJRfFjq4r/jJc/YHUIOij0+nwElNxAoeMc/96aHQ==
+shared-rand-commit 1 sha3-256 B0F070F>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>4B8CCa 0.3.0.0HSB)Cÿÿÿÿÿÿÿ
+shared-randjJc/YHUIOij0+nwElNxAoeMc/96aHQ==
+Gu56ed-rand-commrand-commit 1 sB0F070F4B8CCa 0.3.0.0HSB)Cu56ed-rand-commrand-commit 1 sB0F070F4B8CCa 0.3.0.0HSB)Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F170141156 B0F070F4B8CCB)CÿÿÿÿE989200Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F170141183460469231731687303715884105731B8CCBCCÿ8A75102B461DF62F0±B2932C0D6 AAAAAFhRB0F070F4B8CCBCCÿ8A75102B461DF62F01B2932C0D6 AAAAAFhRWA0cDGqJRfFjq4r/jJc/YHUIOij0+nwElNxAoeMc/96aHQ==
+shared-rand-commit ; sha3-256 B0F070F4B8CCa 0.3.0 0.3.0.0HSB)Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F4B8CCBCCÿ8A75102B461DF62F01B2932C0D6 AAAAAFhRWA0cDGqJRfFjq4r/jJc/YHUIOij0+nwElNxAoeMc/96aHQ==
+shared-ÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F170141156 B3Fÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F170141156 B0F070F4B8CCB)CÿÿÿÿE989200Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F170141183460469231731687303715884105731B8CCBCCÿ8A75102B461DF62F01B2932C0D6 AAAAAFhRWA0cared-rand-commit 2 sha3-256 B0F070F4B8CCa 0.3.0.0HSB)Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F4B8CCBCCÿ8A75102B461DF62F01B2932C0D6 AAAAAFhRWA0WA0cared-rand-commi{ 2 sha3-256 B0F070F4B8CCa 0.3.0.0HSB)Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F4B8CCBCCÿ8A75102B461DF62F01B2932C0D6 AAAAAFhRWA0cDGqJRfFjq4r/jJc/YHUIOij0+nwElNxAoeMc/96aHQ==
+shared-rand-commit 1 sha3-256 B0F070F4B8CCa 0.3.0.0HSB)Cÿÿÿÿÿÿÿ
+shared-randjJc/YHUIOij0+nwElNxAoeMc/96aHQ==
+Gu56ed-rand-commit 1 sB0F070F4B8CCa 0.3.0.0HSB)Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F170141183460469231731687303715ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿit 1 sB0F070F4B8CCa 0.3.0.0HSB)Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F170141183460469231731687303715ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ070F4B8CCB)CÿÿÿÿE989200Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F170141183460469231731687303715884105731BF4B8CCa 0.3.0.0HSB)Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F170141183460469231731687303715ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿit 1 sB0F070F4B8CCa 0.3.0.0HSB)Cÿÿÿÿÿÿÿ
+shared-rand-commit 1-----END sha1 -256 B0F070F170141183460469231731687303715ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ328572C71E5590BBA19775593 AAAAAFhRWA3m0FqChW2QP1O127y6+eKH7plganNS+SDKMLLKX4wQhP0w==
+dir-key-certificate-version 3
+dir-adtress 127.0.0.1:7000
+fingerprint 20EE989200EF98A75102B461DF62F01B2932C0D6
+dir-key-published 2016-12-14 14:32:37
+dir-key-expires 2017-12-14 14:32:37
+dir-identity-key
+-----BEGIN RSA PUBLIC KEY-----
+MIIBigKCAYEA5glZmh23H8w3dNN9+7npp/Yt3gVLdUAlPzMkZVmDsdk7U4AalcFs
+pDRvyJ3gToqx6jPMtXJ9s0t/NZMPvOGxu4K+XpwyDvjuGTe4JT1O2kTHYvSrkorp
+9+uRF6i3s8RE4y7awqleI80rBP7+Gh4we1H2kEqfg4kKmBAQR3+hYbE0+hnB3Is3
+3aJVeyvrjR2Cal/YoTQ4WAmlHCCKzuAZkNg/xPCed4SETOcigc1czQBP4YxOHofL
+KlUmXh5ExmIcjWp8h3ZAm/JFZpSIgXAaU928Xwo3pqjvyxdHNmwJshXOFt6h/xbJ
+nyMCfaimcQC5WJeJ3at5ddi//Li8axZDJFTHaPgikGTOkQ+S8OU7usma2/ydZZR9
+88BPHAVY8CpfTnJiXDOMJaYiKTzqpVa+q5xxt+sqwz0nCxlU6Wih/qTXyhh4vtV1
+RxrpcUY0avglPNgDsA9qY7zxhUPa/wwjAmdpV7QY7Qf2iFJfQBfkVDHtjBuJijJY
+q5solPwh450VAgMBAAE=
+-----END RSA PUBLIC KEY-----
+dir-signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAuMzLRl7JvBDnwpbStvdZWM1fmZOvgpDjn8pNuk80deU9DGOmosvI
+9Lxpw0/m/z1p/xzP2LchoaclM0x0z0IIc7bMEpbRMfvKzi4ekP/5IoJwENr6Jk95
+9BZX6n5nof1SLrteffjPYtGA1jzhSc0JQLvMSdyrsNa87FHPm8GxB8iGM0QbShEX
+6RpHRXz/qh2IcEWHqL0wuHG2Z/ZVimT8cbM6jxcIjyxl7IwLhDWxoHTuk9+3+1Kc
+FJQ+CO3OA3wWFHgJRdCUcJMUYGr8lYNFE/0sF7Rto5PkQsIw5ujgplPidH1rjglY
+Hjjoz6J0hHkpok2DYb+Z6A1J5D6vWIuq4QIDAQAB
+-----END RSA PUBLIC KEY-----
+dir-key-crosscert
+-----BEGIN ID SIGNATURE-----
+q5WbVVBbffOb+Tc3TaBHU+c+Ha7N/jtv5AIxVzpsf4lKICPQ==
+-----END ID SIGNATURE-----
+dir-key-certification
+-----BEGIN SIGNATURE-----
+eFXQ8zzm5dM65535EWtPCquab4tDufLcnlkM4d+odKYFN8ovlxb+p+h4QD
+-----END SIGNATURE-----
+directory-signatureng Stab
